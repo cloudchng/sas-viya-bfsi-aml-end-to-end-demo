@@ -1,0 +1,11 @@
+Country_Code,Country_Name,Risk_Level,Risk_Score
+AF,Afghanistan,High,95
+KP,North Korea,High,98
+IR,Iran,High,90
+SY,Syria,High,85
+KY,Cayman Islands,Medium-High,75
+PA,Panama,Medium-High,70
+CH,Switzerland,Low,20
+SG,Singapore,Low,15
+US,United States,Low,10
+GB,United Kingdom,Low,12

@@ -1,0 +1,15 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data Files (Keep large generated CSVs out if you prefer, but usually included for small/medium demos)
+# data/*.csv
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# SAS artifacts (if any)
+*.log
+*.lst
