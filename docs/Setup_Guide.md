@@ -1,104 +1,92 @@
-# SAS Viya 4 BFSI AML Demo: Setup Guide
+# SAS Viya 4 BFSI AML Demo: Advanced Setup Guide
 
-This guide provides step-by-step instructions to implement a modern Anti-Money Laundering (AML) demonstration on the latest **SAS Viya 4** platform.
+This guide provides deep-dive, click-by-click instructions to implement the **Multi-Layered Shield** AML demonstration.
 
-## Prerequisites
-- **SAS Viya 4** (Latest Release)
-- **Licensed Components**: SAS Visual Analytics, SAS Model Studio (VDMML), SAS Intelligent Decisioning.
-- *Note: This demo is designed for environments without SAS Visual Investigator.*
+## 🛠️ Step 1: Data Ingestion (SAS Data Explorer)
+*Goal: Load core banking and regulatory reference tables into memory (CAS).*
 
----
-
-## Step 1: Data Ingestion & Reference Assets
-The synthetic data is located in the `/data` directory. We use a combination of transactional data and regulatory reference tables.
-
-1. **Upload CSVs**: Log in to SAS Viya and open **SAS Drive**.
-2. **Import to CAS**:
-   - Go to **Manage Data** (SAS Data Explorer).
-   - Import the following core files into the `Public` Caslib:
-     - `aml_customers.csv`
-     - `aml_accounts.csv`
-     - `aml_transactions.csv`
-     - `aml_watchlist.csv`
-     - `aml_risk_history.csv`
-   - **Import Reference Data** (for the Multi-Layered Shield):
-     - `aml_exclusions.csv`: Trusted entities to skip screening.
-     - `aml_country_risk.csv`: High-risk jurisdiction mapping (Risk Scores 0-100).
-     - `aml_pep_list.csv`: Politically Exposed Persons (PEPs).
+1. **Navigate**: Click the **Applications Menu** (hamburger icon, top-left) -> **Manage Data**.
+2. **Import Core Data**:
+   - Click the **Import** tab.
+   - Select **Local files** -> **Microsoft Excel/CSV**.
+   - Upload the core files: `aml_customers.csv`, `aml_accounts.csv`, `aml_transactions.csv`, `aml_watchlist.csv`, `aml_risk_history.csv`.
+   - **Target Location**: Select `Public` as the Caslib.
+   - Click **Import Item** for each file.
+3. **Import Reference Data**:
+   - Repeat for: `aml_exclusions.csv`, `aml_country_risk.csv`, `aml_pep_list.csv`.
+4. **Validation**: Click the **Available** tab. Search for "aml_". You should see all 8 tables with a green checkmark indicating they are loaded in memory.
 
 ---
 
-## Step 2: Data Preparation (SAS Studio)
-To build a high-quality model, we need a flattened Analytic Base Table (ABT) that includes behavioral features.
+## 🏗️ Step 2: ABT Engineering (SAS Studio)
+*Goal: Join relational tables into a single Analytic Base Table (ABT).*
 
-1. Open **SAS Studio**.
-2. **Join Core Tables**:
+1. **Navigate**: Click **Applications Menu** -> **Develop SAS Code** (SAS Studio).
+2. **Setup**:
+   - Expand **Libraries** -> **Public** in the left pane.
+   - Right-click the `Public` library -> **New Program**.
+3. **Action**: Paste the following script and click the **Run** icon (Running Man):
    ```sas
-   /* Example SAS Code for Enhanced ABT */
    data Public.AML_ABT;
      merge Public.aml_transactions(in=a) 
            Public.aml_accounts(in=b rename=(customer_id=acc_cust_id))
            Public.aml_customers(in=c);
      by account_id;
-     
-     /* Feature Engineering for Peer Comparison */
      turnover_ratio = amount / expected_monthly_turnover;
      if a;
    run;
    ```
+4. **Validation**: Check the **Log** tab for "NOTE: The data set PUBLIC.AML_ABT has 75000 observations".
 
 ---
 
-## Step 3: Advanced Modeling (Model Studio)
-Implement a **Champion/Challenger** strategy to show the evolution from basic heuristics to advanced AI.
+## 🧠 Step 3: Champion/Challenger Strategy (Model Studio)
+*Goal: Train multiple models to detect complex "Smurfing" and "Velocity" patterns.*
 
-1. **Create the Champion Model**:
-   - Build a **Logistic Regression** node (Standard, interpretable method).
-   - Set as "Champion".
-2. **Create the Challenger Model**:
-   - Build an **XGBoost** or **Gradient Boosting** node.
-   - Fine-tune to detect "Velocity Abuse" and "Income Inconsistency" typologies.
-3. **Compare & Publish**:
-   - Use the **Model Comparison** node.
-   - Publish the winning model to the **SAS Micro Analytic Service (MAS)** or **CAS Pipeline**.
-
----
-
-## Step 4: The 5-Stage "Multi-Layered Shield" (SAS Intelligent Decisioning)
-This is the core of the demo. Construct a decision named `AML_Shield_Orchestration`.
-
-### Stage 1: Pre-qualification (Exclusions)
-- **Node**: Rule Set or Filter.
-- **Logic**: Check `account_id` or `customer_id` against `aml_exclusions.csv`.
-- **Action**: If matched, set `Alert_Status = 'SKIP'` and terminate flow.
-
-### Stage 2: Real-time Feature Engineering
-- **Node**: Python or DS2 Code Node.
-- **Logic**: Calculate 24-hour velocity or 7-day average spend within the decision flow (simulating streaming capabilities).
-
-### Stage 3: Hybrid Detection (AI + Rules)
-- **Model Node**: Invoke the **Champion/Challenger** model from Stage 3.
-- **Rule Set Node**: Heuristics for "Low Amount Smurfing" (e.g., `amount between 9000 and 9999`).
-
-### Stage 4: Regulatory Overlay (Lookups)
-- **Lookup Node 1**: Check `country_code` in `aml_country_risk`. Get `Country_Risk_Score`.
-- **Lookup Node 2**: Check `FullName` in `aml_pep_list`. Get `PEP_Risk_Multiplier`.
-
-### Stage 5: Weighted Orchestration
-- **Node**: Rule Set.
-- **Logic**: Calculate `Global_Alert_Value`.
-  - `Global_Alert_Value = (Model_Score * 0.5) + (Country_Risk_Score * 0.3) + (PEP_Multiplier * 0.2)`.
-- **Threshold**: `IF Global_Alert_Value > 70 THEN Alert_Priority = 'URGENT'`.
+1. **Navigate**: Click **Applications Menu** -> **Build Models** (Model Studio).
+2. **Create Project**:
+   - Click **New Project**.
+   - **Data**: Click **Browse** -> Select `Public.AML_ABT`.
+   - **Target**: Set `suspicious_flag` as the Target variable.
+3. **Build Pipeline**:
+   - Click the **Pipelines** tab.
+   - Click `+` on the Data node -> **Add Node** -> **Supervised Learning** -> **Logistic Regression** (Champion).
+   - Click `+` on the Data node -> **Add Node** -> **Supervised Learning** -> **XGBoost** (Challenger).
+4. **Run & Publish**:
+   - Right-click Logistic Regression -> **Set as Champion**.
+   - Click **Run Pipeline**.
+   - Once complete, click the **Pipeline Comparison** tab.
+   - Select the XGBoost model -> **Publish** -> **SAS Micro Analytic Service**.
 
 ---
 
-## Step 5: Dashboarding (SAS Visual Analytics)
-Create the "Investigator Portal" to close the loop.
+## 🛡️ Step 4: The 5-Stage Shield (Intelligent Decisioning)
+*Goal: Orchestrate model scores and regulatory lookups into a final risk decision.*
 
-1. **Visuals**:
-   - **Key Value**: Count of 'URGENT' alerts.
-   - **Network Diagram**: Visualize `customer_id` connections to PEPs or High-Risk countries.
-   - **Scenario Analysis**: A slider to adjust the `Global_Alert_Value` threshold and see how many "Normal" customers would be flagged.
+1. **Navigate**: Click **Applications Menu** -> **Manage Decisions**.
+2. **New Decision**: Click **New Decision**, name it `AML_Shield_Orchestration`.
+3. **Configure Stages**:
+   - **Stage 1 (Exclusion)**: Add a **Rule Set**. Logic: `IF customer_id IN aml_exclusions THEN Alert_Status = 'SKIP'`.
+   - **Stage 2 (Velocity)**: Add a **Code Node** (Python). Paste logic to compare `amount` against 7-day averages.
+   - **Stage 3 (AI Match)**: Add a **Model** node. Select the XGBoost model published in Step 3.
+   - **Stage 4 (Regulatory Lookup)**: 
+     - Add **Lookup** for `country_code` -> map to `aml_country_risk`.
+     - Add **Lookup** for `FullName` -> map to `aml_pep_list`.
+   - **Stage 5 (Prioritization)**: Add a **Rule Set** to calculate `Global_Alert_Value`.
+4. **Variables**: Ensure `Global_Alert_Value` and `Alert_Priority` are set as **Output** variables.
 
 ---
-**Setup Complete!** You can now proceed to the [User Walkthrough Guide](./User_Walkthrough.md).
+
+## 📊 Step 5: Investigator Dashboard (Visual Analytics)
+*Goal: Create a high-impact triage interface.*
+
+1. **Navigate**: Click **Applications Menu** -> **Explore and Visualize**.
+2. **Data**: Add `Public.AML_ABT`.
+3. **Layout**:
+   - **Key Value Object**: Drag to the top. Column: `Alert_Priority` (Count of 'URGENT').
+   - **Network Diagram**: Drag to center. Roles: `customer_id` -> `counterparty_name`.
+   - **Slider**: Map to `Global_Alert_Value`. This allows the user to see the "Alert Volume" shift in real-time.
+4. **Action**: Click **Save** as "AML Compliance Command Center".
+
+---
+**Setup Complete!** You are now ready to perform the [User Walkthrough Guide](./User_Walkthrough.md).

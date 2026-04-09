@@ -1,60 +1,64 @@
-# SAS Viya 4 AML Demo: User Walkthrough Guide
+# SAS Viya 4 AML Demo: High-Fidelity Walkthrough Guide
 
-Welcome to the **End-to-End AML Intelligence** demo. This guide is designed for users who wish to explore how SAS Viya 4 solves complex financial crime challenges using a **Multi-Layered Shield** decisioning architecture.
-
-## Scenario: Professional Compliance Lifecycle
-In this demo, we follow the story of a **Compliance Officer** managing a regional portfolio during a period of high volatility.
+This guide provides a professional "script and screen" walkthrough for the **Multi-Layered Shield** AML demonstration.
 
 ---
 
-### Phase 1: Interactive Discovery (Visual Analytics)
-*Goal: Detect anomalies at the speed of business.*
-
-1. **Dashboard Home**: Open the "AML Investigator Portal" in **SAS Visual Analytics**.
-2. **The 5-Stage Overview**: Look at the "Alert Funnel". 
-   - Observe how 100,000 transactions were processed.
-   - Stage 1 (Exclusions) removed 2,000 "Trusted" transactions.
-   - Stage 5 (Orchestration) narrowed down 50 "URGENT" alerts from a pool of 1,000 potential risks.
-3. **The 'Occupation Mismatch' Alert**: Filter by **Profession = 'Student'**.
-   - *Anomaly*: You will see a "Student" with a **Turnover Ratio > 20**.
-   - *Insight*: This student has moved over $500,000 USD in a single week—a clear indicator of "mule" activity.
-4. **Network Visualization**: Select this customer. The network diagram instantly shows their connections to **Oligarch Holdings** (Stage 4 PEP/Country Risk Match).
+## 🎭 Scenario Setup
+**Presenter Persona**: Senior Compliance Strategist.
+**The Story**: We are investigating a sudden surge in suspicious transactional "velocity" across our retail portfolio.
 
 ---
 
-### Phase 2: AI-Driven Investigation (Model Studio)
-*Goal: Compare the Human Rule vs. the AI Model.*
+## 📍 Phase 1: Interactive Discovery (Visual Analytics)
+*Goal: Identify the 'High-Risk Student' anomaly.*
 
-1. **The 'Champion vs Challenger' View**: Switch to **SAS Model Studio**.
-2. **The Battle of Models**:
-   - **Logistic Regression (Champion)**: Show how it caught the standard cases.
-   - **XGBoost (Challenger)**: Show how this model caught the **"Rapid Velocity"** patterns (Stage 2 Features) that the regression missed. 
-3. **Interpretability**: Use the **LIME/Feature Importance** plots to show exactly why the Student was flagged (High velocity + Counterparty country).
-
----
-
-### Phase 3: The Multi-Layered Shield (Intelligent Decisioning)
-*Goal: Transparency in the 'Black Box'.*
-
-1. **The Live Pipeline**: Open the **"AML_Shield_Orchestration"** flow in **SAS Intelligent Decisioning**.
-2. **Step Through the Layers**:
-   - **Stage 1 (Exclusions)**: Point to the "White List" filter. "We saved our analysts from reviewing 2,000 government-backed transactions here."
-   - **Stage 2 (Real-time Features)**: Show the Python node calculating the 7-day velocity.
-   - **Stage 4 (Regulatory Overlay)**: Open the Lookup table for `aml_country_risk`. "Notice how transactions from High-Risk jurisdictions automatically receive a risk weight bump."
-3. **The 'Global Alert Value'**: Show how the final score is a weighted average of Model, Country, and PEP risk. 
+1. **Dashboard Home**: Open the **AML Compliance Command Center**.
+2. **The Funnel (Visual Cue)**: Point to the **Stage-by-Stage Funnel Chart**.
+   - **Talk Track**: *"Notice our 'Multi-Layered Shield' in action. Out of 100,000 transactions, Stage 1 exclusions instantly removed 2,000 entities we trust, like government payrolls, freeing up our analysts for real threats."*
+3. **The Deep Dive**:
+   - **Click**: On the **Profession** list filter, select **'Student'**.
+   - **Visual Outcome**: The network diagram and line charts will filter instantly.
+   - **Talk Track**: *"Look at this specific cluster. We have a student moving $500,000 USD in a single week. To our old rules engine, this might just look like a high-value transaction. To our Multi-Layered Shield, it's a red flag."*
+4. **Counterparty Risk**: Hover over the counterparty link in the **Network Diagram**.
+   - **Visual Cue**: See the connection to "Oligarch Holdings".
+   - **Talk Track**: *"By Stage 4, our system has already flagged the counterparty as a known high-risk entity in a sanctioned jurisdiction."*
 
 ---
 
-### Phase 4: Final Disposition
-*Goal: Closing the Loop.*
+## 🔬 Phase 2: AI-Driven Investigation (Model Studio)
+*Goal: Show why the AI (Challenger) caught what the Heuristics (Champion) missed.*
 
-1. Return to the **Visual Analytics Alert Dashboard**.
-2. **Resolution**: Present the evidence to the audience. "We have high-confidence detection (XGBoost) combined with Regulatory context (Country Risk). We can now file a SAR with complete confidence."
+1. **The Pipeline**: Switch to **SAS Model Studio** -> Pipeline tab.
+2. **Comparison (Visual Cue)**: Point to the **Model Comparison** node results.
+   - **Talk Track**: *"While our standard Logistic Regression caught the obvious outliers, our XGBoost Challenger detected the 'Smurfing' pattern—small deposits that stay just below the regulatory $10k limit but total to massive sums."*
+3. **Interpretability**: Click on the **XGBoost** node -> **Results** -> **Variable Importance**.
+   - **Visual Outcome**: `Turnover_Ratio` and `Velocity_7D` are at the top.
+   - **Talk Track**: *"The system isn't a black box. It tells us clearly: this alert was triggered primarily because the income doesn't match the profession."*
 
 ---
 
-## Key Business Takeaways
-- **Precision**: Reducing false positives by 40% through Champion/Challenger testing.
-- **Explainability**: Moving from "Black Box" detection to a multi-layered, auditable shield.
-- **Agility**: Changing reporting thresholds via Lookups (Stage 4) without writing a single line of code.
-- **Efficiency**: Filtering out low-risk throughput in Stage 1 to focus on real threats.
+## 🛡️ Phase 3: The Multi-Layered Shield (Intelligent Decisioning)
+*Goal: Explain the orchestration logic.*
+
+1. **The Decision Flow**: Open **AML_Shield_Orchestration** in **SAS Intelligent Decisioning**.
+2. **Stage 4 Detail**: Click on the **Lookup node** for `aml_country_risk`.
+   - **Visual Cue**: Table showing 'North Korea (KP)' with a risk score of 98.
+   - **Talk Track**: *"In Stage 4, we apply a high-risk jurisdiction multiplier. Because this transaction involved a connection to North Korea, the Global Alert Value was pushed into the 'URGENT' category automatically."*
+3. **Decision Outcome**: Show the final **Rule Set** node.
+   - **Talk Track**: *"Finally, in Stage 5, we assign a priority. This student didn't just get an alert; they got an URGENT priority, ensuring they are at the top of the analyst's queue this morning."*
+
+---
+
+## 🏁 Phase 4: Final Disposition
+*Goal: File the SAR (Suspicious Activity Report).*
+
+1. **Return to VA**: Open the **Alert Triage** tab in the dashboard.
+2. **Disposition**: Click the "Urgent" row for the Student customer.
+   - **Talk Track**: *"With the model's evidence, the PEP match, and the velocity data, we have a complete audit trail. We can now submit this SAR with 100% confidence, backed by SAS Viya's integrated intelligence."*
+
+---
+## 💡 Top 3 Takeaways for the Audience
+1. **Reduce Noise**: Stage 1 Exclusions save thousands of analyst hours.
+2. **See the Unseen**: AI Challengers find complex patterns (Smurfing/Velocity) that rules miss.
+3. **Unified Platform**: We moved from raw data to a filed SAR in one integrated environment.
