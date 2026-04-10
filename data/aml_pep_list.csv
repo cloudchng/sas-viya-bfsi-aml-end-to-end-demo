@@ -1,6 +1,6 @@
-PEP_ID,FullName,Position,Country,Risk_Level,ES,AE,CN,IT
-PEP_001,John Doe Senior,Minister of Finance,CA,High,,,,
-PEP_002,Maria Garcia,Central Bank Governor,,High,OH,,,
-PEP_003,Ahmed Al-Fayed,Energy Oversight Board,,High,,Medium-High,,
-PEP_004,Chen Wei,Provincial Governor,,High,,,High,
-PEP_005,Elena Rossi,Ambassador,,Medium,,,,Medium
+PEP_ID,FullName,Position,Country,Risk_Level
+PEP_001,John Doe Senior,Minister of Finance,CA,High
+PEP_002,Maria Garcia,Central Bank Governor,ES,High
+PEP_003,Ahmed Al-Fayed,Energy Oversight Board,AE,High
+PEP_004,Chen Wei,Provincial Governor,CN,High
+PEP_005,Elena Rossi,Ambassador,IT,Medium

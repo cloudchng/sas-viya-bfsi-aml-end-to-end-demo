@@ -27,14 +27,22 @@ This guide provides deep-dive, click-by-click instructions to implement the **Mu
    - Right-click the `Public` library -> **New Program**.
 3. **Action**: Paste the following script and click the **Run** icon (Running Man):
    ```sas
-   data Public.AML_ABT;
-     merge Public.aml_transactions(in=a) 
-           Public.aml_accounts(in=b rename=(customer_id=acc_cust_id))
-           Public.aml_customers(in=c);
-     by account_id;
-     turnover_ratio = amount / expected_monthly_turnover;
-     if a;
-   run;
+    /* Connect to CAS and assign the PUBLIC libref */
+    cas mysess;
+    libname Public cas caslib="Public";
+
+    /* Create the Analytic Base Table (ABT) using high-performance FEDSQL */
+    proc fedsql sessref=mysess;
+       create table Public.AML_ABT {options replace=true} as
+       select 
+          t.*, 
+          a.customer_id as acc_cust_id, 
+          c.name, c.segment, c.kyc_risk_rating, c.nationality, c.profession, c.expected_monthly_turnover,
+          (t.amount / c.expected_monthly_turnover) as turnover_ratio
+       from Public.aml_transactions as t
+       left join Public.aml_accounts as a on t.account_id = a.account_id
+       left join Public.aml_customers as c on a.customer_id = c.customer_id;
+    quit;
    ```
 4. **Validation**: Check the **Log** tab for "NOTE: The data set PUBLIC.AML_ABT has 75000 observations".
 

@@ -1,4 +1,4 @@
-Entity_ID,Reason,Date_Added
+customer_id,Reason,Date_Added
 CUST_TRUST_001,Government Entity,2023-01-01
 CUST_TRUST_002,Interbank Settlement,2023-01-01
 CUST_TRUST_003,Public Utility,2023-05-15

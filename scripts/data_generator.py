@@ -21,10 +21,10 @@ print("Generating Reference Data...")
 
 # 1. Exclusions (Trusted Entities)
 exclusions_data = [
-    {'Entity_ID': 'CUST_TRUST_001', 'Reason': 'Government Entity', 'Date_Added': '2023-01-01'},
-    {'Entity_ID': 'CUST_TRUST_002', 'Reason': 'Interbank Settlement', 'Date_Added': '2023-01-01'},
-    {'Entity_ID': 'CUST_TRUST_003', 'Reason': 'Public Utility', 'Date_Added': '2023-05-15'},
-    {'Entity_ID': 'ACC_EXCL_999', 'Reason': 'Central Bank Operations', 'Date_Added': '2023-02-10'}
+    {'customer_id': 'CUST_TRUST_001', 'Reason': 'Government Entity', 'Date_Added': '2023-01-01'},
+    {'customer_id': 'CUST_TRUST_002', 'Reason': 'Interbank Settlement', 'Date_Added': '2023-01-01'},
+    {'customer_id': 'CUST_TRUST_003', 'Reason': 'Public Utility', 'Date_Added': '2023-05-15'},
+    {'customer_id': 'ACC_EXCL_999', 'Reason': 'Central Bank Operations', 'Date_Added': '2023-02-10'}
 ]
 pd.DataFrame(exclusions_data).to_csv('data/aml_exclusions.csv', index=False)
 
@@ -46,10 +46,10 @@ pd.DataFrame(country_risk_data).to_csv('data/aml_country_risk.csv', index=False)
 # 3. PEP List
 pep_data = [
     {'PEP_ID': 'PEP_001', 'FullName': 'John Doe Senior', 'Position': 'Minister of Finance', 'Country': 'CA', 'Risk_Level': 'High'},
-    {'PEP_ID': 'PEP_002', 'FullName': 'Maria Garcia', 'Position': 'Central Bank Governor', 'ES': 'OH', 'Risk_Level': 'High'},
-    {'PEP_ID': 'PEP_003', 'FullName': 'Ahmed Al-Fayed', 'Position': 'Energy Oversight Board', 'AE': 'Medium-High', 'Risk_Level': 'High'},
-    {'PEP_ID': 'PEP_004', 'FullName': 'Chen Wei', 'Position': 'Provincial Governor', 'CN': 'High', 'Risk_Level': 'High'},
-    {'PEP_ID': 'PEP_005', 'FullName': 'Elena Rossi', 'Position': 'Ambassador', 'IT': 'Medium', 'Risk_Level': 'Medium'}
+    {'PEP_ID': 'PEP_002', 'FullName': 'Maria Garcia', 'Position': 'Central Bank Governor', 'Country': 'ES', 'Risk_Level': 'High'},
+    {'PEP_ID': 'PEP_003', 'FullName': 'Ahmed Al-Fayed', 'Position': 'Energy Oversight Board', 'Country': 'AE', 'Risk_Level': 'High'},
+    {'PEP_ID': 'PEP_004', 'FullName': 'Chen Wei', 'Position': 'Provincial Governor', 'Country': 'CN', 'Risk_Level': 'High'},
+    {'PEP_ID': 'PEP_005', 'FullName': 'Elena Rossi', 'Position': 'Ambassador', 'Country': 'IT', 'Risk_Level': 'Medium'}
 ]
 pd.DataFrame(pep_data).to_csv('data/aml_pep_list.csv', index=False)
 
