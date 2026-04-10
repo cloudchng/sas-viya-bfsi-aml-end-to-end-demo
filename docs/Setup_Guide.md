@@ -44,12 +44,10 @@ This guide provides deep-dive, click-by-click instructions to implement the **Mu
        left join Public.aml_customers as c on a.customer_id = c.customer_id;
     quit;
 
-    /* 🧠 Step 2.2: Promote to Global Scope with the final name */
-    proc cas;
-       /* Drop the existing Global table (it won't touch the session STAGE table) */
-       table.dropTable / caslib="Public" name="AML_ABT" quiet=true;
-       /* Promote the session STAGE table to Global with the final name */
-       table.promote / caslib="Public" name="AML_ABT_STAGE" target="AML_ABT";
+    /* 🧠 Step 2.2: Promote to Global Scope using PROC CASUTIL (Most Robust) */
+    proc casutil incaslib="Public" outcaslib="Public" sessref=mysess;
+       promote casdata="AML_ABT_STAGE" casout="AML_ABT" replace;
+    run;
     quit;
    ```
 4. **Validation**: Check the **Log** tab for "NOTE: The data set PUBLIC.AML_ABT has 75000 observations".
