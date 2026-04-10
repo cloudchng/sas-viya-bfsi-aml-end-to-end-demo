@@ -46,7 +46,8 @@ This guide provides deep-dive, click-by-click instructions to implement the **Mu
 
     /* 🧠 Crucial: Promote the table to Global Scope so Model Studio can see it */
     proc cas;
-       table.promote / caslib="Public" name="AML_ABT" replace=true;
+       table.dropTable / caslib="Public" name="AML_ABT" quiet=true scope="global";
+       table.promote / caslib="Public" name="AML_ABT";
     quit;
    ```
 4. **Validation**: Check the **Log** tab for "NOTE: The data set PUBLIC.AML_ABT has 75000 observations".
