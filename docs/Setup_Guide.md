@@ -43,6 +43,11 @@ This guide provides deep-dive, click-by-click instructions to implement the **Mu
        left join Public.aml_accounts as a on t.account_id = a.account_id
        left join Public.aml_customers as c on a.customer_id = c.customer_id;
     quit;
+
+    /* 🧠 Crucial: Promote the table to Global Scope so Model Studio can see it */
+    proc cas;
+       table.promote / caslib="Public" name="AML_ABT" replace=true;
+    quit;
    ```
 4. **Validation**: Check the **Log** tab for "NOTE: The data set PUBLIC.AML_ABT has 75000 observations".
 
@@ -78,8 +83,8 @@ This guide provides deep-dive, click-by-click instructions to implement the **Mu
    - **Stage 2 (Velocity)**: Add a **Code Node** (Python). Paste logic to compare `amount` against 7-day averages.
    - **Stage 3 (AI Match)**: Add a **Model** node. Select the XGBoost model published in Step 3.
    - **Stage 4 (Regulatory Lookup)**: 
-     - Add **Lookup** for `country_code` -> map to `aml_country_risk`.
-     - Add **Lookup** for `FullName` -> map to `aml_pep_list`.
+     - Add **Lookup** for `nationality` -> map to `aml_country_risk` (Lookup Key: `Country_Code`).
+     - Add **Lookup** for `name` -> map to `aml_pep_list` (Lookup Key: `FullName`).
    - **Stage 5 (Prioritization)**: Add a **Rule Set** to calculate `Global_Alert_Value`.
 4. **Variables**: Ensure `Global_Alert_Value` and `Alert_Priority` are set as **Output** variables.
 
