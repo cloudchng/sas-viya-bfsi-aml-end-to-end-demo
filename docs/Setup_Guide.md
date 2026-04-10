@@ -30,10 +30,15 @@ This guide provides deep-dive, click-by-click instructions to implement the **Mu
     /* Connect to CAS and assign the PUBLIC libref */
     cas mysess;
     libname Public cas caslib="Public";
+    /* 🧠 Step 2.1: Clear any existing copies (Double-drop for maximum compatibility) */
+    proc casutil incaslib="Public" quiet;
+       droptable casdata="AML_ABT";
+       droptable casdata="AML_ABT";
+    run;
 
-    /* 🧠 Step 2.1: Create a staging table in session scope */
+    /* 🧠 Step 2.2: Create the Analytic Base Table in session scope */
     proc fedsql sessref=mysess;
-       create table Public.AML_ABT_STAGE {options replace=true} as
+       create table Public.AML_ABT {options replace=true} as
        select 
           t.*, 
           a.customer_id as acc_cust_id, 
@@ -44,9 +49,9 @@ This guide provides deep-dive, click-by-click instructions to implement the **Mu
        left join Public.aml_customers as c on a.customer_id = c.customer_id;
     quit;
 
-    /* 🧠 Step 2.2: Promote to Global Scope using PROC CASUTIL (Most Robust) */
-    proc casutil incaslib="Public" outcaslib="Public" sessref=mysess;
-       promote casdata="AML_ABT_STAGE" casout="AML_ABT" replace;
+    /* 🧠 Step 2.3: Promote to Global Scope */
+    proc casutil incaslib="Public" outcaslib="Public";
+       promote casdata="AML_ABT";
     run;
     quit;
    ```
