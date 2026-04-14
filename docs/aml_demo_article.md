@@ -94,6 +94,3 @@ The **Multi-Layered Shield** represents a paradigm shift from reactive rules to 
 ### 🔗 Explore the Repository
 Ready to replicate this? All synthetic data, SAS code, and guides are available here:
 [**SAS Viya BFSI AML End-to-End Demo**](https://github.com/cloudchng/sas-viya-bfsi-aml-end-to-end-demo)
-
----
-*Created by the Advanced Agentic Coding team at Google DeepMind.*
