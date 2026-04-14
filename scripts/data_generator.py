@@ -36,29 +36,38 @@ country_risk_data = [
     {'Country_Code': 'SY', 'Country_Name': 'Syria', 'Risk_Level': 'High', 'Risk_Score': 85},
     {'Country_Code': 'KY', 'Country_Name': 'Cayman Islands', 'Risk_Level': 'Medium-High', 'Risk_Score': 75},
     {'Country_Code': 'PA', 'Country_Name': 'Panama', 'Risk_Level': 'Medium-High', 'Risk_Score': 70},
+    {'Country_Code': 'RU', 'Country_Name': 'Russia', 'Risk_Level': 'Medium-High', 'Risk_Score': 65},
+    {'Country_Code': 'CN', 'Country_Name': 'China', 'Risk_Level': 'Medium', 'Risk_Score': 45},
     {'Country_Code': 'CH', 'Country_Name': 'Switzerland', 'Risk_Level': 'Low', 'Risk_Score': 20},
     {'Country_Code': 'SG', 'Country_Name': 'Singapore', 'Risk_Level': 'Low', 'Risk_Score': 15},
     {'Country_Code': 'US', 'Country_Name': 'United States', 'Risk_Level': 'Low', 'Risk_Score': 10},
-    {'Country_Code': 'GB', 'Country_Name': 'United Kingdom', 'Risk_Level': 'Low', 'Risk_Score': 12}
+    {'Country_Code': 'GB', 'Country_Name': 'United Kingdom', 'Risk_Level': 'Low', 'Risk_Score': 12},
+    {'Country_Code': 'MY', 'Country_Name': 'Malaysia', 'Risk_Level': 'Low', 'Risk_Score': 18},
 ]
-pd.DataFrame(country_risk_data).to_csv('data/aml_country_risk.csv', index=False)
+cr_df = pd.DataFrame(country_risk_data)
+cr_df.to_csv('data/aml_country_risk.csv', index=False)
+# Export specific 2-column version for ID Lookup
+cr_df[['Country_Code', 'Risk_Level']].to_csv('data/aml_country_risk_lookup.csv', index=False, header=False)
 
 # 3. PEP List
 pep_data = [
     {'PEP_ID': 'PEP_001', 'FullName': 'John Doe Senior', 'Position': 'Minister of Finance', 'Country': 'CA', 'Risk_Level': 'High'},
-    {'PEP_ID': 'PEP_002', 'FullName': 'Maria Garcia', 'Position': 'Central Bank Governor', 'Country': 'ES', 'Risk_Level': 'High'},
+    {'PEP_ID': 'PEP_002', 'FullName': 'Maria Garcia', 'Position': 'Central Bank Governor', '西班牙': 'ES', 'Risk_Level': 'High'},
     {'PEP_ID': 'PEP_003', 'FullName': 'Ahmed Al-Fayed', 'Position': 'Energy Oversight Board', 'Country': 'AE', 'Risk_Level': 'High'},
     {'PEP_ID': 'PEP_004', 'FullName': 'Chen Wei', 'Position': 'Provincial Governor', 'Country': 'CN', 'Risk_Level': 'High'},
     {'PEP_ID': 'PEP_005', 'FullName': 'Elena Rossi', 'Position': 'Ambassador', 'Country': 'IT', 'Risk_Level': 'Medium'}
 ]
-pd.DataFrame(pep_data).to_csv('data/aml_pep_list.csv', index=False)
+pep_df = pd.DataFrame(pep_data)
+pep_df.to_csv('data/aml_pep_list.csv', index=False)
+# Export specific 2-column version for ID Lookup
+pep_df[['FullName', 'Risk_Level']].to_csv('data/aml_pep_list_lookup.csv', index=False, header=False)
 
 # --- Core Data Generation ---
 
 print("Generating Enhanced Customers...")
 customer_ids = [f"CUST_{i:05d}" for i in range(1, NUM_CUSTOMERS + 1)]
 segments = ['Retail', 'SME', 'Corporate', 'HNWI']
-nationalities = ['USA', 'UK', 'Singapore', 'China', 'Malaysia', 'India', 'Russia', 'KP', 'IR', 'KY']
+nationalities = ['US', 'GB', 'SG', 'CN', 'MY', 'IN', 'RU', 'KP', 'IR', 'KY']
 professions = ['Engineer', 'Doctor', 'Business Owner', 'Unemployed', 'Consultant', 'Politician', 'Student']
 
 profession_income_map = {
@@ -172,7 +181,7 @@ for name in pep_names:
 
 for country in high_risk_countries:
     population = list(transactions.index[transactions['counterparty_country'] == country])
-    sample_size = min(len(population), 50)
+    sample_size = min(len(population), 20)
     if sample_size > 0:
         target_idx = random.sample(population, sample_size)
         transactions.loc[target_idx, 'suspicious_flag'] = 1

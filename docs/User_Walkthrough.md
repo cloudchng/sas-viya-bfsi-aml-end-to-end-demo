@@ -31,8 +31,8 @@ This guide provides a professional "script and screen" walkthrough for the **Mul
 
 1. **The Pipeline**: Switch to **SAS Model Studio** -> Pipeline tab.
 2. **Comparison (Visual Cue)**: Point to the **Model Comparison** node results.
-   - **Talk Track**: *"While our standard Logistic Regression caught the obvious outliers, our XGBoost Challenger detected the 'Smurfing' pattern—small deposits that stay just below the regulatory $10k limit but total to massive sums."*
-3. **Interpretability**: Click on the **XGBoost** node -> **Results** -> **Variable Importance**.
+   - **Talk Track**: *"While our standard Logistic Regression caught the obvious outliers, our Gradient Boosting Challenger detected the 'Smurfing' pattern—small deposits that stay just below the regulatory $10k limit but total to massive sums."*
+3. **Interpretability**: Click on the **Gradient Boosting** node -> **Results** -> **Variable Importance**.
    - **Visual Outcome**: `Turnover_Ratio` and `Velocity_7D` are at the top.
    - **Talk Track**: *"The system isn't a black box. It tells us clearly: this alert was triggered primarily because the income doesn't match the profession."*
 

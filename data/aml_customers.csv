@@ -1,1501 +1,1501 @@
 customer_id,name,segment,kyc_risk_rating,nationality,profession,expected_monthly_turnover
-CUST_TRUST_001,Customer 1,Corporate,2,Russia,Student,500
-CUST_TRUST_002,Customer 2,Retail,5,KP,Business Owner,50000
-CUST_TRUST_003,Customer 3,HNWI,4,KP,Unemployed,800
-CUST_00004,Customer 4,Retail,5,KP,Doctor,15000
-CUST_00005,Customer 5,HNWI,9,China,Politician,12000
-CUST_00006,Customer 6,Corporate,3,Singapore,Consultant,10000
-CUST_00007,Customer 7,Corporate,2,USA,Politician,12000
-CUST_00008,Customer 8,SME,8,KY,Doctor,15000
-CUST_00009,Customer 9,SME,4,IR,Unemployed,800
-CUST_00010,Customer 10,Corporate,4,Malaysia,Doctor,15000
-CUST_00011,Customer 11,SME,7,Russia,Unemployed,800
-CUST_00012,Customer 12,HNWI,4,China,Engineer,8000
-CUST_00013,Customer 13,Corporate,10,USA,Doctor,15000
-CUST_00014,Customer 14,SME,10,KY,Consultant,10000
-CUST_00015,Customer 15,SME,9,KY,Doctor,15000
-CUST_00016,Customer 16,Retail,7,UK,Doctor,15000
-CUST_00017,Customer 17,Retail,6,India,Doctor,15000
-CUST_00018,Customer 18,Retail,6,UK,Business Owner,50000
-CUST_00019,Customer 19,SME,10,USA,Engineer,8000
-CUST_00020,Customer 20,SME,10,Singapore,Doctor,15000
-CUST_00021,Customer 21,Retail,10,Russia,Politician,12000
-CUST_00022,Customer 22,SME,2,Russia,Politician,12000
-CUST_00023,Customer 23,Retail,2,Russia,Politician,12000
-CUST_00024,Customer 24,SME,2,KP,Doctor,15000
-CUST_00025,Customer 25,HNWI,5,China,Politician,12000
-CUST_00026,Customer 26,SME,8,India,Unemployed,800
-CUST_00027,Customer 27,SME,10,China,Unemployed,800
-CUST_00028,Customer 28,SME,5,China,Doctor,15000
-CUST_00029,Customer 29,SME,7,IR,Consultant,10000
-CUST_00030,Customer 30,Corporate,3,KP,Doctor,15000
-CUST_00031,Customer 31,SME,6,UK,Engineer,8000
-CUST_00032,Customer 32,HNWI,4,UK,Unemployed,800
-CUST_00033,Customer 33,Corporate,6,Singapore,Doctor,15000
-CUST_00034,Customer 34,HNWI,3,Malaysia,Consultant,10000
-CUST_00035,Customer 35,SME,5,India,Doctor,15000
-CUST_00036,Customer 36,HNWI,7,KY,Politician,12000
-CUST_00037,Customer 37,SME,4,Malaysia,Consultant,10000
-CUST_00038,Customer 38,Retail,2,KY,Unemployed,800
-CUST_00039,Customer 39,Retail,7,Russia,Doctor,15000
-CUST_00040,Customer 40,Retail,3,KP,Engineer,8000
-CUST_00041,Customer 41,HNWI,3,Russia,Doctor,15000
-CUST_00042,Customer 42,HNWI,6,China,Politician,12000
-CUST_00043,Customer 43,Corporate,1,Russia,Student,500
-CUST_00044,Customer 44,HNWI,9,China,Politician,12000
-CUST_00045,Customer 45,HNWI,8,IR,Business Owner,50000
-CUST_00046,Customer 46,Corporate,8,India,Engineer,8000
-CUST_00047,Customer 47,Retail,5,UK,Doctor,15000
-CUST_00048,Customer 48,Corporate,4,China,Doctor,15000
-CUST_00049,Customer 49,Corporate,8,UK,Engineer,8000
-CUST_00050,Customer 50,Corporate,10,KY,Engineer,8000
-CUST_00051,Customer 51,Retail,1,UK,Consultant,10000
-CUST_00052,Customer 52,Corporate,8,Malaysia,Consultant,10000
-CUST_00053,Customer 53,HNWI,2,China,Consultant,10000
-CUST_00054,Customer 54,SME,7,China,Consultant,10000
-CUST_00055,Customer 55,HNWI,3,UK,Consultant,10000
-CUST_00056,Customer 56,Retail,9,Singapore,Unemployed,800
-CUST_00057,Customer 57,Corporate,8,KP,Business Owner,50000
-CUST_00058,Customer 58,SME,7,India,Unemployed,800
-CUST_00059,Customer 59,SME,6,USA,Unemployed,800
-CUST_00060,Customer 60,Retail,5,USA,Doctor,15000
-CUST_00061,Customer 61,Retail,7,India,Consultant,10000
-CUST_00062,Customer 62,HNWI,1,Singapore,Student,500
-CUST_00063,Customer 63,SME,6,Russia,Doctor,15000
-CUST_00064,Customer 64,Retail,7,Singapore,Doctor,15000
-CUST_00065,Customer 65,SME,10,KY,Engineer,8000
-CUST_00066,Customer 66,HNWI,6,Singapore,Politician,12000
-CUST_00067,Customer 67,SME,7,India,Student,500
-CUST_00068,Customer 68,SME,3,UK,Student,500
-CUST_00069,Customer 69,SME,6,KY,Politician,12000
-CUST_00070,Customer 70,Retail,9,KP,Consultant,10000
-CUST_00071,Customer 71,HNWI,10,Singapore,Doctor,15000
-CUST_00072,Customer 72,HNWI,9,Singapore,Politician,12000
-CUST_00073,Customer 73,SME,10,Russia,Doctor,15000
-CUST_00074,Customer 74,Corporate,7,USA,Doctor,15000
-CUST_00075,Customer 75,SME,4,China,Doctor,15000
-CUST_00076,Customer 76,SME,8,India,Engineer,8000
-CUST_00077,Customer 77,SME,8,Malaysia,Politician,12000
-CUST_00078,Customer 78,Corporate,9,USA,Engineer,8000
-CUST_00079,Customer 79,Corporate,6,China,Student,500
-CUST_00080,Customer 80,HNWI,5,Malaysia,Politician,12000
-CUST_00081,Customer 81,Retail,7,KP,Engineer,8000
-CUST_00082,Customer 82,SME,10,UK,Engineer,8000
-CUST_00083,Customer 83,HNWI,6,USA,Consultant,10000
-CUST_00084,Customer 84,SME,7,India,Student,500
-CUST_00085,Customer 85,Retail,2,China,Consultant,10000
-CUST_00086,Customer 86,HNWI,8,KY,Student,500
-CUST_00087,Customer 87,SME,6,Malaysia,Consultant,10000
-CUST_00088,Customer 88,SME,9,India,Student,500
-CUST_00089,Customer 89,HNWI,2,India,Unemployed,800
-CUST_00090,Customer 90,HNWI,8,Russia,Unemployed,800
-CUST_00091,Customer 91,HNWI,3,India,Engineer,8000
-CUST_00092,Customer 92,Corporate,10,India,Consultant,10000
-CUST_00093,Customer 93,Retail,1,USA,Business Owner,50000
-CUST_00094,Customer 94,Corporate,5,Russia,Doctor,15000
-CUST_00095,Customer 95,Corporate,2,KP,Doctor,15000
-CUST_00096,Customer 96,Retail,5,Singapore,Engineer,8000
-CUST_00097,Customer 97,HNWI,8,IR,Politician,12000
-CUST_00098,Customer 98,Retail,10,USA,Consultant,10000
-CUST_00099,Customer 99,SME,7,UK,Doctor,15000
-CUST_00100,Customer 100,Retail,4,Singapore,Student,500
-CUST_00101,Customer 101,Retail,5,India,Unemployed,800
-CUST_00102,Customer 102,Retail,10,IR,Consultant,10000
-CUST_00103,Customer 103,Retail,7,Singapore,Engineer,8000
-CUST_00104,Customer 104,HNWI,5,Malaysia,Politician,12000
-CUST_00105,Customer 105,Retail,6,Russia,Unemployed,800
-CUST_00106,Customer 106,HNWI,1,KP,Doctor,15000
-CUST_00107,Customer 107,SME,6,KP,Consultant,10000
-CUST_00108,Customer 108,SME,8,KY,Unemployed,800
-CUST_00109,Customer 109,SME,10,Singapore,Consultant,10000
-CUST_00110,Customer 110,Corporate,1,KY,Politician,12000
-CUST_00111,Customer 111,Retail,8,IR,Consultant,10000
-CUST_00112,Customer 112,Retail,8,India,Unemployed,800
-CUST_00113,Customer 113,SME,5,USA,Consultant,10000
-CUST_00114,Customer 114,Corporate,4,KY,Politician,12000
-CUST_00115,Customer 115,SME,3,IR,Engineer,8000
-CUST_00116,Customer 116,Corporate,10,Russia,Unemployed,800
-CUST_00117,Customer 117,Retail,8,India,Student,500
-CUST_00118,Customer 118,SME,6,Malaysia,Student,500
-CUST_00119,Customer 119,Retail,2,IR,Doctor,15000
-CUST_00120,Customer 120,Corporate,2,IR,Doctor,15000
-CUST_00121,Customer 121,Retail,3,India,Engineer,8000
-CUST_00122,Customer 122,HNWI,10,KP,Student,500
-CUST_00123,Customer 123,Retail,7,UK,Engineer,8000
-CUST_00124,Customer 124,Corporate,4,USA,Unemployed,800
-CUST_00125,Customer 125,Retail,5,UK,Student,500
-CUST_00126,Customer 126,Retail,9,UK,Doctor,15000
-CUST_00127,Customer 127,Retail,4,China,Politician,12000
-CUST_00128,Customer 128,HNWI,3,Malaysia,Engineer,8000
-CUST_00129,Customer 129,SME,5,Russia,Student,500
-CUST_00130,Customer 130,HNWI,8,KY,Student,500
-CUST_00131,Customer 131,Corporate,2,IR,Student,500
-CUST_00132,Customer 132,HNWI,4,KP,Consultant,10000
-CUST_00133,Customer 133,Corporate,2,Russia,Politician,12000
-CUST_00134,Customer 134,SME,4,IR,Student,500
-CUST_00135,Customer 135,Corporate,10,KP,Doctor,15000
-CUST_00136,Customer 136,HNWI,9,India,Consultant,10000
-CUST_00137,Customer 137,SME,5,India,Doctor,15000
-CUST_00138,Customer 138,SME,7,Russia,Doctor,15000
-CUST_00139,Customer 139,Retail,3,KY,Politician,12000
-CUST_00140,Customer 140,SME,6,IR,Doctor,15000
-CUST_00141,Customer 141,Corporate,8,India,Unemployed,800
-CUST_00142,Customer 142,SME,2,KY,Student,500
-CUST_00143,Customer 143,Corporate,5,Russia,Engineer,8000
-CUST_00144,Customer 144,Retail,6,KP,Student,500
-CUST_00145,Customer 145,Corporate,10,Russia,Doctor,15000
-CUST_00146,Customer 146,Corporate,6,IR,Consultant,10000
-CUST_00147,Customer 147,HNWI,10,KP,Unemployed,800
-CUST_00148,Customer 148,Retail,6,KY,Student,500
-CUST_00149,Customer 149,Retail,1,KY,Politician,12000
-CUST_00150,Customer 150,Corporate,7,China,Doctor,15000
-CUST_00151,Customer 151,HNWI,5,KY,Business Owner,50000
-CUST_00152,Customer 152,SME,3,UK,Unemployed,800
-CUST_00153,Customer 153,Corporate,7,Russia,Unemployed,800
-CUST_00154,Customer 154,HNWI,10,KY,Doctor,15000
-CUST_00155,Customer 155,HNWI,6,Russia,Business Owner,50000
-CUST_00156,Customer 156,Corporate,1,Singapore,Business Owner,50000
-CUST_00157,Customer 157,Corporate,5,KP,Student,500
-CUST_00158,Customer 158,SME,3,KY,Politician,12000
-CUST_00159,Customer 159,SME,1,UK,Consultant,10000
-CUST_00160,Customer 160,Retail,2,Singapore,Consultant,10000
-CUST_00161,Customer 161,SME,1,UK,Engineer,8000
-CUST_00162,Customer 162,Retail,3,Malaysia,Student,500
-CUST_00163,Customer 163,HNWI,8,IR,Doctor,15000
-CUST_00164,Customer 164,SME,9,China,Consultant,10000
-CUST_00165,Customer 165,Retail,10,Singapore,Business Owner,50000
-CUST_00166,Customer 166,HNWI,7,China,Politician,12000
-CUST_00167,Customer 167,SME,4,China,Consultant,10000
-CUST_00168,Customer 168,Corporate,5,KP,Unemployed,800
-CUST_00169,Customer 169,Corporate,5,Malaysia,Consultant,10000
-CUST_00170,Customer 170,HNWI,5,IR,Politician,12000
-CUST_00171,Customer 171,SME,3,China,Unemployed,800
-CUST_00172,Customer 172,Retail,2,China,Politician,12000
-CUST_00173,Customer 173,Retail,6,Singapore,Consultant,10000
-CUST_00174,Customer 174,SME,1,IR,Doctor,15000
-CUST_00175,Customer 175,HNWI,2,China,Engineer,8000
-CUST_00176,Customer 176,SME,8,Singapore,Engineer,8000
-CUST_00177,Customer 177,Corporate,1,UK,Consultant,10000
-CUST_00178,Customer 178,Corporate,5,Singapore,Student,500
-CUST_00179,Customer 179,HNWI,1,Russia,Business Owner,50000
-CUST_00180,Customer 180,HNWI,5,Russia,Doctor,15000
-CUST_00181,Customer 181,Corporate,6,Russia,Business Owner,50000
-CUST_00182,Customer 182,Retail,9,India,Unemployed,800
-CUST_00183,Customer 183,SME,7,IR,Unemployed,800
-CUST_00184,Customer 184,HNWI,5,China,Unemployed,800
-CUST_00185,Customer 185,Retail,7,China,Engineer,8000
-CUST_00186,Customer 186,HNWI,1,USA,Doctor,15000
-CUST_00187,Customer 187,HNWI,1,UK,Doctor,15000
-CUST_00188,Customer 188,HNWI,4,IR,Engineer,8000
-CUST_00189,Customer 189,SME,2,KP,Consultant,10000
-CUST_00190,Customer 190,HNWI,1,USA,Engineer,8000
-CUST_00191,Customer 191,Retail,9,Malaysia,Student,500
-CUST_00192,Customer 192,Corporate,3,Singapore,Doctor,15000
-CUST_00193,Customer 193,Retail,3,China,Doctor,15000
-CUST_00194,Customer 194,SME,1,India,Doctor,15000
-CUST_00195,Customer 195,Retail,8,Malaysia,Consultant,10000
-CUST_00196,Customer 196,Corporate,4,Russia,Unemployed,800
-CUST_00197,Customer 197,HNWI,10,KP,Doctor,15000
-CUST_00198,Customer 198,SME,2,KP,Engineer,8000
-CUST_00199,Customer 199,Retail,4,Malaysia,Doctor,15000
-CUST_00200,Customer 200,SME,9,Singapore,Politician,12000
-CUST_00201,Customer 201,Corporate,9,USA,Consultant,10000
-CUST_00202,Customer 202,Retail,8,USA,Unemployed,800
-CUST_00203,Customer 203,Corporate,10,USA,Engineer,8000
-CUST_00204,Customer 204,Retail,5,Russia,Politician,12000
-CUST_00205,Customer 205,HNWI,1,India,Business Owner,50000
-CUST_00206,Customer 206,SME,10,Russia,Student,500
-CUST_00207,Customer 207,Corporate,6,KY,Doctor,15000
-CUST_00208,Customer 208,SME,7,China,Student,500
-CUST_00209,Customer 209,SME,8,UK,Politician,12000
-CUST_00210,Customer 210,SME,10,Russia,Unemployed,800
-CUST_00211,Customer 211,SME,7,UK,Student,500
-CUST_00212,Customer 212,Corporate,1,IR,Unemployed,800
-CUST_00213,Customer 213,Corporate,3,India,Business Owner,50000
-CUST_00214,Customer 214,SME,8,UK,Consultant,10000
-CUST_00215,Customer 215,SME,1,KP,Doctor,15000
-CUST_00216,Customer 216,Retail,10,IR,Unemployed,800
-CUST_00217,Customer 217,Retail,10,India,Business Owner,50000
-CUST_00218,Customer 218,HNWI,10,Russia,Doctor,15000
-CUST_00219,Customer 219,Corporate,4,Russia,Doctor,15000
-CUST_00220,Customer 220,Retail,8,Malaysia,Engineer,8000
-CUST_00221,Customer 221,SME,4,Singapore,Politician,12000
-CUST_00222,Customer 222,Retail,9,IR,Student,500
-CUST_00223,Customer 223,HNWI,10,UK,Consultant,10000
-CUST_00224,Customer 224,SME,7,Singapore,Business Owner,50000
-CUST_00225,Customer 225,SME,5,KP,Engineer,8000
-CUST_00226,Customer 226,SME,5,KP,Engineer,8000
-CUST_00227,Customer 227,SME,9,KP,Politician,12000
-CUST_00228,Customer 228,HNWI,7,Malaysia,Politician,12000
-CUST_00229,Customer 229,SME,2,Singapore,Politician,12000
-CUST_00230,Customer 230,SME,4,China,Unemployed,800
-CUST_00231,Customer 231,Corporate,7,KP,Consultant,10000
-CUST_00232,Customer 232,Corporate,10,USA,Politician,12000
-CUST_00233,Customer 233,Corporate,4,USA,Engineer,8000
-CUST_00234,Customer 234,Corporate,5,Singapore,Politician,12000
-CUST_00235,Customer 235,HNWI,1,KP,Student,500
-CUST_00236,Customer 236,HNWI,6,Malaysia,Consultant,10000
-CUST_00237,Customer 237,HNWI,9,KY,Student,500
-CUST_00238,Customer 238,SME,2,IR,Politician,12000
-CUST_00239,Customer 239,SME,7,China,Consultant,10000
-CUST_00240,Customer 240,HNWI,5,China,Politician,12000
-CUST_00241,Customer 241,SME,8,Russia,Unemployed,800
-CUST_00242,Customer 242,HNWI,4,India,Engineer,8000
-CUST_00243,Customer 243,Corporate,6,Singapore,Engineer,8000
-CUST_00244,Customer 244,SME,6,USA,Doctor,15000
-CUST_00245,Customer 245,HNWI,7,USA,Student,500
-CUST_00246,Customer 246,Corporate,3,India,Consultant,10000
-CUST_00247,Customer 247,Corporate,9,USA,Politician,12000
-CUST_00248,Customer 248,Corporate,4,Russia,Politician,12000
-CUST_00249,Customer 249,Corporate,1,USA,Consultant,10000
-CUST_00250,Customer 250,Corporate,2,Russia,Doctor,15000
-CUST_00251,Customer 251,Corporate,8,India,Student,500
-CUST_00252,Customer 252,Retail,10,USA,Engineer,8000
-CUST_00253,Customer 253,HNWI,6,IR,Business Owner,50000
-CUST_00254,Customer 254,HNWI,8,Malaysia,Business Owner,50000
-CUST_00255,Customer 255,HNWI,5,Malaysia,Politician,12000
-CUST_00256,Customer 256,SME,5,USA,Unemployed,800
-CUST_00257,Customer 257,Corporate,8,UK,Consultant,10000
-CUST_00258,Customer 258,Corporate,2,UK,Student,500
-CUST_00259,Customer 259,SME,6,Russia,Doctor,15000
-CUST_00260,Customer 260,HNWI,9,Russia,Consultant,10000
-CUST_00261,Customer 261,HNWI,7,USA,Business Owner,50000
-CUST_00262,Customer 262,SME,9,Malaysia,Business Owner,50000
-CUST_00263,Customer 263,HNWI,9,China,Business Owner,50000
-CUST_00264,Customer 264,HNWI,1,KP,Engineer,8000
-CUST_00265,Customer 265,Corporate,1,UK,Unemployed,800
-CUST_00266,Customer 266,SME,4,USA,Student,500
-CUST_00267,Customer 267,SME,3,IR,Politician,12000
-CUST_00268,Customer 268,Retail,7,Russia,Politician,12000
-CUST_00269,Customer 269,HNWI,1,UK,Business Owner,50000
-CUST_00270,Customer 270,SME,9,USA,Business Owner,50000
-CUST_00271,Customer 271,Corporate,5,IR,Student,500
-CUST_00272,Customer 272,Retail,1,UK,Business Owner,50000
-CUST_00273,Customer 273,HNWI,8,KY,Politician,12000
-CUST_00274,Customer 274,HNWI,4,Russia,Business Owner,50000
-CUST_00275,Customer 275,SME,7,Malaysia,Doctor,15000
-CUST_00276,Customer 276,HNWI,3,KY,Consultant,10000
-CUST_00277,Customer 277,SME,10,Russia,Business Owner,50000
-CUST_00278,Customer 278,SME,5,India,Unemployed,800
-CUST_00279,Customer 279,Corporate,4,UK,Consultant,10000
-CUST_00280,Customer 280,Retail,3,KP,Student,500
-CUST_00281,Customer 281,HNWI,6,KP,Unemployed,800
-CUST_00282,Customer 282,Retail,1,India,Unemployed,800
-CUST_00283,Customer 283,SME,2,KP,Engineer,8000
-CUST_00284,Customer 284,HNWI,9,KY,Engineer,8000
-CUST_00285,Customer 285,Corporate,5,China,Politician,12000
-CUST_00286,Customer 286,Retail,5,China,Politician,12000
-CUST_00287,Customer 287,SME,1,Singapore,Engineer,8000
-CUST_00288,Customer 288,Retail,10,Russia,Engineer,8000
-CUST_00289,Customer 289,SME,8,IR,Engineer,8000
-CUST_00290,Customer 290,SME,10,UK,Engineer,8000
-CUST_00291,Customer 291,HNWI,7,KP,Politician,12000
-CUST_00292,Customer 292,Corporate,2,Malaysia,Student,500
-CUST_00293,Customer 293,Corporate,4,UK,Student,500
-CUST_00294,Customer 294,SME,5,USA,Engineer,8000
-CUST_00295,Customer 295,HNWI,7,KY,Unemployed,800
-CUST_00296,Customer 296,Retail,7,Malaysia,Consultant,10000
-CUST_00297,Customer 297,Corporate,10,KP,Engineer,8000
-CUST_00298,Customer 298,SME,9,Malaysia,Politician,12000
-CUST_00299,Customer 299,Corporate,9,India,Engineer,8000
-CUST_00300,Customer 300,Retail,2,USA,Doctor,15000
-CUST_00301,Customer 301,Corporate,1,India,Engineer,8000
-CUST_00302,Customer 302,Retail,9,Singapore,Engineer,8000
-CUST_00303,Customer 303,SME,1,UK,Business Owner,50000
-CUST_00304,Customer 304,Corporate,7,USA,Unemployed,800
-CUST_00305,Customer 305,HNWI,9,Malaysia,Business Owner,50000
-CUST_00306,Customer 306,Retail,2,Malaysia,Student,500
-CUST_00307,Customer 307,Corporate,3,India,Unemployed,800
-CUST_00308,Customer 308,HNWI,7,Singapore,Unemployed,800
-CUST_00309,Customer 309,Corporate,9,Singapore,Student,500
-CUST_00310,Customer 310,Retail,7,China,Consultant,10000
-CUST_00311,Customer 311,Retail,9,USA,Student,500
-CUST_00312,Customer 312,HNWI,7,IR,Doctor,15000
-CUST_00313,Customer 313,Corporate,4,China,Doctor,15000
-CUST_00314,Customer 314,SME,8,KY,Doctor,15000
-CUST_00315,Customer 315,HNWI,3,UK,Engineer,8000
-CUST_00316,Customer 316,Retail,10,KP,Politician,12000
-CUST_00317,Customer 317,SME,4,China,Consultant,10000
-CUST_00318,Customer 318,Corporate,4,KY,Doctor,15000
-CUST_00319,Customer 319,Retail,1,UK,Engineer,8000
-CUST_00320,Customer 320,HNWI,5,India,Politician,12000
-CUST_00321,Customer 321,SME,2,USA,Politician,12000
-CUST_00322,Customer 322,Corporate,5,China,Business Owner,50000
-CUST_00323,Customer 323,Retail,10,USA,Doctor,15000
-CUST_00324,Customer 324,HNWI,9,IR,Engineer,8000
-CUST_00325,Customer 325,Corporate,5,KP,Consultant,10000
-CUST_00326,Customer 326,HNWI,3,Malaysia,Consultant,10000
-CUST_00327,Customer 327,SME,6,USA,Consultant,10000
-CUST_00328,Customer 328,SME,9,China,Politician,12000
-CUST_00329,Customer 329,SME,2,Malaysia,Student,500
-CUST_00330,Customer 330,Retail,6,USA,Business Owner,50000
-CUST_00331,Customer 331,Retail,1,UK,Business Owner,50000
-CUST_00332,Customer 332,SME,8,KY,Engineer,8000
-CUST_00333,Customer 333,Retail,1,KP,Engineer,8000
-CUST_00334,Customer 334,SME,6,India,Consultant,10000
-CUST_00335,Customer 335,HNWI,7,Malaysia,Politician,12000
-CUST_00336,Customer 336,SME,7,UK,Student,500
-CUST_00337,Customer 337,SME,3,Malaysia,Politician,12000
-CUST_00338,Customer 338,HNWI,7,Singapore,Business Owner,50000
-CUST_00339,Customer 339,Corporate,6,China,Unemployed,800
-CUST_00340,Customer 340,SME,4,China,Unemployed,800
-CUST_00341,Customer 341,SME,5,KP,Unemployed,800
-CUST_00342,Customer 342,SME,7,KP,Politician,12000
-CUST_00343,Customer 343,HNWI,1,India,Engineer,8000
-CUST_00344,Customer 344,Corporate,3,USA,Consultant,10000
-CUST_00345,Customer 345,Corporate,1,Russia,Student,500
-CUST_00346,Customer 346,SME,10,Russia,Unemployed,800
-CUST_00347,Customer 347,Retail,10,India,Engineer,8000
-CUST_00348,Customer 348,SME,2,KP,Doctor,15000
-CUST_00349,Customer 349,Retail,2,India,Business Owner,50000
-CUST_00350,Customer 350,HNWI,8,Russia,Politician,12000
-CUST_00351,Customer 351,HNWI,9,Singapore,Unemployed,800
-CUST_00352,Customer 352,Retail,1,USA,Unemployed,800
-CUST_00353,Customer 353,Retail,8,KP,Doctor,15000
-CUST_00354,Customer 354,SME,1,UK,Consultant,10000
-CUST_00355,Customer 355,Corporate,1,Singapore,Doctor,15000
-CUST_00356,Customer 356,HNWI,1,IR,Unemployed,800
-CUST_00357,Customer 357,Corporate,9,IR,Politician,12000
-CUST_00358,Customer 358,SME,6,Russia,Politician,12000
-CUST_00359,Customer 359,Corporate,5,Singapore,Engineer,8000
-CUST_00360,Customer 360,Retail,4,KY,Politician,12000
-CUST_00361,Customer 361,HNWI,4,KY,Business Owner,50000
-CUST_00362,Customer 362,SME,4,Singapore,Politician,12000
-CUST_00363,Customer 363,HNWI,4,Singapore,Doctor,15000
-CUST_00364,Customer 364,Retail,4,USA,Engineer,8000
-CUST_00365,Customer 365,HNWI,9,KY,Business Owner,50000
-CUST_00366,Customer 366,Retail,10,Malaysia,Doctor,15000
-CUST_00367,Customer 367,Retail,4,KP,Business Owner,50000
-CUST_00368,Customer 368,Corporate,10,KP,Unemployed,800
-CUST_00369,Customer 369,Retail,7,KP,Student,500
-CUST_00370,Customer 370,SME,5,KY,Student,500
-CUST_00371,Customer 371,Retail,2,USA,Unemployed,800
-CUST_00372,Customer 372,Retail,1,Russia,Engineer,8000
-CUST_00373,Customer 373,Corporate,4,India,Politician,12000
-CUST_00374,Customer 374,Corporate,8,Russia,Politician,12000
-CUST_00375,Customer 375,SME,2,USA,Unemployed,800
-CUST_00376,Customer 376,SME,6,USA,Student,500
-CUST_00377,Customer 377,Retail,9,KP,Unemployed,800
-CUST_00378,Customer 378,HNWI,1,China,Politician,12000
-CUST_00379,Customer 379,HNWI,6,KP,Consultant,10000
-CUST_00380,Customer 380,Retail,9,KY,Politician,12000
-CUST_00381,Customer 381,HNWI,5,Singapore,Politician,12000
-CUST_00382,Customer 382,HNWI,10,Malaysia,Engineer,8000
-CUST_00383,Customer 383,Retail,7,China,Student,500
-CUST_00384,Customer 384,SME,2,UK,Consultant,10000
-CUST_00385,Customer 385,SME,1,UK,Engineer,8000
-CUST_00386,Customer 386,Retail,6,KP,Politician,12000
-CUST_00387,Customer 387,SME,5,UK,Consultant,10000
-CUST_00388,Customer 388,Retail,7,Russia,Consultant,10000
-CUST_00389,Customer 389,Retail,2,KY,Doctor,15000
-CUST_00390,Customer 390,HNWI,1,KY,Consultant,10000
-CUST_00391,Customer 391,Corporate,6,Russia,Consultant,10000
-CUST_00392,Customer 392,Corporate,4,China,Politician,12000
-CUST_00393,Customer 393,Corporate,6,Malaysia,Student,500
-CUST_00394,Customer 394,Retail,8,IR,Doctor,15000
-CUST_00395,Customer 395,SME,1,KP,Engineer,8000
-CUST_00396,Customer 396,Corporate,5,India,Doctor,15000
-CUST_00397,Customer 397,HNWI,3,KY,Unemployed,800
-CUST_00398,Customer 398,HNWI,5,India,Student,500
-CUST_00399,Customer 399,SME,9,Malaysia,Engineer,8000
-CUST_00400,Customer 400,Retail,5,USA,Engineer,8000
-CUST_00401,Customer 401,HNWI,9,Singapore,Unemployed,800
-CUST_00402,Customer 402,SME,6,KY,Consultant,10000
-CUST_00403,Customer 403,Retail,3,India,Engineer,8000
-CUST_00404,Customer 404,Retail,8,China,Doctor,15000
-CUST_00405,Customer 405,HNWI,10,KY,Politician,12000
-CUST_00406,Customer 406,SME,4,India,Engineer,8000
-CUST_00407,Customer 407,SME,9,Russia,Consultant,10000
-CUST_00408,Customer 408,HNWI,10,China,Consultant,10000
-CUST_00409,Customer 409,Corporate,2,Russia,Student,500
-CUST_00410,Customer 410,SME,9,IR,Business Owner,50000
-CUST_00411,Customer 411,Corporate,9,Malaysia,Politician,12000
-CUST_00412,Customer 412,HNWI,3,China,Business Owner,50000
-CUST_00413,Customer 413,Corporate,2,Russia,Business Owner,50000
-CUST_00414,Customer 414,HNWI,2,USA,Business Owner,50000
-CUST_00415,Customer 415,Retail,9,USA,Politician,12000
-CUST_00416,Customer 416,HNWI,4,India,Engineer,8000
-CUST_00417,Customer 417,SME,4,China,Unemployed,800
-CUST_00418,Customer 418,Corporate,4,KY,Doctor,15000
-CUST_00419,Customer 419,Retail,5,Malaysia,Business Owner,50000
-CUST_00420,Customer 420,Retail,9,India,Politician,12000
-CUST_00421,Customer 421,SME,1,China,Engineer,8000
-CUST_00422,Customer 422,SME,3,Singapore,Engineer,8000
-CUST_00423,Customer 423,SME,8,Singapore,Business Owner,50000
-CUST_00424,Customer 424,Corporate,7,Russia,Engineer,8000
-CUST_00425,Customer 425,HNWI,5,Singapore,Politician,12000
-CUST_00426,Customer 426,HNWI,10,Singapore,Consultant,10000
-CUST_00427,Customer 427,Retail,1,Singapore,Politician,12000
-CUST_00428,Customer 428,SME,9,Russia,Doctor,15000
-CUST_00429,Customer 429,SME,2,China,Student,500
-CUST_00430,Customer 430,SME,3,Singapore,Student,500
-CUST_00431,Customer 431,HNWI,8,KY,Unemployed,800
-CUST_00432,Customer 432,SME,2,KY,Engineer,8000
-CUST_00433,Customer 433,Corporate,3,KP,Politician,12000
-CUST_00434,Customer 434,Corporate,2,India,Politician,12000
-CUST_00435,Customer 435,HNWI,2,IR,Doctor,15000
-CUST_00436,Customer 436,Corporate,3,India,Business Owner,50000
-CUST_00437,Customer 437,HNWI,9,KY,Doctor,15000
-CUST_00438,Customer 438,Corporate,4,China,Politician,12000
-CUST_00439,Customer 439,Retail,6,UK,Consultant,10000
-CUST_00440,Customer 440,Corporate,6,IR,Student,500
-CUST_00441,Customer 441,Corporate,1,China,Unemployed,800
-CUST_00442,Customer 442,HNWI,9,IR,Consultant,10000
-CUST_00443,Customer 443,HNWI,10,IR,Politician,12000
-CUST_00444,Customer 444,Corporate,1,IR,Business Owner,50000
-CUST_00445,Customer 445,HNWI,10,China,Student,500
-CUST_00446,Customer 446,Corporate,9,China,Business Owner,50000
-CUST_00447,Customer 447,Retail,10,KY,Engineer,8000
-CUST_00448,Customer 448,Retail,1,IR,Doctor,15000
-CUST_00449,Customer 449,Retail,7,KY,Politician,12000
-CUST_00450,Customer 450,HNWI,10,China,Student,500
-CUST_00451,Customer 451,SME,6,KY,Engineer,8000
-CUST_00452,Customer 452,HNWI,2,KP,Engineer,8000
-CUST_00453,Customer 453,SME,5,USA,Student,500
-CUST_00454,Customer 454,Corporate,9,Singapore,Unemployed,800
-CUST_00455,Customer 455,SME,1,Singapore,Doctor,15000
-CUST_00456,Customer 456,SME,1,IR,Business Owner,50000
-CUST_00457,Customer 457,Retail,6,Russia,Consultant,10000
-CUST_00458,Customer 458,HNWI,5,Malaysia,Politician,12000
-CUST_00459,Customer 459,SME,8,China,Business Owner,50000
-CUST_00460,Customer 460,Retail,3,Russia,Consultant,10000
-CUST_00461,Customer 461,Corporate,3,Russia,Business Owner,50000
-CUST_00462,Customer 462,Corporate,9,Singapore,Politician,12000
-CUST_00463,Customer 463,Corporate,4,Malaysia,Engineer,8000
-CUST_00464,Customer 464,SME,2,IR,Politician,12000
-CUST_00465,Customer 465,Corporate,9,Malaysia,Engineer,8000
-CUST_00466,Customer 466,HNWI,6,China,Politician,12000
-CUST_00467,Customer 467,Corporate,7,IR,Business Owner,50000
-CUST_00468,Customer 468,Corporate,5,KP,Politician,12000
-CUST_00469,Customer 469,Retail,3,Malaysia,Politician,12000
-CUST_00470,Customer 470,Corporate,8,India,Engineer,8000
-CUST_00471,Customer 471,Retail,1,China,Unemployed,800
-CUST_00472,Customer 472,HNWI,1,USA,Engineer,8000
-CUST_00473,Customer 473,Retail,6,UK,Politician,12000
-CUST_00474,Customer 474,SME,4,China,Engineer,8000
-CUST_00475,Customer 475,Corporate,7,IR,Business Owner,50000
-CUST_00476,Customer 476,Retail,7,KY,Unemployed,800
-CUST_00477,Customer 477,Corporate,4,KY,Student,500
-CUST_00478,Customer 478,SME,4,India,Unemployed,800
-CUST_00479,Customer 479,SME,7,China,Student,500
-CUST_00480,Customer 480,HNWI,6,India,Politician,12000
-CUST_00481,Customer 481,Corporate,7,KY,Unemployed,800
-CUST_00482,Customer 482,Corporate,5,KP,Engineer,8000
-CUST_00483,Customer 483,Retail,2,China,Student,500
-CUST_00484,Customer 484,HNWI,6,Malaysia,Politician,12000
-CUST_00485,Customer 485,SME,2,IR,Politician,12000
-CUST_00486,Customer 486,Retail,4,Singapore,Doctor,15000
-CUST_00487,Customer 487,SME,2,UK,Consultant,10000
-CUST_00488,Customer 488,Retail,4,Russia,Student,500
-CUST_00489,Customer 489,SME,5,KP,Doctor,15000
-CUST_00490,Customer 490,Corporate,8,Russia,Consultant,10000
-CUST_00491,Customer 491,HNWI,10,China,Consultant,10000
-CUST_00492,Customer 492,Corporate,1,KP,Doctor,15000
-CUST_00493,Customer 493,HNWI,6,China,Student,500
-CUST_00494,Customer 494,Retail,10,Malaysia,Business Owner,50000
-CUST_00495,Customer 495,Corporate,4,KP,Doctor,15000
-CUST_00496,Customer 496,Corporate,3,KP,Politician,12000
-CUST_00497,Customer 497,Retail,9,India,Student,500
-CUST_00498,Customer 498,SME,5,USA,Doctor,15000
-CUST_00499,Customer 499,Retail,1,UK,Business Owner,50000
-CUST_00500,Customer 500,Corporate,2,Malaysia,Consultant,10000
-CUST_00501,Customer 501,SME,5,Russia,Student,500
-CUST_00502,Customer 502,SME,5,IR,Business Owner,50000
-CUST_00503,Customer 503,SME,2,UK,Student,500
-CUST_00504,Customer 504,Corporate,4,Russia,Politician,12000
-CUST_00505,Customer 505,SME,10,UK,Consultant,10000
-CUST_00506,Customer 506,HNWI,4,KY,Politician,12000
-CUST_00507,Customer 507,Corporate,10,KP,Business Owner,50000
-CUST_00508,Customer 508,SME,3,Russia,Politician,12000
-CUST_00509,Customer 509,Retail,6,KY,Doctor,15000
-CUST_00510,Customer 510,SME,1,USA,Engineer,8000
-CUST_00511,Customer 511,Retail,10,China,Consultant,10000
-CUST_00512,Customer 512,Retail,4,China,Politician,12000
-CUST_00513,Customer 513,Corporate,8,Singapore,Engineer,8000
-CUST_00514,Customer 514,SME,3,Malaysia,Unemployed,800
-CUST_00515,Customer 515,Corporate,6,IR,Doctor,15000
-CUST_00516,Customer 516,HNWI,4,India,Politician,12000
-CUST_00517,Customer 517,SME,2,Singapore,Doctor,15000
-CUST_00518,Customer 518,Corporate,4,UK,Business Owner,50000
-CUST_00519,Customer 519,Corporate,5,India,Doctor,15000
-CUST_00520,Customer 520,HNWI,9,USA,Doctor,15000
-CUST_00521,Customer 521,Retail,6,USA,Unemployed,800
-CUST_00522,Customer 522,SME,10,KP,Business Owner,50000
-CUST_00523,Customer 523,Retail,5,Malaysia,Unemployed,800
-CUST_00524,Customer 524,Retail,3,KY,Business Owner,50000
-CUST_00525,Customer 525,SME,10,UK,Consultant,10000
-CUST_00526,Customer 526,SME,5,KY,Student,500
-CUST_00527,Customer 527,SME,9,China,Business Owner,50000
-CUST_00528,Customer 528,HNWI,10,China,Politician,12000
-CUST_00529,Customer 529,SME,3,KP,Doctor,15000
-CUST_00530,Customer 530,SME,4,USA,Student,500
-CUST_00531,Customer 531,Retail,4,USA,Consultant,10000
-CUST_00532,Customer 532,Retail,8,KP,Politician,12000
-CUST_00533,Customer 533,HNWI,2,Russia,Politician,12000
-CUST_00534,Customer 534,Retail,10,USA,Unemployed,800
-CUST_00535,Customer 535,Retail,5,India,Politician,12000
-CUST_00536,Customer 536,SME,7,KP,Business Owner,50000
-CUST_00537,Customer 537,Corporate,8,India,Doctor,15000
-CUST_00538,Customer 538,SME,3,KP,Business Owner,50000
-CUST_00539,Customer 539,Corporate,9,KP,Student,500
-CUST_00540,Customer 540,SME,1,KP,Engineer,8000
-CUST_00541,Customer 541,HNWI,4,Russia,Engineer,8000
-CUST_00542,Customer 542,Retail,5,KY,Business Owner,50000
-CUST_00543,Customer 543,Corporate,3,IR,Student,500
-CUST_00544,Customer 544,Retail,9,UK,Politician,12000
-CUST_00545,Customer 545,Retail,1,USA,Doctor,15000
-CUST_00546,Customer 546,SME,5,IR,Doctor,15000
-CUST_00547,Customer 547,SME,8,India,Business Owner,50000
-CUST_00548,Customer 548,Retail,1,Malaysia,Politician,12000
-CUST_00549,Customer 549,Corporate,7,Russia,Engineer,8000
-CUST_00550,Customer 550,Corporate,10,India,Politician,12000
-CUST_00551,Customer 551,Corporate,8,Malaysia,Unemployed,800
-CUST_00552,Customer 552,SME,1,Malaysia,Consultant,10000
-CUST_00553,Customer 553,HNWI,4,USA,Engineer,8000
-CUST_00554,Customer 554,SME,7,KY,Consultant,10000
-CUST_00555,Customer 555,Corporate,9,KY,Consultant,10000
-CUST_00556,Customer 556,Retail,4,IR,Doctor,15000
-CUST_00557,Customer 557,HNWI,4,KY,Student,500
-CUST_00558,Customer 558,Retail,7,UK,Engineer,8000
-CUST_00559,Customer 559,SME,7,IR,Politician,12000
-CUST_00560,Customer 560,SME,7,Malaysia,Politician,12000
-CUST_00561,Customer 561,Corporate,1,China,Politician,12000
-CUST_00562,Customer 562,Corporate,5,KP,Consultant,10000
-CUST_00563,Customer 563,HNWI,10,Russia,Consultant,10000
-CUST_00564,Customer 564,Retail,4,Russia,Business Owner,50000
-CUST_00565,Customer 565,SME,5,China,Student,500
-CUST_00566,Customer 566,HNWI,2,Singapore,Business Owner,50000
-CUST_00567,Customer 567,Corporate,6,China,Consultant,10000
-CUST_00568,Customer 568,SME,9,UK,Engineer,8000
-CUST_00569,Customer 569,Corporate,6,Singapore,Engineer,8000
-CUST_00570,Customer 570,Corporate,1,Singapore,Consultant,10000
-CUST_00571,Customer 571,Corporate,5,Russia,Politician,12000
-CUST_00572,Customer 572,HNWI,5,UK,Business Owner,50000
-CUST_00573,Customer 573,Corporate,7,Malaysia,Student,500
-CUST_00574,Customer 574,Retail,2,Singapore,Politician,12000
-CUST_00575,Customer 575,HNWI,10,KP,Consultant,10000
-CUST_00576,Customer 576,SME,2,Malaysia,Business Owner,50000
-CUST_00577,Customer 577,Corporate,7,Russia,Doctor,15000
-CUST_00578,Customer 578,SME,7,IR,Doctor,15000
-CUST_00579,Customer 579,SME,4,USA,Engineer,8000
-CUST_00580,Customer 580,Retail,10,IR,Consultant,10000
-CUST_00581,Customer 581,SME,7,Malaysia,Unemployed,800
-CUST_00582,Customer 582,SME,8,IR,Doctor,15000
-CUST_00583,Customer 583,SME,9,IR,Politician,12000
-CUST_00584,Customer 584,Corporate,4,China,Consultant,10000
-CUST_00585,Customer 585,SME,7,IR,Consultant,10000
-CUST_00586,Customer 586,Corporate,8,Singapore,Doctor,15000
-CUST_00587,Customer 587,HNWI,1,Russia,Business Owner,50000
-CUST_00588,Customer 588,Corporate,10,Malaysia,Unemployed,800
-CUST_00589,Customer 589,SME,6,Russia,Doctor,15000
-CUST_00590,Customer 590,Retail,6,Malaysia,Consultant,10000
-CUST_00591,Customer 591,Retail,5,Singapore,Business Owner,50000
-CUST_00592,Customer 592,Corporate,7,Russia,Doctor,15000
-CUST_00593,Customer 593,Retail,8,Russia,Unemployed,800
-CUST_00594,Customer 594,Retail,1,China,Student,500
-CUST_00595,Customer 595,HNWI,7,KP,Unemployed,800
-CUST_00596,Customer 596,SME,9,UK,Student,500
-CUST_00597,Customer 597,SME,1,China,Business Owner,50000
-CUST_00598,Customer 598,HNWI,7,KP,Unemployed,800
-CUST_00599,Customer 599,Retail,5,KP,Student,500
-CUST_00600,Customer 600,HNWI,3,IR,Doctor,15000
-CUST_00601,Customer 601,HNWI,7,Singapore,Student,500
-CUST_00602,Customer 602,HNWI,6,Russia,Student,500
-CUST_00603,Customer 603,Retail,4,UK,Consultant,10000
-CUST_00604,Customer 604,HNWI,10,USA,Engineer,8000
-CUST_00605,Customer 605,HNWI,7,Singapore,Engineer,8000
-CUST_00606,Customer 606,SME,3,Russia,Doctor,15000
-CUST_00607,Customer 607,Retail,10,KP,Student,500
-CUST_00608,Customer 608,Corporate,4,Malaysia,Student,500
-CUST_00609,Customer 609,Corporate,3,UK,Doctor,15000
-CUST_00610,Customer 610,SME,8,Singapore,Business Owner,50000
-CUST_00611,Customer 611,SME,10,Singapore,Business Owner,50000
-CUST_00612,Customer 612,Corporate,4,IR,Business Owner,50000
-CUST_00613,Customer 613,HNWI,3,China,Engineer,8000
-CUST_00614,Customer 614,Corporate,2,China,Doctor,15000
-CUST_00615,Customer 615,Corporate,9,China,Doctor,15000
-CUST_00616,Customer 616,Corporate,1,Singapore,Engineer,8000
-CUST_00617,Customer 617,SME,4,KY,Engineer,8000
-CUST_00618,Customer 618,SME,7,Malaysia,Student,500
-CUST_00619,Customer 619,SME,9,UK,Unemployed,800
-CUST_00620,Customer 620,SME,5,KP,Consultant,10000
-CUST_00621,Customer 621,HNWI,7,China,Student,500
-CUST_00622,Customer 622,HNWI,8,Malaysia,Doctor,15000
-CUST_00623,Customer 623,Retail,6,Russia,Doctor,15000
-CUST_00624,Customer 624,SME,6,UK,Engineer,8000
-CUST_00625,Customer 625,Retail,4,India,Student,500
-CUST_00626,Customer 626,Corporate,5,India,Consultant,10000
-CUST_00627,Customer 627,HNWI,8,Singapore,Politician,12000
-CUST_00628,Customer 628,Retail,6,KY,Engineer,8000
-CUST_00629,Customer 629,Corporate,5,China,Engineer,8000
-CUST_00630,Customer 630,SME,4,USA,Engineer,8000
-CUST_00631,Customer 631,Corporate,3,KY,Unemployed,800
-CUST_00632,Customer 632,HNWI,7,Singapore,Unemployed,800
-CUST_00633,Customer 633,Retail,5,China,Politician,12000
-CUST_00634,Customer 634,Corporate,4,UK,Consultant,10000
-CUST_00635,Customer 635,SME,10,IR,Business Owner,50000
-CUST_00636,Customer 636,Retail,2,India,Unemployed,800
-CUST_00637,Customer 637,HNWI,10,India,Doctor,15000
-CUST_00638,Customer 638,Retail,5,KY,Unemployed,800
-CUST_00639,Customer 639,SME,3,KP,Politician,12000
-CUST_00640,Customer 640,Corporate,2,India,Doctor,15000
-CUST_00641,Customer 641,Corporate,7,Russia,Business Owner,50000
-CUST_00642,Customer 642,HNWI,3,IR,Business Owner,50000
-CUST_00643,Customer 643,Corporate,5,Russia,Politician,12000
-CUST_00644,Customer 644,Retail,3,USA,Unemployed,800
-CUST_00645,Customer 645,Corporate,10,Malaysia,Unemployed,800
-CUST_00646,Customer 646,SME,10,Russia,Unemployed,800
-CUST_00647,Customer 647,Corporate,1,UK,Consultant,10000
-CUST_00648,Customer 648,SME,5,KY,Politician,12000
-CUST_00649,Customer 649,HNWI,2,IR,Doctor,15000
-CUST_00650,Customer 650,SME,10,UK,Unemployed,800
-CUST_00651,Customer 651,SME,9,UK,Politician,12000
-CUST_00652,Customer 652,SME,5,Malaysia,Unemployed,800
-CUST_00653,Customer 653,HNWI,3,USA,Business Owner,50000
-CUST_00654,Customer 654,HNWI,8,KY,Engineer,8000
-CUST_00655,Customer 655,SME,3,Malaysia,Unemployed,800
-CUST_00656,Customer 656,HNWI,6,China,Consultant,10000
-CUST_00657,Customer 657,Retail,1,China,Student,500
-CUST_00658,Customer 658,SME,8,UK,Doctor,15000
-CUST_00659,Customer 659,HNWI,8,Russia,Student,500
-CUST_00660,Customer 660,Retail,5,KY,Consultant,10000
-CUST_00661,Customer 661,Corporate,8,UK,Student,500
-CUST_00662,Customer 662,HNWI,5,IR,Business Owner,50000
-CUST_00663,Customer 663,SME,10,KY,Unemployed,800
-CUST_00664,Customer 664,Retail,3,USA,Consultant,10000
-CUST_00665,Customer 665,Corporate,2,China,Doctor,15000
-CUST_00666,Customer 666,SME,1,Singapore,Business Owner,50000
-CUST_00667,Customer 667,Corporate,5,Russia,Business Owner,50000
-CUST_00668,Customer 668,Retail,8,KY,Student,500
-CUST_00669,Customer 669,Retail,5,China,Engineer,8000
-CUST_00670,Customer 670,Retail,3,China,Consultant,10000
-CUST_00671,Customer 671,HNWI,7,India,Business Owner,50000
-CUST_00672,Customer 672,SME,3,Russia,Consultant,10000
-CUST_00673,Customer 673,SME,10,KY,Unemployed,800
-CUST_00674,Customer 674,SME,4,USA,Doctor,15000
-CUST_00675,Customer 675,Corporate,8,IR,Business Owner,50000
-CUST_00676,Customer 676,Retail,8,KY,Business Owner,50000
-CUST_00677,Customer 677,Retail,6,Malaysia,Consultant,10000
-CUST_00678,Customer 678,HNWI,3,Singapore,Engineer,8000
-CUST_00679,Customer 679,Corporate,9,Russia,Business Owner,50000
-CUST_00680,Customer 680,HNWI,10,Singapore,Student,500
-CUST_00681,Customer 681,SME,4,IR,Engineer,8000
-CUST_00682,Customer 682,Corporate,4,KY,Student,500
-CUST_00683,Customer 683,Retail,10,IR,Student,500
-CUST_00684,Customer 684,Retail,9,Singapore,Consultant,10000
-CUST_00685,Customer 685,SME,8,India,Business Owner,50000
-CUST_00686,Customer 686,Retail,3,KY,Politician,12000
-CUST_00687,Customer 687,Corporate,4,China,Consultant,10000
-CUST_00688,Customer 688,Corporate,1,IR,Student,500
-CUST_00689,Customer 689,Corporate,4,USA,Consultant,10000
-CUST_00690,Customer 690,SME,4,Singapore,Politician,12000
-CUST_00691,Customer 691,SME,6,Malaysia,Consultant,10000
-CUST_00692,Customer 692,HNWI,1,USA,Politician,12000
-CUST_00693,Customer 693,SME,7,IR,Consultant,10000
-CUST_00694,Customer 694,HNWI,3,China,Consultant,10000
-CUST_00695,Customer 695,Retail,8,KP,Consultant,10000
-CUST_00696,Customer 696,Retail,6,Malaysia,Doctor,15000
-CUST_00697,Customer 697,HNWI,4,China,Engineer,8000
-CUST_00698,Customer 698,SME,6,China,Engineer,8000
-CUST_00699,Customer 699,Retail,3,KY,Doctor,15000
-CUST_00700,Customer 700,Corporate,2,KP,Student,500
-CUST_00701,Customer 701,Corporate,10,India,Consultant,10000
-CUST_00702,Customer 702,Retail,4,USA,Politician,12000
-CUST_00703,Customer 703,Retail,5,USA,Politician,12000
-CUST_00704,Customer 704,Corporate,9,India,Doctor,15000
-CUST_00705,Customer 705,Retail,8,India,Student,500
-CUST_00706,Customer 706,Retail,3,IR,Consultant,10000
-CUST_00707,Customer 707,HNWI,2,China,Doctor,15000
-CUST_00708,Customer 708,Corporate,10,KY,Business Owner,50000
-CUST_00709,Customer 709,SME,1,USA,Engineer,8000
-CUST_00710,Customer 710,HNWI,4,Malaysia,Engineer,8000
-CUST_00711,Customer 711,HNWI,6,Malaysia,Politician,12000
-CUST_00712,Customer 712,Retail,3,India,Politician,12000
-CUST_00713,Customer 713,SME,6,Russia,Consultant,10000
-CUST_00714,Customer 714,SME,6,Russia,Doctor,15000
-CUST_00715,Customer 715,HNWI,1,Malaysia,Politician,12000
-CUST_00716,Customer 716,HNWI,5,KP,Student,500
-CUST_00717,Customer 717,HNWI,7,KP,Politician,12000
-CUST_00718,Customer 718,Retail,2,Singapore,Politician,12000
-CUST_00719,Customer 719,Retail,9,Russia,Consultant,10000
-CUST_00720,Customer 720,SME,8,USA,Unemployed,800
-CUST_00721,Customer 721,HNWI,10,Malaysia,Unemployed,800
-CUST_00722,Customer 722,Corporate,6,KP,Business Owner,50000
-CUST_00723,Customer 723,Retail,6,India,Doctor,15000
-CUST_00724,Customer 724,SME,4,Russia,Doctor,15000
-CUST_00725,Customer 725,SME,10,KY,Unemployed,800
-CUST_00726,Customer 726,Corporate,8,KY,Unemployed,800
-CUST_00727,Customer 727,SME,10,Russia,Engineer,8000
-CUST_00728,Customer 728,Corporate,9,Singapore,Consultant,10000
-CUST_00729,Customer 729,HNWI,1,IR,Doctor,15000
-CUST_00730,Customer 730,HNWI,9,Singapore,Consultant,10000
-CUST_00731,Customer 731,Retail,1,Singapore,Unemployed,800
-CUST_00732,Customer 732,SME,1,UK,Politician,12000
-CUST_00733,Customer 733,Retail,3,KY,Doctor,15000
-CUST_00734,Customer 734,HNWI,8,UK,Consultant,10000
-CUST_00735,Customer 735,Corporate,3,KP,Consultant,10000
-CUST_00736,Customer 736,HNWI,3,Singapore,Engineer,8000
-CUST_00737,Customer 737,Corporate,6,India,Politician,12000
-CUST_00738,Customer 738,Retail,5,China,Consultant,10000
-CUST_00739,Customer 739,SME,2,KY,Politician,12000
-CUST_00740,Customer 740,HNWI,3,KY,Politician,12000
-CUST_00741,Customer 741,HNWI,7,KP,Politician,12000
-CUST_00742,Customer 742,Retail,6,Russia,Doctor,15000
-CUST_00743,Customer 743,SME,6,IR,Business Owner,50000
-CUST_00744,Customer 744,Retail,7,KY,Engineer,8000
-CUST_00745,Customer 745,Corporate,5,Singapore,Doctor,15000
-CUST_00746,Customer 746,HNWI,10,Russia,Politician,12000
-CUST_00747,Customer 747,Retail,10,KY,Business Owner,50000
-CUST_00748,Customer 748,Corporate,5,UK,Student,500
-CUST_00749,Customer 749,SME,5,India,Unemployed,800
-CUST_00750,Customer 750,HNWI,9,Russia,Student,500
-CUST_00751,Customer 751,HNWI,2,Russia,Consultant,10000
-CUST_00752,Customer 752,Corporate,8,UK,Student,500
-CUST_00753,Customer 753,Corporate,6,KY,Consultant,10000
-CUST_00754,Customer 754,HNWI,1,UK,Business Owner,50000
-CUST_00755,Customer 755,SME,10,KP,Student,500
-CUST_00756,Customer 756,HNWI,8,USA,Unemployed,800
-CUST_00757,Customer 757,SME,3,IR,Politician,12000
-CUST_00758,Customer 758,SME,9,UK,Business Owner,50000
-CUST_00759,Customer 759,Corporate,9,Malaysia,Consultant,10000
-CUST_00760,Customer 760,Corporate,3,KP,Student,500
-CUST_00761,Customer 761,SME,10,UK,Business Owner,50000
-CUST_00762,Customer 762,Retail,9,Singapore,Engineer,8000
-CUST_00763,Customer 763,HNWI,3,Malaysia,Student,500
-CUST_00764,Customer 764,Retail,5,China,Consultant,10000
-CUST_00765,Customer 765,Retail,2,Russia,Student,500
-CUST_00766,Customer 766,HNWI,5,China,Consultant,10000
-CUST_00767,Customer 767,Retail,5,China,Politician,12000
-CUST_00768,Customer 768,SME,9,USA,Unemployed,800
-CUST_00769,Customer 769,HNWI,8,UK,Doctor,15000
-CUST_00770,Customer 770,HNWI,2,Russia,Politician,12000
-CUST_00771,Customer 771,HNWI,7,Malaysia,Business Owner,50000
-CUST_00772,Customer 772,Retail,8,China,Consultant,10000
-CUST_00773,Customer 773,SME,3,Russia,Consultant,10000
-CUST_00774,Customer 774,HNWI,9,IR,Politician,12000
-CUST_00775,Customer 775,Corporate,1,Russia,Engineer,8000
-CUST_00776,Customer 776,Corporate,5,KY,Student,500
-CUST_00777,Customer 777,SME,4,India,Student,500
-CUST_00778,Customer 778,HNWI,3,UK,Unemployed,800
-CUST_00779,Customer 779,SME,4,KY,Business Owner,50000
-CUST_00780,Customer 780,HNWI,2,KY,Business Owner,50000
-CUST_00781,Customer 781,HNWI,5,Malaysia,Student,500
-CUST_00782,Customer 782,Retail,7,IR,Business Owner,50000
-CUST_00783,Customer 783,SME,3,Russia,Consultant,10000
-CUST_00784,Customer 784,SME,10,USA,Politician,12000
-CUST_00785,Customer 785,Corporate,6,Malaysia,Engineer,8000
-CUST_00786,Customer 786,Retail,9,USA,Engineer,8000
-CUST_00787,Customer 787,Retail,5,KP,Unemployed,800
-CUST_00788,Customer 788,Retail,3,India,Engineer,8000
-CUST_00789,Customer 789,SME,5,KP,Consultant,10000
-CUST_00790,Customer 790,HNWI,7,UK,Politician,12000
-CUST_00791,Customer 791,SME,1,India,Business Owner,50000
-CUST_00792,Customer 792,Retail,3,IR,Politician,12000
-CUST_00793,Customer 793,HNWI,7,Russia,Politician,12000
-CUST_00794,Customer 794,HNWI,7,IR,Business Owner,50000
-CUST_00795,Customer 795,SME,4,China,Student,500
-CUST_00796,Customer 796,SME,4,USA,Student,500
-CUST_00797,Customer 797,HNWI,9,UK,Doctor,15000
-CUST_00798,Customer 798,HNWI,1,IR,Doctor,15000
-CUST_00799,Customer 799,Corporate,8,KP,Business Owner,50000
-CUST_00800,Customer 800,SME,5,China,Engineer,8000
-CUST_00801,Customer 801,HNWI,8,Malaysia,Student,500
-CUST_00802,Customer 802,SME,6,KY,Unemployed,800
-CUST_00803,Customer 803,Corporate,9,China,Business Owner,50000
-CUST_00804,Customer 804,Retail,6,India,Engineer,8000
-CUST_00805,Customer 805,Corporate,5,Singapore,Student,500
-CUST_00806,Customer 806,Corporate,8,China,Unemployed,800
-CUST_00807,Customer 807,Corporate,8,Malaysia,Business Owner,50000
-CUST_00808,Customer 808,Corporate,3,China,Business Owner,50000
-CUST_00809,Customer 809,HNWI,2,Russia,Student,500
-CUST_00810,Customer 810,Retail,1,China,Doctor,15000
-CUST_00811,Customer 811,Corporate,1,IR,Consultant,10000
-CUST_00812,Customer 812,Corporate,10,IR,Doctor,15000
-CUST_00813,Customer 813,HNWI,10,Singapore,Doctor,15000
-CUST_00814,Customer 814,SME,5,UK,Politician,12000
-CUST_00815,Customer 815,HNWI,9,India,Student,500
-CUST_00816,Customer 816,Corporate,1,Singapore,Consultant,10000
-CUST_00817,Customer 817,HNWI,5,KY,Engineer,8000
-CUST_00818,Customer 818,HNWI,3,KP,Consultant,10000
-CUST_00819,Customer 819,Retail,4,KP,Doctor,15000
-CUST_00820,Customer 820,Corporate,5,KY,Doctor,15000
-CUST_00821,Customer 821,Retail,8,Singapore,Student,500
-CUST_00822,Customer 822,Corporate,2,Malaysia,Unemployed,800
-CUST_00823,Customer 823,SME,3,Russia,Politician,12000
-CUST_00824,Customer 824,Retail,5,IR,Engineer,8000
-CUST_00825,Customer 825,Retail,3,KY,Student,500
-CUST_00826,Customer 826,HNWI,10,USA,Student,500
-CUST_00827,Customer 827,HNWI,3,KP,Business Owner,50000
-CUST_00828,Customer 828,Retail,9,KP,Consultant,10000
-CUST_00829,Customer 829,SME,4,China,Engineer,8000
-CUST_00830,Customer 830,HNWI,1,Malaysia,Consultant,10000
-CUST_00831,Customer 831,Retail,5,UK,Business Owner,50000
-CUST_00832,Customer 832,Corporate,2,Singapore,Unemployed,800
-CUST_00833,Customer 833,HNWI,7,KY,Unemployed,800
-CUST_00834,Customer 834,Retail,2,KP,Business Owner,50000
-CUST_00835,Customer 835,SME,1,China,Politician,12000
-CUST_00836,Customer 836,HNWI,3,KP,Doctor,15000
-CUST_00837,Customer 837,Corporate,10,UK,Doctor,15000
-CUST_00838,Customer 838,Retail,9,UK,Politician,12000
-CUST_00839,Customer 839,SME,1,Russia,Doctor,15000
-CUST_00840,Customer 840,Retail,6,KY,Student,500
-CUST_00841,Customer 841,Retail,4,India,Student,500
-CUST_00842,Customer 842,SME,8,IR,Engineer,8000
-CUST_00843,Customer 843,Corporate,5,China,Business Owner,50000
-CUST_00844,Customer 844,HNWI,10,KP,Engineer,8000
-CUST_00845,Customer 845,SME,4,China,Unemployed,800
-CUST_00846,Customer 846,Retail,1,UK,Doctor,15000
-CUST_00847,Customer 847,Corporate,2,UK,Unemployed,800
-CUST_00848,Customer 848,HNWI,5,KY,Student,500
-CUST_00849,Customer 849,HNWI,6,Malaysia,Politician,12000
-CUST_00850,Customer 850,SME,7,Russia,Doctor,15000
-CUST_00851,Customer 851,SME,1,USA,Business Owner,50000
-CUST_00852,Customer 852,HNWI,9,KP,Politician,12000
-CUST_00853,Customer 853,SME,4,India,Student,500
-CUST_00854,Customer 854,SME,4,IR,Engineer,8000
-CUST_00855,Customer 855,HNWI,3,Malaysia,Business Owner,50000
-CUST_00856,Customer 856,HNWI,8,Russia,Business Owner,50000
-CUST_00857,Customer 857,Corporate,5,UK,Engineer,8000
-CUST_00858,Customer 858,Retail,2,KP,Doctor,15000
-CUST_00859,Customer 859,HNWI,3,UK,Business Owner,50000
-CUST_00860,Customer 860,Corporate,3,IR,Business Owner,50000
-CUST_00861,Customer 861,SME,6,Malaysia,Consultant,10000
-CUST_00862,Customer 862,SME,4,KP,Unemployed,800
-CUST_00863,Customer 863,HNWI,5,USA,Business Owner,50000
-CUST_00864,Customer 864,Retail,5,China,Politician,12000
-CUST_00865,Customer 865,Corporate,8,IR,Unemployed,800
-CUST_00866,Customer 866,Corporate,4,Malaysia,Consultant,10000
-CUST_00867,Customer 867,SME,10,IR,Unemployed,800
-CUST_00868,Customer 868,Retail,2,KP,Unemployed,800
-CUST_00869,Customer 869,Retail,10,Singapore,Consultant,10000
-CUST_00870,Customer 870,Retail,7,Russia,Doctor,15000
-CUST_00871,Customer 871,Corporate,8,KY,Unemployed,800
-CUST_00872,Customer 872,HNWI,6,Malaysia,Doctor,15000
-CUST_00873,Customer 873,SME,1,China,Business Owner,50000
-CUST_00874,Customer 874,HNWI,7,KY,Engineer,8000
-CUST_00875,Customer 875,Retail,3,KP,Consultant,10000
-CUST_00876,Customer 876,Corporate,4,USA,Unemployed,800
-CUST_00877,Customer 877,Retail,10,USA,Business Owner,50000
-CUST_00878,Customer 878,SME,8,KY,Politician,12000
-CUST_00879,Customer 879,Corporate,4,Malaysia,Engineer,8000
-CUST_00880,Customer 880,Corporate,4,KP,Doctor,15000
-CUST_00881,Customer 881,SME,1,IR,Doctor,15000
-CUST_00882,Customer 882,Corporate,2,Russia,Politician,12000
-CUST_00883,Customer 883,Retail,4,Singapore,Consultant,10000
-CUST_00884,Customer 884,SME,10,Russia,Engineer,8000
-CUST_00885,Customer 885,Retail,8,India,Doctor,15000
-CUST_00886,Customer 886,SME,3,Russia,Doctor,15000
-CUST_00887,Customer 887,Corporate,8,USA,Student,500
-CUST_00888,Customer 888,Corporate,10,KY,Business Owner,50000
-CUST_00889,Customer 889,SME,5,KY,Doctor,15000
-CUST_00890,Customer 890,HNWI,7,Malaysia,Business Owner,50000
-CUST_00891,Customer 891,SME,2,IR,Student,500
-CUST_00892,Customer 892,Corporate,5,UK,Politician,12000
-CUST_00893,Customer 893,SME,7,KY,Unemployed,800
-CUST_00894,Customer 894,SME,1,Malaysia,Consultant,10000
-CUST_00895,Customer 895,Retail,6,USA,Business Owner,50000
-CUST_00896,Customer 896,SME,9,KY,Engineer,8000
-CUST_00897,Customer 897,SME,10,KY,Politician,12000
-CUST_00898,Customer 898,Corporate,4,KY,Consultant,10000
-CUST_00899,Customer 899,Retail,8,Russia,Engineer,8000
-CUST_00900,Customer 900,Retail,3,USA,Consultant,10000
-CUST_00901,Customer 901,Retail,9,China,Business Owner,50000
-CUST_00902,Customer 902,HNWI,4,Russia,Politician,12000
-CUST_00903,Customer 903,SME,6,India,Student,500
-CUST_00904,Customer 904,SME,4,Singapore,Politician,12000
-CUST_00905,Customer 905,HNWI,10,Russia,Engineer,8000
-CUST_00906,Customer 906,Corporate,7,UK,Doctor,15000
-CUST_00907,Customer 907,Corporate,7,Malaysia,Consultant,10000
-CUST_00908,Customer 908,Corporate,3,USA,Business Owner,50000
-CUST_00909,Customer 909,Retail,5,USA,Consultant,10000
-CUST_00910,Customer 910,HNWI,6,Singapore,Business Owner,50000
-CUST_00911,Customer 911,HNWI,4,Russia,Politician,12000
-CUST_00912,Customer 912,SME,6,India,Student,500
-CUST_00913,Customer 913,Corporate,8,UK,Consultant,10000
-CUST_00914,Customer 914,Retail,1,Singapore,Business Owner,50000
-CUST_00915,Customer 915,HNWI,1,Russia,Politician,12000
-CUST_00916,Customer 916,Retail,1,India,Doctor,15000
-CUST_00917,Customer 917,SME,4,China,Unemployed,800
-CUST_00918,Customer 918,SME,4,IR,Student,500
-CUST_00919,Customer 919,HNWI,6,Singapore,Engineer,8000
-CUST_00920,Customer 920,SME,9,USA,Doctor,15000
-CUST_00921,Customer 921,HNWI,9,KY,Politician,12000
-CUST_00922,Customer 922,Corporate,2,IR,Doctor,15000
-CUST_00923,Customer 923,Retail,8,USA,Doctor,15000
-CUST_00924,Customer 924,HNWI,4,IR,Engineer,8000
-CUST_00925,Customer 925,Corporate,6,KP,Student,500
-CUST_00926,Customer 926,SME,1,USA,Business Owner,50000
-CUST_00927,Customer 927,SME,3,KY,Doctor,15000
-CUST_00928,Customer 928,SME,9,India,Unemployed,800
-CUST_00929,Customer 929,SME,10,KY,Business Owner,50000
-CUST_00930,Customer 930,Corporate,5,China,Engineer,8000
-CUST_00931,Customer 931,Corporate,7,China,Student,500
-CUST_00932,Customer 932,HNWI,8,China,Doctor,15000
-CUST_00933,Customer 933,Retail,8,KP,Student,500
-CUST_00934,Customer 934,HNWI,7,KP,Consultant,10000
-CUST_00935,Customer 935,HNWI,1,USA,Unemployed,800
-CUST_00936,Customer 936,HNWI,10,Russia,Consultant,10000
-CUST_00937,Customer 937,Retail,1,Malaysia,Politician,12000
-CUST_00938,Customer 938,HNWI,8,KY,Unemployed,800
-CUST_00939,Customer 939,SME,3,Malaysia,Student,500
-CUST_00940,Customer 940,HNWI,5,Singapore,Student,500
-CUST_00941,Customer 941,Retail,2,IR,Unemployed,800
-CUST_00942,Customer 942,HNWI,9,KY,Business Owner,50000
-CUST_00943,Customer 943,HNWI,2,Singapore,Student,500
-CUST_00944,Customer 944,Corporate,4,USA,Business Owner,50000
-CUST_00945,Customer 945,Corporate,8,KP,Doctor,15000
-CUST_00946,Customer 946,HNWI,4,Russia,Politician,12000
-CUST_00947,Customer 947,Corporate,3,Singapore,Doctor,15000
-CUST_00948,Customer 948,Corporate,3,KY,Consultant,10000
-CUST_00949,Customer 949,Retail,10,KP,Business Owner,50000
-CUST_00950,Customer 950,Corporate,2,UK,Engineer,8000
-CUST_00951,Customer 951,HNWI,8,KY,Doctor,15000
-CUST_00952,Customer 952,Corporate,4,India,Student,500
-CUST_00953,Customer 953,SME,8,IR,Business Owner,50000
-CUST_00954,Customer 954,SME,5,Malaysia,Unemployed,800
-CUST_00955,Customer 955,Retail,5,IR,Politician,12000
-CUST_00956,Customer 956,SME,7,KY,Unemployed,800
-CUST_00957,Customer 957,Corporate,3,UK,Unemployed,800
-CUST_00958,Customer 958,Retail,8,Singapore,Unemployed,800
-CUST_00959,Customer 959,Corporate,1,UK,Business Owner,50000
-CUST_00960,Customer 960,Corporate,7,Malaysia,Consultant,10000
-CUST_00961,Customer 961,HNWI,4,India,Engineer,8000
-CUST_00962,Customer 962,SME,9,Malaysia,Engineer,8000
-CUST_00963,Customer 963,HNWI,1,IR,Business Owner,50000
-CUST_00964,Customer 964,SME,1,KY,Doctor,15000
-CUST_00965,Customer 965,SME,6,Singapore,Student,500
-CUST_00966,Customer 966,HNWI,6,China,Unemployed,800
-CUST_00967,Customer 967,SME,4,KY,Unemployed,800
-CUST_00968,Customer 968,Retail,3,Russia,Consultant,10000
-CUST_00969,Customer 969,SME,6,Malaysia,Engineer,8000
-CUST_00970,Customer 970,HNWI,6,China,Doctor,15000
-CUST_00971,Customer 971,Retail,7,India,Business Owner,50000
-CUST_00972,Customer 972,HNWI,3,Russia,Unemployed,800
-CUST_00973,Customer 973,SME,5,Singapore,Student,500
-CUST_00974,Customer 974,SME,8,Russia,Consultant,10000
-CUST_00975,Customer 975,SME,1,India,Consultant,10000
-CUST_00976,Customer 976,Retail,9,Russia,Student,500
-CUST_00977,Customer 977,HNWI,8,India,Student,500
-CUST_00978,Customer 978,Corporate,4,India,Consultant,10000
-CUST_00979,Customer 979,Corporate,7,USA,Unemployed,800
-CUST_00980,Customer 980,Corporate,2,Malaysia,Student,500
-CUST_00981,Customer 981,HNWI,6,USA,Business Owner,50000
-CUST_00982,Customer 982,Corporate,9,USA,Doctor,15000
-CUST_00983,Customer 983,Retail,4,Malaysia,Student,500
-CUST_00984,Customer 984,HNWI,10,Russia,Politician,12000
-CUST_00985,Customer 985,Corporate,9,IR,Consultant,10000
-CUST_00986,Customer 986,Corporate,7,Singapore,Business Owner,50000
-CUST_00987,Customer 987,Corporate,5,Singapore,Engineer,8000
-CUST_00988,Customer 988,HNWI,2,KP,Unemployed,800
-CUST_00989,Customer 989,SME,2,IR,Unemployed,800
-CUST_00990,Customer 990,Retail,8,India,Business Owner,50000
-CUST_00991,Customer 991,Retail,9,Russia,Doctor,15000
-CUST_00992,Customer 992,HNWI,2,Singapore,Student,500
-CUST_00993,Customer 993,Corporate,6,KY,Business Owner,50000
-CUST_00994,Customer 994,HNWI,1,UK,Unemployed,800
-CUST_00995,Customer 995,Retail,2,UK,Student,500
-CUST_00996,Customer 996,Corporate,3,USA,Consultant,10000
-CUST_00997,Customer 997,SME,2,Singapore,Politician,12000
-CUST_00998,Customer 998,Corporate,5,Russia,Business Owner,50000
-CUST_00999,Customer 999,HNWI,7,IR,Engineer,8000
-CUST_01000,Customer 1000,Retail,6,India,Unemployed,800
-CUST_01001,Customer 1001,HNWI,5,KY,Business Owner,50000
-CUST_01002,Customer 1002,Corporate,6,Malaysia,Unemployed,800
-CUST_01003,Customer 1003,Retail,6,Malaysia,Business Owner,50000
-CUST_01004,Customer 1004,HNWI,3,Russia,Engineer,8000
-CUST_01005,Customer 1005,Corporate,1,India,Doctor,15000
-CUST_01006,Customer 1006,Corporate,3,KY,Student,500
-CUST_01007,Customer 1007,SME,2,UK,Consultant,10000
-CUST_01008,Customer 1008,Corporate,8,IR,Consultant,10000
-CUST_01009,Customer 1009,SME,7,IR,Unemployed,800
-CUST_01010,Customer 1010,SME,8,Singapore,Student,500
-CUST_01011,Customer 1011,Retail,6,Singapore,Consultant,10000
-CUST_01012,Customer 1012,SME,5,USA,Engineer,8000
-CUST_01013,Customer 1013,SME,9,Singapore,Business Owner,50000
-CUST_01014,Customer 1014,HNWI,8,UK,Engineer,8000
-CUST_01015,Customer 1015,HNWI,6,KP,Unemployed,800
-CUST_01016,Customer 1016,Retail,6,Russia,Student,500
-CUST_01017,Customer 1017,Corporate,3,India,Consultant,10000
-CUST_01018,Customer 1018,Retail,1,Singapore,Consultant,10000
-CUST_01019,Customer 1019,Retail,3,Russia,Consultant,10000
-CUST_01020,Customer 1020,SME,5,KY,Engineer,8000
-CUST_01021,Customer 1021,HNWI,7,Russia,Engineer,8000
-CUST_01022,Customer 1022,Retail,2,Singapore,Politician,12000
-CUST_01023,Customer 1023,HNWI,8,USA,Engineer,8000
-CUST_01024,Customer 1024,Corporate,8,UK,Doctor,15000
-CUST_01025,Customer 1025,HNWI,10,KP,Engineer,8000
-CUST_01026,Customer 1026,Retail,1,KY,Student,500
-CUST_01027,Customer 1027,HNWI,5,China,Doctor,15000
-CUST_01028,Customer 1028,Retail,7,Malaysia,Doctor,15000
-CUST_01029,Customer 1029,HNWI,8,Russia,Doctor,15000
-CUST_01030,Customer 1030,Corporate,5,Singapore,Business Owner,50000
-CUST_01031,Customer 1031,HNWI,1,China,Engineer,8000
-CUST_01032,Customer 1032,HNWI,7,USA,Engineer,8000
-CUST_01033,Customer 1033,Retail,5,KY,Consultant,10000
-CUST_01034,Customer 1034,Retail,5,India,Student,500
-CUST_01035,Customer 1035,HNWI,10,Russia,Consultant,10000
-CUST_01036,Customer 1036,Retail,4,UK,Engineer,8000
-CUST_01037,Customer 1037,HNWI,10,IR,Unemployed,800
-CUST_01038,Customer 1038,Corporate,3,China,Doctor,15000
-CUST_01039,Customer 1039,SME,2,UK,Doctor,15000
-CUST_01040,Customer 1040,SME,3,KY,Doctor,15000
-CUST_01041,Customer 1041,Corporate,4,KP,Engineer,8000
-CUST_01042,Customer 1042,Corporate,1,China,Politician,12000
-CUST_01043,Customer 1043,HNWI,2,Russia,Engineer,8000
-CUST_01044,Customer 1044,HNWI,8,UK,Consultant,10000
-CUST_01045,Customer 1045,SME,7,India,Student,500
-CUST_01046,Customer 1046,SME,5,Singapore,Engineer,8000
-CUST_01047,Customer 1047,SME,4,UK,Unemployed,800
-CUST_01048,Customer 1048,Retail,2,USA,Unemployed,800
-CUST_01049,Customer 1049,Corporate,6,India,Doctor,15000
-CUST_01050,Customer 1050,HNWI,6,USA,Business Owner,50000
-CUST_01051,Customer 1051,SME,2,Singapore,Doctor,15000
-CUST_01052,Customer 1052,Corporate,6,KP,Doctor,15000
-CUST_01053,Customer 1053,Corporate,7,Singapore,Consultant,10000
-CUST_01054,Customer 1054,Retail,7,KP,Business Owner,50000
-CUST_01055,Customer 1055,Corporate,2,India,Politician,12000
-CUST_01056,Customer 1056,Retail,5,India,Engineer,8000
-CUST_01057,Customer 1057,HNWI,8,KP,Politician,12000
-CUST_01058,Customer 1058,HNWI,7,UK,Doctor,15000
-CUST_01059,Customer 1059,Retail,3,Russia,Student,500
-CUST_01060,Customer 1060,Corporate,4,UK,Unemployed,800
-CUST_01061,Customer 1061,Corporate,10,India,Unemployed,800
-CUST_01062,Customer 1062,SME,3,KP,Student,500
-CUST_01063,Customer 1063,SME,2,Singapore,Doctor,15000
-CUST_01064,Customer 1064,Retail,10,Singapore,Consultant,10000
-CUST_01065,Customer 1065,Retail,9,IR,Politician,12000
-CUST_01066,Customer 1066,Corporate,9,UK,Engineer,8000
-CUST_01067,Customer 1067,SME,8,IR,Doctor,15000
-CUST_01068,Customer 1068,Corporate,5,IR,Student,500
-CUST_01069,Customer 1069,Retail,3,Singapore,Student,500
-CUST_01070,Customer 1070,Corporate,2,USA,Engineer,8000
-CUST_01071,Customer 1071,Retail,3,IR,Politician,12000
-CUST_01072,Customer 1072,HNWI,9,Malaysia,Consultant,10000
-CUST_01073,Customer 1073,Retail,6,KY,Unemployed,800
-CUST_01074,Customer 1074,SME,3,Singapore,Engineer,8000
-CUST_01075,Customer 1075,Corporate,4,UK,Politician,12000
-CUST_01076,Customer 1076,Corporate,10,Malaysia,Engineer,8000
-CUST_01077,Customer 1077,Retail,8,UK,Doctor,15000
-CUST_01078,Customer 1078,Corporate,6,Malaysia,Consultant,10000
-CUST_01079,Customer 1079,SME,1,USA,Consultant,10000
-CUST_01080,Customer 1080,HNWI,2,Russia,Unemployed,800
-CUST_01081,Customer 1081,Retail,1,Singapore,Unemployed,800
-CUST_01082,Customer 1082,Retail,5,USA,Student,500
-CUST_01083,Customer 1083,Retail,8,IR,Business Owner,50000
-CUST_01084,Customer 1084,SME,3,KP,Politician,12000
-CUST_01085,Customer 1085,Corporate,7,IR,Doctor,15000
-CUST_01086,Customer 1086,Retail,10,KY,Business Owner,50000
-CUST_01087,Customer 1087,SME,1,Russia,Student,500
-CUST_01088,Customer 1088,HNWI,9,Russia,Politician,12000
-CUST_01089,Customer 1089,Retail,4,Russia,Unemployed,800
-CUST_01090,Customer 1090,SME,9,Malaysia,Business Owner,50000
-CUST_01091,Customer 1091,HNWI,5,IR,Business Owner,50000
-CUST_01092,Customer 1092,Corporate,5,Singapore,Student,500
-CUST_01093,Customer 1093,Corporate,3,Malaysia,Business Owner,50000
-CUST_01094,Customer 1094,SME,10,USA,Consultant,10000
-CUST_01095,Customer 1095,Retail,10,Russia,Doctor,15000
-CUST_01096,Customer 1096,Corporate,3,Malaysia,Engineer,8000
-CUST_01097,Customer 1097,Corporate,1,India,Business Owner,50000
-CUST_01098,Customer 1098,HNWI,1,UK,Business Owner,50000
-CUST_01099,Customer 1099,HNWI,7,KY,Politician,12000
-CUST_01100,Customer 1100,Corporate,7,India,Engineer,8000
-CUST_01101,Customer 1101,Corporate,2,China,Consultant,10000
-CUST_01102,Customer 1102,SME,1,IR,Politician,12000
-CUST_01103,Customer 1103,Corporate,10,Malaysia,Student,500
-CUST_01104,Customer 1104,Corporate,9,KY,Student,500
-CUST_01105,Customer 1105,HNWI,10,Malaysia,Engineer,8000
-CUST_01106,Customer 1106,SME,5,IR,Engineer,8000
-CUST_01107,Customer 1107,HNWI,7,Russia,Politician,12000
-CUST_01108,Customer 1108,SME,9,China,Business Owner,50000
-CUST_01109,Customer 1109,Corporate,7,KP,Business Owner,50000
-CUST_01110,Customer 1110,HNWI,5,China,Unemployed,800
-CUST_01111,Customer 1111,Corporate,7,India,Politician,12000
-CUST_01112,Customer 1112,Corporate,3,USA,Consultant,10000
-CUST_01113,Customer 1113,Corporate,4,China,Student,500
-CUST_01114,Customer 1114,SME,10,KP,Unemployed,800
-CUST_01115,Customer 1115,Retail,3,KY,Business Owner,50000
-CUST_01116,Customer 1116,HNWI,3,China,Consultant,10000
-CUST_01117,Customer 1117,Retail,5,UK,Business Owner,50000
-CUST_01118,Customer 1118,Retail,9,Malaysia,Student,500
-CUST_01119,Customer 1119,SME,9,IR,Unemployed,800
-CUST_01120,Customer 1120,Corporate,3,Malaysia,Student,500
-CUST_01121,Customer 1121,Corporate,7,China,Politician,12000
-CUST_01122,Customer 1122,Corporate,8,UK,Politician,12000
-CUST_01123,Customer 1123,Corporate,9,KP,Business Owner,50000
-CUST_01124,Customer 1124,SME,9,KP,Business Owner,50000
-CUST_01125,Customer 1125,Corporate,10,KP,Engineer,8000
-CUST_01126,Customer 1126,Retail,3,Malaysia,Engineer,8000
-CUST_01127,Customer 1127,HNWI,2,Malaysia,Engineer,8000
-CUST_01128,Customer 1128,Corporate,10,Russia,Consultant,10000
-CUST_01129,Customer 1129,Retail,9,KP,Doctor,15000
-CUST_01130,Customer 1130,SME,4,India,Consultant,10000
-CUST_01131,Customer 1131,Retail,6,Russia,Engineer,8000
-CUST_01132,Customer 1132,HNWI,10,China,Business Owner,50000
-CUST_01133,Customer 1133,HNWI,3,UK,Doctor,15000
-CUST_01134,Customer 1134,SME,9,IR,Politician,12000
-CUST_01135,Customer 1135,Corporate,5,India,Unemployed,800
-CUST_01136,Customer 1136,Corporate,4,Singapore,Consultant,10000
-CUST_01137,Customer 1137,Corporate,2,China,Engineer,8000
-CUST_01138,Customer 1138,SME,5,KY,Student,500
-CUST_01139,Customer 1139,SME,1,KY,Unemployed,800
-CUST_01140,Customer 1140,HNWI,7,Russia,Engineer,8000
-CUST_01141,Customer 1141,Corporate,9,KP,Consultant,10000
-CUST_01142,Customer 1142,Retail,6,UK,Student,500
-CUST_01143,Customer 1143,Retail,2,UK,Politician,12000
-CUST_01144,Customer 1144,Corporate,3,China,Consultant,10000
-CUST_01145,Customer 1145,Retail,1,India,Engineer,8000
-CUST_01146,Customer 1146,HNWI,4,KP,Politician,12000
-CUST_01147,Customer 1147,Retail,5,UK,Business Owner,50000
-CUST_01148,Customer 1148,Retail,8,Russia,Engineer,8000
-CUST_01149,Customer 1149,Retail,1,KP,Politician,12000
-CUST_01150,Customer 1150,Corporate,9,China,Consultant,10000
-CUST_01151,Customer 1151,Retail,7,Russia,Doctor,15000
-CUST_01152,Customer 1152,SME,2,Malaysia,Student,500
-CUST_01153,Customer 1153,Corporate,6,Malaysia,Business Owner,50000
-CUST_01154,Customer 1154,Corporate,5,China,Student,500
-CUST_01155,Customer 1155,SME,2,IR,Unemployed,800
-CUST_01156,Customer 1156,HNWI,8,KY,Student,500
-CUST_01157,Customer 1157,SME,10,India,Politician,12000
-CUST_01158,Customer 1158,Corporate,7,China,Unemployed,800
-CUST_01159,Customer 1159,HNWI,10,Singapore,Consultant,10000
-CUST_01160,Customer 1160,Corporate,3,India,Unemployed,800
-CUST_01161,Customer 1161,Retail,5,Malaysia,Engineer,8000
-CUST_01162,Customer 1162,Retail,10,KP,Consultant,10000
-CUST_01163,Customer 1163,HNWI,10,China,Politician,12000
-CUST_01164,Customer 1164,HNWI,8,IR,Business Owner,50000
-CUST_01165,Customer 1165,SME,2,India,Unemployed,800
-CUST_01166,Customer 1166,Retail,1,Russia,Business Owner,50000
-CUST_01167,Customer 1167,Retail,2,Singapore,Politician,12000
-CUST_01168,Customer 1168,HNWI,4,UK,Consultant,10000
-CUST_01169,Customer 1169,SME,2,Singapore,Business Owner,50000
-CUST_01170,Customer 1170,Corporate,9,UK,Doctor,15000
-CUST_01171,Customer 1171,HNWI,5,UK,Consultant,10000
-CUST_01172,Customer 1172,Corporate,7,KP,Politician,12000
-CUST_01173,Customer 1173,Corporate,6,China,Unemployed,800
-CUST_01174,Customer 1174,Corporate,4,IR,Consultant,10000
-CUST_01175,Customer 1175,HNWI,4,UK,Politician,12000
-CUST_01176,Customer 1176,SME,1,Russia,Student,500
-CUST_01177,Customer 1177,Corporate,9,IR,Doctor,15000
-CUST_01178,Customer 1178,HNWI,2,India,Unemployed,800
-CUST_01179,Customer 1179,Retail,9,China,Politician,12000
-CUST_01180,Customer 1180,Corporate,6,UK,Consultant,10000
-CUST_01181,Customer 1181,Retail,8,UK,Doctor,15000
-CUST_01182,Customer 1182,HNWI,3,KP,Unemployed,800
-CUST_01183,Customer 1183,Corporate,3,Singapore,Unemployed,800
-CUST_01184,Customer 1184,Corporate,5,Russia,Student,500
-CUST_01185,Customer 1185,Retail,5,India,Business Owner,50000
-CUST_01186,Customer 1186,Retail,7,IR,Doctor,15000
-CUST_01187,Customer 1187,HNWI,6,Malaysia,Politician,12000
-CUST_01188,Customer 1188,HNWI,5,USA,Consultant,10000
-CUST_01189,Customer 1189,HNWI,3,IR,Engineer,8000
-CUST_01190,Customer 1190,SME,2,UK,Business Owner,50000
-CUST_01191,Customer 1191,Retail,3,India,Business Owner,50000
-CUST_01192,Customer 1192,SME,3,Malaysia,Engineer,8000
-CUST_01193,Customer 1193,SME,5,KP,Business Owner,50000
-CUST_01194,Customer 1194,HNWI,4,KY,Student,500
-CUST_01195,Customer 1195,SME,5,KY,Politician,12000
-CUST_01196,Customer 1196,Corporate,9,KP,Doctor,15000
-CUST_01197,Customer 1197,SME,9,Russia,Student,500
-CUST_01198,Customer 1198,Corporate,2,China,Doctor,15000
-CUST_01199,Customer 1199,Retail,1,Malaysia,Politician,12000
-CUST_01200,Customer 1200,HNWI,7,Russia,Doctor,15000
-CUST_01201,Customer 1201,SME,10,KY,Consultant,10000
-CUST_01202,Customer 1202,SME,5,China,Consultant,10000
-CUST_01203,Customer 1203,Corporate,2,UK,Student,500
-CUST_01204,Customer 1204,Retail,9,UK,Business Owner,50000
-CUST_01205,Customer 1205,Retail,5,UK,Consultant,10000
-CUST_01206,Customer 1206,Retail,9,UK,Politician,12000
-CUST_01207,Customer 1207,Corporate,5,Malaysia,Consultant,10000
-CUST_01208,Customer 1208,SME,1,USA,Student,500
-CUST_01209,Customer 1209,Retail,10,India,Engineer,8000
-CUST_01210,Customer 1210,HNWI,8,India,Consultant,10000
-CUST_01211,Customer 1211,HNWI,10,UK,Consultant,10000
-CUST_01212,Customer 1212,SME,4,China,Consultant,10000
-CUST_01213,Customer 1213,Corporate,2,IR,Business Owner,50000
-CUST_01214,Customer 1214,Retail,8,USA,Business Owner,50000
-CUST_01215,Customer 1215,HNWI,9,IR,Doctor,15000
-CUST_01216,Customer 1216,Retail,3,China,Consultant,10000
-CUST_01217,Customer 1217,Retail,8,USA,Politician,12000
-CUST_01218,Customer 1218,SME,8,Singapore,Consultant,10000
-CUST_01219,Customer 1219,Retail,4,UK,Unemployed,800
-CUST_01220,Customer 1220,Retail,4,IR,Business Owner,50000
-CUST_01221,Customer 1221,Corporate,1,China,Business Owner,50000
-CUST_01222,Customer 1222,SME,7,Malaysia,Engineer,8000
-CUST_01223,Customer 1223,Retail,3,UK,Politician,12000
-CUST_01224,Customer 1224,Corporate,5,India,Student,500
-CUST_01225,Customer 1225,Retail,9,China,Consultant,10000
-CUST_01226,Customer 1226,Retail,1,Singapore,Unemployed,800
-CUST_01227,Customer 1227,Corporate,8,India,Business Owner,50000
-CUST_01228,Customer 1228,HNWI,3,IR,Doctor,15000
-CUST_01229,Customer 1229,SME,10,Singapore,Unemployed,800
-CUST_01230,Customer 1230,HNWI,2,USA,Unemployed,800
-CUST_01231,Customer 1231,SME,10,IR,Doctor,15000
-CUST_01232,Customer 1232,Retail,7,KY,Engineer,8000
-CUST_01233,Customer 1233,SME,4,KP,Engineer,8000
-CUST_01234,Customer 1234,HNWI,4,KP,Politician,12000
-CUST_01235,Customer 1235,HNWI,5,KY,Business Owner,50000
-CUST_01236,Customer 1236,HNWI,8,Malaysia,Business Owner,50000
-CUST_01237,Customer 1237,Corporate,6,KP,Consultant,10000
-CUST_01238,Customer 1238,Retail,1,KP,Business Owner,50000
-CUST_01239,Customer 1239,SME,5,India,Unemployed,800
-CUST_01240,Customer 1240,Retail,10,India,Business Owner,50000
-CUST_01241,Customer 1241,HNWI,8,USA,Consultant,10000
-CUST_01242,Customer 1242,SME,1,Singapore,Engineer,8000
-CUST_01243,Customer 1243,Corporate,8,Malaysia,Politician,12000
-CUST_01244,Customer 1244,HNWI,8,USA,Business Owner,50000
-CUST_01245,Customer 1245,Corporate,8,KY,Engineer,8000
-CUST_01246,Customer 1246,HNWI,3,China,Engineer,8000
-CUST_01247,Customer 1247,Corporate,7,Singapore,Consultant,10000
-CUST_01248,Customer 1248,SME,3,KY,Unemployed,800
-CUST_01249,Customer 1249,Corporate,1,Singapore,Business Owner,50000
-CUST_01250,Customer 1250,Corporate,5,KY,Consultant,10000
-CUST_01251,Customer 1251,SME,7,China,Doctor,15000
-CUST_01252,Customer 1252,SME,3,Russia,Politician,12000
-CUST_01253,Customer 1253,HNWI,6,China,Consultant,10000
-CUST_01254,Customer 1254,Retail,6,Malaysia,Doctor,15000
-CUST_01255,Customer 1255,Retail,1,IR,Business Owner,50000
-CUST_01256,Customer 1256,Retail,6,UK,Doctor,15000
-CUST_01257,Customer 1257,Retail,10,USA,Unemployed,800
-CUST_01258,Customer 1258,HNWI,10,Malaysia,Unemployed,800
-CUST_01259,Customer 1259,HNWI,1,India,Business Owner,50000
-CUST_01260,Customer 1260,Corporate,6,KP,Unemployed,800
-CUST_01261,Customer 1261,HNWI,8,Russia,Unemployed,800
-CUST_01262,Customer 1262,Retail,6,Singapore,Doctor,15000
-CUST_01263,Customer 1263,Corporate,8,India,Politician,12000
-CUST_01264,Customer 1264,Retail,3,IR,Engineer,8000
-CUST_01265,Customer 1265,SME,9,Malaysia,Unemployed,800
-CUST_01266,Customer 1266,HNWI,4,Malaysia,Politician,12000
-CUST_01267,Customer 1267,SME,2,China,Student,500
-CUST_01268,Customer 1268,Corporate,8,India,Consultant,10000
-CUST_01269,Customer 1269,SME,5,India,Politician,12000
-CUST_01270,Customer 1270,HNWI,10,Malaysia,Business Owner,50000
-CUST_01271,Customer 1271,SME,1,China,Engineer,8000
-CUST_01272,Customer 1272,SME,3,Singapore,Consultant,10000
-CUST_01273,Customer 1273,SME,6,Singapore,Unemployed,800
-CUST_01274,Customer 1274,SME,2,Singapore,Business Owner,50000
-CUST_01275,Customer 1275,Retail,2,IR,Engineer,8000
-CUST_01276,Customer 1276,Retail,4,China,Consultant,10000
-CUST_01277,Customer 1277,Retail,2,Singapore,Consultant,10000
-CUST_01278,Customer 1278,SME,3,Malaysia,Consultant,10000
-CUST_01279,Customer 1279,HNWI,8,Russia,Student,500
-CUST_01280,Customer 1280,Retail,8,KY,Unemployed,800
-CUST_01281,Customer 1281,Corporate,7,China,Doctor,15000
-CUST_01282,Customer 1282,Corporate,10,India,Politician,12000
-CUST_01283,Customer 1283,Corporate,1,Russia,Doctor,15000
-CUST_01284,Customer 1284,Corporate,6,UK,Doctor,15000
-CUST_01285,Customer 1285,HNWI,7,Singapore,Student,500
-CUST_01286,Customer 1286,Retail,2,USA,Politician,12000
-CUST_01287,Customer 1287,HNWI,3,USA,Doctor,15000
-CUST_01288,Customer 1288,Corporate,8,Malaysia,Consultant,10000
-CUST_01289,Customer 1289,Corporate,9,China,Student,500
-CUST_01290,Customer 1290,Retail,8,China,Unemployed,800
-CUST_01291,Customer 1291,Corporate,9,Russia,Politician,12000
-CUST_01292,Customer 1292,Retail,8,China,Doctor,15000
-CUST_01293,Customer 1293,HNWI,2,China,Politician,12000
-CUST_01294,Customer 1294,SME,4,India,Engineer,8000
-CUST_01295,Customer 1295,Corporate,3,India,Business Owner,50000
-CUST_01296,Customer 1296,Retail,1,UK,Engineer,8000
-CUST_01297,Customer 1297,SME,7,Russia,Engineer,8000
-CUST_01298,Customer 1298,Retail,4,Russia,Engineer,8000
-CUST_01299,Customer 1299,SME,6,KY,Engineer,8000
-CUST_01300,Customer 1300,Corporate,5,Malaysia,Unemployed,800
-CUST_01301,Customer 1301,HNWI,4,IR,Politician,12000
-CUST_01302,Customer 1302,SME,7,UK,Student,500
-CUST_01303,Customer 1303,Corporate,8,Singapore,Unemployed,800
-CUST_01304,Customer 1304,SME,6,Singapore,Consultant,10000
-CUST_01305,Customer 1305,SME,6,IR,Doctor,15000
-CUST_01306,Customer 1306,SME,8,IR,Doctor,15000
-CUST_01307,Customer 1307,Corporate,3,Malaysia,Engineer,8000
-CUST_01308,Customer 1308,HNWI,6,Singapore,Business Owner,50000
-CUST_01309,Customer 1309,Retail,3,IR,Student,500
-CUST_01310,Customer 1310,Retail,4,Russia,Unemployed,800
-CUST_01311,Customer 1311,Corporate,1,India,Politician,12000
-CUST_01312,Customer 1312,Corporate,8,USA,Politician,12000
-CUST_01313,Customer 1313,Retail,9,Malaysia,Consultant,10000
-CUST_01314,Customer 1314,Retail,4,Malaysia,Politician,12000
-CUST_01315,Customer 1315,HNWI,3,Malaysia,Unemployed,800
-CUST_01316,Customer 1316,Retail,4,IR,Politician,12000
-CUST_01317,Customer 1317,SME,4,India,Student,500
-CUST_01318,Customer 1318,SME,9,Malaysia,Consultant,10000
-CUST_01319,Customer 1319,Corporate,4,KP,Politician,12000
-CUST_01320,Customer 1320,HNWI,5,Malaysia,Engineer,8000
-CUST_01321,Customer 1321,Corporate,6,Malaysia,Business Owner,50000
-CUST_01322,Customer 1322,Corporate,9,IR,Engineer,8000
-CUST_01323,Customer 1323,SME,4,Russia,Unemployed,800
-CUST_01324,Customer 1324,Corporate,7,KY,Doctor,15000
-CUST_01325,Customer 1325,SME,8,UK,Consultant,10000
-CUST_01326,Customer 1326,SME,10,Russia,Politician,12000
-CUST_01327,Customer 1327,SME,9,USA,Engineer,8000
-CUST_01328,Customer 1328,Corporate,5,Malaysia,Doctor,15000
-CUST_01329,Customer 1329,HNWI,5,KP,Unemployed,800
-CUST_01330,Customer 1330,HNWI,9,KY,Consultant,10000
-CUST_01331,Customer 1331,SME,9,Singapore,Business Owner,50000
-CUST_01332,Customer 1332,SME,8,KP,Student,500
-CUST_01333,Customer 1333,Corporate,8,UK,Unemployed,800
-CUST_01334,Customer 1334,Corporate,4,Singapore,Unemployed,800
-CUST_01335,Customer 1335,SME,4,USA,Student,500
-CUST_01336,Customer 1336,HNWI,2,Singapore,Consultant,10000
-CUST_01337,Customer 1337,HNWI,6,KY,Business Owner,50000
-CUST_01338,Customer 1338,Retail,2,India,Student,500
-CUST_01339,Customer 1339,Retail,6,India,Engineer,8000
-CUST_01340,Customer 1340,Retail,10,KY,Unemployed,800
-CUST_01341,Customer 1341,HNWI,8,Malaysia,Doctor,15000
-CUST_01342,Customer 1342,Corporate,8,Russia,Doctor,15000
-CUST_01343,Customer 1343,Corporate,7,IR,Politician,12000
-CUST_01344,Customer 1344,Corporate,2,KY,Business Owner,50000
-CUST_01345,Customer 1345,HNWI,7,UK,Consultant,10000
-CUST_01346,Customer 1346,Corporate,6,KP,Politician,12000
-CUST_01347,Customer 1347,SME,10,UK,Engineer,8000
-CUST_01348,Customer 1348,HNWI,3,China,Engineer,8000
-CUST_01349,Customer 1349,HNWI,9,Russia,Unemployed,800
-CUST_01350,Customer 1350,Corporate,6,UK,Engineer,8000
-CUST_01351,Customer 1351,Retail,8,India,Business Owner,50000
-CUST_01352,Customer 1352,Retail,9,China,Unemployed,800
-CUST_01353,Customer 1353,SME,2,India,Business Owner,50000
-CUST_01354,Customer 1354,SME,4,Singapore,Politician,12000
-CUST_01355,Customer 1355,Retail,10,KP,Student,500
-CUST_01356,Customer 1356,HNWI,1,KY,Engineer,8000
-CUST_01357,Customer 1357,SME,2,USA,Politician,12000
-CUST_01358,Customer 1358,Retail,6,IR,Student,500
-CUST_01359,Customer 1359,SME,5,IR,Business Owner,50000
-CUST_01360,Customer 1360,SME,4,KP,Doctor,15000
-CUST_01361,Customer 1361,SME,7,IR,Doctor,15000
-CUST_01362,Customer 1362,HNWI,6,Russia,Consultant,10000
-CUST_01363,Customer 1363,Corporate,5,UK,Unemployed,800
-CUST_01364,Customer 1364,Corporate,7,India,Consultant,10000
-CUST_01365,Customer 1365,Retail,5,India,Engineer,8000
-CUST_01366,Customer 1366,Corporate,10,Singapore,Student,500
-CUST_01367,Customer 1367,Corporate,4,IR,Unemployed,800
-CUST_01368,Customer 1368,HNWI,8,KY,Doctor,15000
-CUST_01369,Customer 1369,Corporate,2,China,Politician,12000
-CUST_01370,Customer 1370,HNWI,6,Singapore,Doctor,15000
-CUST_01371,Customer 1371,HNWI,8,Malaysia,Unemployed,800
-CUST_01372,Customer 1372,SME,1,Malaysia,Student,500
-CUST_01373,Customer 1373,SME,9,Russia,Student,500
-CUST_01374,Customer 1374,SME,2,USA,Politician,12000
-CUST_01375,Customer 1375,SME,4,USA,Student,500
-CUST_01376,Customer 1376,SME,9,KY,Unemployed,800
-CUST_01377,Customer 1377,HNWI,9,Singapore,Unemployed,800
-CUST_01378,Customer 1378,SME,4,Malaysia,Consultant,10000
-CUST_01379,Customer 1379,SME,9,China,Engineer,8000
-CUST_01380,Customer 1380,Corporate,1,UK,Politician,12000
-CUST_01381,Customer 1381,Retail,10,Malaysia,Engineer,8000
-CUST_01382,Customer 1382,SME,5,KP,Politician,12000
-CUST_01383,Customer 1383,Corporate,5,IR,Consultant,10000
-CUST_01384,Customer 1384,SME,6,KY,Business Owner,50000
-CUST_01385,Customer 1385,SME,9,Malaysia,Engineer,8000
-CUST_01386,Customer 1386,SME,8,IR,Doctor,15000
-CUST_01387,Customer 1387,SME,2,USA,Consultant,10000
-CUST_01388,Customer 1388,HNWI,4,KY,Unemployed,800
-CUST_01389,Customer 1389,SME,7,KP,Doctor,15000
-CUST_01390,Customer 1390,Corporate,10,Russia,Unemployed,800
-CUST_01391,Customer 1391,HNWI,8,Singapore,Doctor,15000
-CUST_01392,Customer 1392,Corporate,8,KY,Student,500
-CUST_01393,Customer 1393,SME,6,UK,Engineer,8000
-CUST_01394,Customer 1394,Retail,8,China,Doctor,15000
-CUST_01395,Customer 1395,Corporate,10,China,Engineer,8000
-CUST_01396,Customer 1396,Retail,2,USA,Business Owner,50000
-CUST_01397,Customer 1397,Retail,2,KP,Student,500
-CUST_01398,Customer 1398,SME,8,Malaysia,Student,500
-CUST_01399,Customer 1399,SME,4,Singapore,Engineer,8000
-CUST_01400,Customer 1400,Corporate,3,Malaysia,Business Owner,50000
-CUST_01401,Customer 1401,Retail,1,KP,Business Owner,50000
-CUST_01402,Customer 1402,SME,4,USA,Student,500
-CUST_01403,Customer 1403,HNWI,8,KP,Business Owner,50000
-CUST_01404,Customer 1404,Retail,4,India,Doctor,15000
-CUST_01405,Customer 1405,SME,1,Russia,Student,500
-CUST_01406,Customer 1406,HNWI,10,UK,Politician,12000
-CUST_01407,Customer 1407,SME,6,UK,Doctor,15000
-CUST_01408,Customer 1408,Retail,8,Malaysia,Engineer,8000
-CUST_01409,Customer 1409,Retail,7,China,Politician,12000
-CUST_01410,Customer 1410,Retail,8,USA,Unemployed,800
-CUST_01411,Customer 1411,HNWI,1,Malaysia,Unemployed,800
-CUST_01412,Customer 1412,Retail,10,IR,Doctor,15000
-CUST_01413,Customer 1413,SME,1,Malaysia,Engineer,8000
-CUST_01414,Customer 1414,Retail,8,Russia,Student,500
-CUST_01415,Customer 1415,Retail,7,Malaysia,Consultant,10000
-CUST_01416,Customer 1416,Retail,5,KP,Engineer,8000
-CUST_01417,Customer 1417,HNWI,5,IR,Business Owner,50000
-CUST_01418,Customer 1418,Corporate,3,Russia,Business Owner,50000
-CUST_01419,Customer 1419,Corporate,8,Singapore,Engineer,8000
-CUST_01420,Customer 1420,HNWI,3,India,Business Owner,50000
-CUST_01421,Customer 1421,SME,6,Singapore,Unemployed,800
-CUST_01422,Customer 1422,Retail,2,IR,Consultant,10000
-CUST_01423,Customer 1423,SME,5,USA,Business Owner,50000
-CUST_01424,Customer 1424,Retail,2,Russia,Engineer,8000
-CUST_01425,Customer 1425,HNWI,3,Russia,Unemployed,800
-CUST_01426,Customer 1426,Corporate,7,IR,Student,500
-CUST_01427,Customer 1427,Corporate,9,China,Engineer,8000
-CUST_01428,Customer 1428,Corporate,6,China,Business Owner,50000
-CUST_01429,Customer 1429,HNWI,1,KY,Engineer,8000
-CUST_01430,Customer 1430,HNWI,8,Russia,Consultant,10000
-CUST_01431,Customer 1431,HNWI,10,KY,Engineer,8000
-CUST_01432,Customer 1432,SME,8,IR,Politician,12000
-CUST_01433,Customer 1433,HNWI,9,Malaysia,Doctor,15000
-CUST_01434,Customer 1434,Retail,7,UK,Unemployed,800
-CUST_01435,Customer 1435,SME,6,KY,Politician,12000
-CUST_01436,Customer 1436,HNWI,2,USA,Student,500
-CUST_01437,Customer 1437,SME,9,KP,Politician,12000
-CUST_01438,Customer 1438,HNWI,1,Malaysia,Unemployed,800
-CUST_01439,Customer 1439,Corporate,4,India,Business Owner,50000
-CUST_01440,Customer 1440,HNWI,8,Russia,Doctor,15000
-CUST_01441,Customer 1441,SME,4,KP,Politician,12000
-CUST_01442,Customer 1442,Corporate,4,Malaysia,Unemployed,800
-CUST_01443,Customer 1443,SME,1,KY,Student,500
-CUST_01444,Customer 1444,Retail,5,KP,Consultant,10000
-CUST_01445,Customer 1445,Retail,3,China,Unemployed,800
-CUST_01446,Customer 1446,SME,9,India,Business Owner,50000
-CUST_01447,Customer 1447,SME,3,KY,Consultant,10000
-CUST_01448,Customer 1448,Retail,4,China,Doctor,15000
-CUST_01449,Customer 1449,Corporate,2,India,Unemployed,800
-CUST_01450,Customer 1450,Corporate,8,KP,Engineer,8000
-CUST_01451,Customer 1451,SME,4,USA,Unemployed,800
-CUST_01452,Customer 1452,Retail,10,KP,Business Owner,50000
-CUST_01453,Customer 1453,Retail,2,India,Student,500
-CUST_01454,Customer 1454,SME,9,China,Doctor,15000
-CUST_01455,Customer 1455,Corporate,2,KP,Engineer,8000
-CUST_01456,Customer 1456,Retail,5,Russia,Business Owner,50000
-CUST_01457,Customer 1457,Corporate,3,India,Politician,12000
-CUST_01458,Customer 1458,Corporate,1,Russia,Student,500
-CUST_01459,Customer 1459,HNWI,7,KP,Business Owner,50000
-CUST_01460,Customer 1460,Corporate,5,UK,Business Owner,50000
-CUST_01461,Customer 1461,Corporate,10,Malaysia,Politician,12000
-CUST_01462,Customer 1462,Retail,6,USA,Consultant,10000
-CUST_01463,Customer 1463,HNWI,2,KP,Doctor,15000
-CUST_01464,Customer 1464,HNWI,6,USA,Consultant,10000
-CUST_01465,Customer 1465,Retail,5,Malaysia,Business Owner,50000
-CUST_01466,Customer 1466,Retail,3,China,Student,500
-CUST_01467,Customer 1467,Corporate,4,India,Doctor,15000
-CUST_01468,Customer 1468,SME,2,China,Student,500
-CUST_01469,Customer 1469,HNWI,7,China,Politician,12000
-CUST_01470,Customer 1470,Retail,5,KP,Doctor,15000
-CUST_01471,Customer 1471,SME,5,India,Business Owner,50000
-CUST_01472,Customer 1472,Retail,7,IR,Politician,12000
-CUST_01473,Customer 1473,HNWI,8,KP,Consultant,10000
-CUST_01474,Customer 1474,SME,1,IR,Engineer,8000
-CUST_01475,Customer 1475,SME,8,Russia,Doctor,15000
-CUST_01476,Customer 1476,Retail,9,Malaysia,Student,500
-CUST_01477,Customer 1477,Corporate,7,India,Unemployed,800
-CUST_01478,Customer 1478,HNWI,8,Malaysia,Student,500
-CUST_01479,Customer 1479,Corporate,2,Russia,Politician,12000
-CUST_01480,Customer 1480,HNWI,6,Singapore,Engineer,8000
-CUST_01481,Customer 1481,Corporate,10,USA,Politician,12000
-CUST_01482,Customer 1482,Retail,10,China,Unemployed,800
-CUST_01483,Customer 1483,Retail,9,India,Business Owner,50000
-CUST_01484,Customer 1484,SME,9,China,Student,500
-CUST_01485,Customer 1485,Retail,8,India,Consultant,10000
-CUST_01486,Customer 1486,Corporate,5,KY,Engineer,8000
-CUST_01487,Customer 1487,HNWI,2,USA,Doctor,15000
-CUST_01488,Customer 1488,Corporate,10,IR,Business Owner,50000
-CUST_01489,Customer 1489,Retail,9,KP,Doctor,15000
-CUST_01490,Customer 1490,HNWI,4,IR,Consultant,10000
-CUST_01491,Customer 1491,SME,9,UK,Engineer,8000
-CUST_01492,Customer 1492,SME,9,Singapore,Doctor,15000
-CUST_01493,Customer 1493,Retail,2,Russia,Unemployed,800
-CUST_01494,Customer 1494,SME,10,KY,Doctor,15000
-CUST_01495,Customer 1495,Corporate,2,Russia,Business Owner,50000
-CUST_01496,Customer 1496,SME,5,China,Student,500
-CUST_01497,Customer 1497,HNWI,6,KP,Student,500
-CUST_01498,Customer 1498,SME,8,Malaysia,Consultant,10000
-CUST_01499,Customer 1499,HNWI,1,USA,Consultant,10000
-CUST_01500,Customer 1500,SME,7,Malaysia,Unemployed,800
+CUST_TRUST_001,Customer 1,Retail,6,KP,Unemployed,800
+CUST_TRUST_002,Customer 2,Corporate,3,RU,Unemployed,800
+CUST_TRUST_003,Customer 3,Corporate,8,US,Student,500
+CUST_00004,Customer 4,SME,9,CN,Consultant,10000
+CUST_00005,Customer 5,Corporate,2,KP,Unemployed,800
+CUST_00006,Customer 6,HNWI,9,CN,Consultant,10000
+CUST_00007,Customer 7,Corporate,9,GB,Engineer,8000
+CUST_00008,Customer 8,SME,8,SG,Consultant,10000
+CUST_00009,Customer 9,SME,10,GB,Business Owner,50000
+CUST_00010,Customer 10,Corporate,10,RU,Engineer,8000
+CUST_00011,Customer 11,Retail,3,US,Doctor,15000
+CUST_00012,Customer 12,Corporate,9,MY,Engineer,8000
+CUST_00013,Customer 13,SME,9,IR,Business Owner,50000
+CUST_00014,Customer 14,Retail,10,SG,Doctor,15000
+CUST_00015,Customer 15,SME,1,KP,Politician,12000
+CUST_00016,Customer 16,HNWI,9,IR,Business Owner,50000
+CUST_00017,Customer 17,Retail,7,MY,Business Owner,50000
+CUST_00018,Customer 18,Retail,6,RU,Student,500
+CUST_00019,Customer 19,Corporate,2,MY,Business Owner,50000
+CUST_00020,Customer 20,HNWI,9,IN,Unemployed,800
+CUST_00021,Customer 21,HNWI,10,KP,Student,500
+CUST_00022,Customer 22,Retail,3,SG,Business Owner,50000
+CUST_00023,Customer 23,Corporate,5,KY,Consultant,10000
+CUST_00024,Customer 24,Retail,1,MY,Politician,12000
+CUST_00025,Customer 25,Corporate,7,IN,Business Owner,50000
+CUST_00026,Customer 26,Retail,2,GB,Student,500
+CUST_00027,Customer 27,HNWI,9,IR,Student,500
+CUST_00028,Customer 28,Retail,3,IR,Student,500
+CUST_00029,Customer 29,HNWI,1,KP,Student,500
+CUST_00030,Customer 30,Corporate,7,CN,Consultant,10000
+CUST_00031,Customer 31,Corporate,8,IR,Unemployed,800
+CUST_00032,Customer 32,HNWI,8,RU,Doctor,15000
+CUST_00033,Customer 33,SME,4,KP,Business Owner,50000
+CUST_00034,Customer 34,Corporate,8,IN,Engineer,8000
+CUST_00035,Customer 35,Retail,7,IN,Engineer,8000
+CUST_00036,Customer 36,SME,10,US,Consultant,10000
+CUST_00037,Customer 37,HNWI,4,KP,Politician,12000
+CUST_00038,Customer 38,Retail,7,IN,Engineer,8000
+CUST_00039,Customer 39,Retail,9,RU,Consultant,10000
+CUST_00040,Customer 40,Retail,3,CN,Consultant,10000
+CUST_00041,Customer 41,Corporate,6,RU,Business Owner,50000
+CUST_00042,Customer 42,Corporate,5,CN,Consultant,10000
+CUST_00043,Customer 43,SME,2,IR,Unemployed,800
+CUST_00044,Customer 44,HNWI,9,KP,Business Owner,50000
+CUST_00045,Customer 45,Retail,1,MY,Unemployed,800
+CUST_00046,Customer 46,Retail,1,IR,Unemployed,800
+CUST_00047,Customer 47,HNWI,9,KY,Consultant,10000
+CUST_00048,Customer 48,HNWI,3,IR,Consultant,10000
+CUST_00049,Customer 49,SME,4,US,Doctor,15000
+CUST_00050,Customer 50,SME,10,IR,Politician,12000
+CUST_00051,Customer 51,SME,6,SG,Student,500
+CUST_00052,Customer 52,Corporate,8,KY,Business Owner,50000
+CUST_00053,Customer 53,Corporate,1,IR,Business Owner,50000
+CUST_00054,Customer 54,Retail,9,IN,Engineer,8000
+CUST_00055,Customer 55,Corporate,1,SG,Consultant,10000
+CUST_00056,Customer 56,Retail,2,CN,Politician,12000
+CUST_00057,Customer 57,SME,4,GB,Doctor,15000
+CUST_00058,Customer 58,Corporate,2,US,Consultant,10000
+CUST_00059,Customer 59,SME,6,RU,Unemployed,800
+CUST_00060,Customer 60,SME,4,KP,Unemployed,800
+CUST_00061,Customer 61,Retail,6,MY,Politician,12000
+CUST_00062,Customer 62,HNWI,6,KP,Politician,12000
+CUST_00063,Customer 63,SME,1,IN,Student,500
+CUST_00064,Customer 64,Retail,9,SG,Politician,12000
+CUST_00065,Customer 65,Corporate,9,IN,Student,500
+CUST_00066,Customer 66,HNWI,8,SG,Business Owner,50000
+CUST_00067,Customer 67,Retail,5,MY,Politician,12000
+CUST_00068,Customer 68,Retail,10,US,Business Owner,50000
+CUST_00069,Customer 69,HNWI,3,RU,Engineer,8000
+CUST_00070,Customer 70,HNWI,3,US,Engineer,8000
+CUST_00071,Customer 71,Corporate,9,US,Business Owner,50000
+CUST_00072,Customer 72,Corporate,1,KY,Politician,12000
+CUST_00073,Customer 73,HNWI,10,RU,Business Owner,50000
+CUST_00074,Customer 74,SME,4,GB,Student,500
+CUST_00075,Customer 75,Corporate,2,CN,Student,500
+CUST_00076,Customer 76,SME,10,IN,Consultant,10000
+CUST_00077,Customer 77,HNWI,5,MY,Student,500
+CUST_00078,Customer 78,Corporate,9,GB,Business Owner,50000
+CUST_00079,Customer 79,Corporate,4,RU,Consultant,10000
+CUST_00080,Customer 80,Corporate,10,GB,Doctor,15000
+CUST_00081,Customer 81,HNWI,10,KY,Consultant,10000
+CUST_00082,Customer 82,Corporate,8,RU,Business Owner,50000
+CUST_00083,Customer 83,Corporate,10,MY,Politician,12000
+CUST_00084,Customer 84,Corporate,5,MY,Consultant,10000
+CUST_00085,Customer 85,HNWI,1,GB,Engineer,8000
+CUST_00086,Customer 86,Retail,6,IN,Business Owner,50000
+CUST_00087,Customer 87,SME,7,US,Doctor,15000
+CUST_00088,Customer 88,SME,4,RU,Politician,12000
+CUST_00089,Customer 89,SME,7,GB,Engineer,8000
+CUST_00090,Customer 90,HNWI,9,RU,Politician,12000
+CUST_00091,Customer 91,Corporate,6,MY,Business Owner,50000
+CUST_00092,Customer 92,SME,2,GB,Business Owner,50000
+CUST_00093,Customer 93,SME,5,SG,Student,500
+CUST_00094,Customer 94,SME,5,US,Student,500
+CUST_00095,Customer 95,Corporate,2,SG,Business Owner,50000
+CUST_00096,Customer 96,Corporate,2,MY,Student,500
+CUST_00097,Customer 97,HNWI,4,IN,Unemployed,800
+CUST_00098,Customer 98,Corporate,5,MY,Business Owner,50000
+CUST_00099,Customer 99,Retail,2,MY,Doctor,15000
+CUST_00100,Customer 100,HNWI,6,CN,Consultant,10000
+CUST_00101,Customer 101,HNWI,3,IN,Engineer,8000
+CUST_00102,Customer 102,Retail,8,US,Politician,12000
+CUST_00103,Customer 103,HNWI,10,KP,Consultant,10000
+CUST_00104,Customer 104,Corporate,8,CN,Student,500
+CUST_00105,Customer 105,Retail,9,SG,Politician,12000
+CUST_00106,Customer 106,SME,10,GB,Business Owner,50000
+CUST_00107,Customer 107,Corporate,9,RU,Doctor,15000
+CUST_00108,Customer 108,SME,8,SG,Doctor,15000
+CUST_00109,Customer 109,Corporate,7,CN,Business Owner,50000
+CUST_00110,Customer 110,Corporate,5,US,Business Owner,50000
+CUST_00111,Customer 111,SME,4,KY,Engineer,8000
+CUST_00112,Customer 112,Retail,10,IN,Business Owner,50000
+CUST_00113,Customer 113,SME,9,IR,Student,500
+CUST_00114,Customer 114,Retail,6,GB,Consultant,10000
+CUST_00115,Customer 115,Corporate,9,CN,Engineer,8000
+CUST_00116,Customer 116,Retail,4,IR,Unemployed,800
+CUST_00117,Customer 117,Retail,3,KY,Business Owner,50000
+CUST_00118,Customer 118,SME,1,US,Business Owner,50000
+CUST_00119,Customer 119,Corporate,2,MY,Doctor,15000
+CUST_00120,Customer 120,SME,5,RU,Unemployed,800
+CUST_00121,Customer 121,HNWI,8,KP,Consultant,10000
+CUST_00122,Customer 122,SME,1,IR,Business Owner,50000
+CUST_00123,Customer 123,Corporate,9,IN,Unemployed,800
+CUST_00124,Customer 124,HNWI,1,SG,Consultant,10000
+CUST_00125,Customer 125,Retail,4,RU,Student,500
+CUST_00126,Customer 126,Corporate,4,MY,Doctor,15000
+CUST_00127,Customer 127,HNWI,2,MY,Doctor,15000
+CUST_00128,Customer 128,HNWI,5,KP,Unemployed,800
+CUST_00129,Customer 129,HNWI,1,IR,Unemployed,800
+CUST_00130,Customer 130,Retail,9,IN,Engineer,8000
+CUST_00131,Customer 131,Corporate,10,IN,Student,500
+CUST_00132,Customer 132,Retail,9,IR,Business Owner,50000
+CUST_00133,Customer 133,SME,9,RU,Business Owner,50000
+CUST_00134,Customer 134,SME,9,IN,Politician,12000
+CUST_00135,Customer 135,Corporate,10,IR,Unemployed,800
+CUST_00136,Customer 136,HNWI,10,MY,Unemployed,800
+CUST_00137,Customer 137,SME,8,GB,Engineer,8000
+CUST_00138,Customer 138,Retail,9,KY,Doctor,15000
+CUST_00139,Customer 139,Retail,1,RU,Engineer,8000
+CUST_00140,Customer 140,SME,1,KP,Doctor,15000
+CUST_00141,Customer 141,HNWI,1,SG,Unemployed,800
+CUST_00142,Customer 142,Retail,2,RU,Business Owner,50000
+CUST_00143,Customer 143,SME,5,IN,Student,500
+CUST_00144,Customer 144,Corporate,8,SG,Engineer,8000
+CUST_00145,Customer 145,Retail,5,CN,Doctor,15000
+CUST_00146,Customer 146,Retail,9,KP,Engineer,8000
+CUST_00147,Customer 147,SME,10,KY,Unemployed,800
+CUST_00148,Customer 148,SME,8,KY,Business Owner,50000
+CUST_00149,Customer 149,Retail,10,RU,Doctor,15000
+CUST_00150,Customer 150,HNWI,6,RU,Business Owner,50000
+CUST_00151,Customer 151,HNWI,6,IR,Student,500
+CUST_00152,Customer 152,Retail,4,GB,Unemployed,800
+CUST_00153,Customer 153,HNWI,5,KY,Engineer,8000
+CUST_00154,Customer 154,SME,3,RU,Doctor,15000
+CUST_00155,Customer 155,SME,8,GB,Politician,12000
+CUST_00156,Customer 156,Retail,6,MY,Doctor,15000
+CUST_00157,Customer 157,HNWI,2,US,Politician,12000
+CUST_00158,Customer 158,SME,10,KY,Business Owner,50000
+CUST_00159,Customer 159,Corporate,1,KP,Business Owner,50000
+CUST_00160,Customer 160,HNWI,10,US,Business Owner,50000
+CUST_00161,Customer 161,SME,3,IR,Consultant,10000
+CUST_00162,Customer 162,Retail,5,IR,Engineer,8000
+CUST_00163,Customer 163,HNWI,5,SG,Consultant,10000
+CUST_00164,Customer 164,Retail,6,IR,Unemployed,800
+CUST_00165,Customer 165,Retail,3,KY,Unemployed,800
+CUST_00166,Customer 166,Retail,7,MY,Student,500
+CUST_00167,Customer 167,HNWI,10,IN,Consultant,10000
+CUST_00168,Customer 168,Corporate,10,US,Business Owner,50000
+CUST_00169,Customer 169,SME,6,KP,Politician,12000
+CUST_00170,Customer 170,SME,9,MY,Doctor,15000
+CUST_00171,Customer 171,HNWI,10,KY,Politician,12000
+CUST_00172,Customer 172,Corporate,5,SG,Student,500
+CUST_00173,Customer 173,Retail,1,RU,Consultant,10000
+CUST_00174,Customer 174,HNWI,4,GB,Doctor,15000
+CUST_00175,Customer 175,SME,3,IR,Engineer,8000
+CUST_00176,Customer 176,HNWI,1,KY,Unemployed,800
+CUST_00177,Customer 177,Retail,7,MY,Consultant,10000
+CUST_00178,Customer 178,SME,1,KP,Engineer,8000
+CUST_00179,Customer 179,Retail,8,IR,Business Owner,50000
+CUST_00180,Customer 180,Corporate,6,IN,Business Owner,50000
+CUST_00181,Customer 181,Retail,8,IN,Doctor,15000
+CUST_00182,Customer 182,Corporate,3,IN,Student,500
+CUST_00183,Customer 183,SME,6,KP,Engineer,8000
+CUST_00184,Customer 184,SME,7,GB,Unemployed,800
+CUST_00185,Customer 185,Retail,1,KY,Doctor,15000
+CUST_00186,Customer 186,HNWI,2,US,Engineer,8000
+CUST_00187,Customer 187,Corporate,4,KP,Politician,12000
+CUST_00188,Customer 188,HNWI,4,MY,Business Owner,50000
+CUST_00189,Customer 189,Retail,5,KP,Politician,12000
+CUST_00190,Customer 190,Corporate,8,GB,Unemployed,800
+CUST_00191,Customer 191,SME,8,MY,Consultant,10000
+CUST_00192,Customer 192,SME,4,RU,Student,500
+CUST_00193,Customer 193,SME,3,CN,Business Owner,50000
+CUST_00194,Customer 194,Retail,6,KY,Consultant,10000
+CUST_00195,Customer 195,Retail,7,SG,Student,500
+CUST_00196,Customer 196,HNWI,5,KP,Student,500
+CUST_00197,Customer 197,HNWI,7,IN,Student,500
+CUST_00198,Customer 198,Retail,10,IR,Student,500
+CUST_00199,Customer 199,Corporate,4,IN,Politician,12000
+CUST_00200,Customer 200,HNWI,7,MY,Student,500
+CUST_00201,Customer 201,Retail,9,GB,Business Owner,50000
+CUST_00202,Customer 202,SME,2,KY,Business Owner,50000
+CUST_00203,Customer 203,HNWI,7,US,Politician,12000
+CUST_00204,Customer 204,Corporate,9,KP,Doctor,15000
+CUST_00205,Customer 205,Corporate,3,KY,Business Owner,50000
+CUST_00206,Customer 206,Retail,4,GB,Consultant,10000
+CUST_00207,Customer 207,SME,7,MY,Consultant,10000
+CUST_00208,Customer 208,Corporate,8,IR,Politician,12000
+CUST_00209,Customer 209,SME,6,SG,Engineer,8000
+CUST_00210,Customer 210,Retail,9,RU,Student,500
+CUST_00211,Customer 211,HNWI,8,KY,Unemployed,800
+CUST_00212,Customer 212,SME,5,RU,Student,500
+CUST_00213,Customer 213,HNWI,5,US,Politician,12000
+CUST_00214,Customer 214,Corporate,10,SG,Student,500
+CUST_00215,Customer 215,Retail,2,US,Unemployed,800
+CUST_00216,Customer 216,Retail,10,GB,Doctor,15000
+CUST_00217,Customer 217,Retail,7,GB,Business Owner,50000
+CUST_00218,Customer 218,SME,9,SG,Politician,12000
+CUST_00219,Customer 219,SME,7,US,Engineer,8000
+CUST_00220,Customer 220,SME,1,IR,Unemployed,800
+CUST_00221,Customer 221,Retail,7,GB,Business Owner,50000
+CUST_00222,Customer 222,Corporate,6,US,Student,500
+CUST_00223,Customer 223,Corporate,5,SG,Student,500
+CUST_00224,Customer 224,HNWI,4,MY,Engineer,8000
+CUST_00225,Customer 225,SME,7,US,Engineer,8000
+CUST_00226,Customer 226,Retail,7,GB,Unemployed,800
+CUST_00227,Customer 227,SME,7,MY,Student,500
+CUST_00228,Customer 228,SME,2,KY,Unemployed,800
+CUST_00229,Customer 229,SME,1,US,Politician,12000
+CUST_00230,Customer 230,Corporate,3,KY,Unemployed,800
+CUST_00231,Customer 231,HNWI,6,MY,Engineer,8000
+CUST_00232,Customer 232,SME,2,MY,Engineer,8000
+CUST_00233,Customer 233,Corporate,4,CN,Politician,12000
+CUST_00234,Customer 234,Corporate,6,US,Doctor,15000
+CUST_00235,Customer 235,SME,7,KP,Engineer,8000
+CUST_00236,Customer 236,Corporate,1,GB,Unemployed,800
+CUST_00237,Customer 237,SME,8,KY,Unemployed,800
+CUST_00238,Customer 238,Retail,5,MY,Politician,12000
+CUST_00239,Customer 239,HNWI,10,GB,Unemployed,800
+CUST_00240,Customer 240,Retail,9,KP,Consultant,10000
+CUST_00241,Customer 241,SME,10,GB,Consultant,10000
+CUST_00242,Customer 242,Retail,7,MY,Student,500
+CUST_00243,Customer 243,SME,10,KP,Consultant,10000
+CUST_00244,Customer 244,HNWI,1,US,Engineer,8000
+CUST_00245,Customer 245,SME,4,GB,Politician,12000
+CUST_00246,Customer 246,SME,9,SG,Politician,12000
+CUST_00247,Customer 247,Corporate,6,CN,Engineer,8000
+CUST_00248,Customer 248,Corporate,10,MY,Unemployed,800
+CUST_00249,Customer 249,Corporate,6,MY,Business Owner,50000
+CUST_00250,Customer 250,Retail,6,SG,Doctor,15000
+CUST_00251,Customer 251,HNWI,2,IN,Student,500
+CUST_00252,Customer 252,Retail,10,GB,Student,500
+CUST_00253,Customer 253,Retail,1,SG,Doctor,15000
+CUST_00254,Customer 254,Corporate,7,KP,Politician,12000
+CUST_00255,Customer 255,Corporate,4,MY,Unemployed,800
+CUST_00256,Customer 256,Retail,9,IR,Business Owner,50000
+CUST_00257,Customer 257,HNWI,7,MY,Politician,12000
+CUST_00258,Customer 258,Retail,2,CN,Consultant,10000
+CUST_00259,Customer 259,Retail,1,RU,Consultant,10000
+CUST_00260,Customer 260,Retail,8,KY,Business Owner,50000
+CUST_00261,Customer 261,HNWI,2,CN,Business Owner,50000
+CUST_00262,Customer 262,HNWI,3,RU,Unemployed,800
+CUST_00263,Customer 263,HNWI,4,KY,Unemployed,800
+CUST_00264,Customer 264,SME,6,KP,Politician,12000
+CUST_00265,Customer 265,Corporate,7,SG,Consultant,10000
+CUST_00266,Customer 266,HNWI,5,IN,Doctor,15000
+CUST_00267,Customer 267,HNWI,9,US,Politician,12000
+CUST_00268,Customer 268,SME,4,IR,Engineer,8000
+CUST_00269,Customer 269,HNWI,4,IN,Consultant,10000
+CUST_00270,Customer 270,SME,7,KP,Student,500
+CUST_00271,Customer 271,Corporate,2,KP,Consultant,10000
+CUST_00272,Customer 272,SME,10,KY,Business Owner,50000
+CUST_00273,Customer 273,Retail,5,GB,Politician,12000
+CUST_00274,Customer 274,Corporate,5,KY,Doctor,15000
+CUST_00275,Customer 275,HNWI,1,CN,Engineer,8000
+CUST_00276,Customer 276,Retail,1,KP,Business Owner,50000
+CUST_00277,Customer 277,HNWI,2,SG,Business Owner,50000
+CUST_00278,Customer 278,SME,7,MY,Politician,12000
+CUST_00279,Customer 279,HNWI,4,MY,Student,500
+CUST_00280,Customer 280,HNWI,3,MY,Consultant,10000
+CUST_00281,Customer 281,Corporate,5,RU,Consultant,10000
+CUST_00282,Customer 282,Retail,2,SG,Business Owner,50000
+CUST_00283,Customer 283,Retail,2,SG,Student,500
+CUST_00284,Customer 284,Retail,10,US,Student,500
+CUST_00285,Customer 285,Retail,8,US,Student,500
+CUST_00286,Customer 286,Corporate,10,CN,Unemployed,800
+CUST_00287,Customer 287,HNWI,5,SG,Engineer,8000
+CUST_00288,Customer 288,Retail,2,MY,Unemployed,800
+CUST_00289,Customer 289,Retail,4,US,Business Owner,50000
+CUST_00290,Customer 290,SME,6,US,Unemployed,800
+CUST_00291,Customer 291,Retail,9,IN,Politician,12000
+CUST_00292,Customer 292,HNWI,2,SG,Engineer,8000
+CUST_00293,Customer 293,HNWI,5,KY,Business Owner,50000
+CUST_00294,Customer 294,Corporate,7,KY,Business Owner,50000
+CUST_00295,Customer 295,Retail,4,SG,Politician,12000
+CUST_00296,Customer 296,Corporate,10,US,Unemployed,800
+CUST_00297,Customer 297,SME,4,KP,Politician,12000
+CUST_00298,Customer 298,Corporate,3,KY,Politician,12000
+CUST_00299,Customer 299,HNWI,9,RU,Unemployed,800
+CUST_00300,Customer 300,Corporate,8,US,Business Owner,50000
+CUST_00301,Customer 301,HNWI,4,MY,Engineer,8000
+CUST_00302,Customer 302,SME,3,CN,Doctor,15000
+CUST_00303,Customer 303,SME,9,IN,Unemployed,800
+CUST_00304,Customer 304,Retail,4,RU,Doctor,15000
+CUST_00305,Customer 305,Corporate,6,KP,Consultant,10000
+CUST_00306,Customer 306,Corporate,9,SG,Unemployed,800
+CUST_00307,Customer 307,Retail,3,IR,Consultant,10000
+CUST_00308,Customer 308,Corporate,5,GB,Engineer,8000
+CUST_00309,Customer 309,HNWI,5,IN,Doctor,15000
+CUST_00310,Customer 310,Corporate,6,US,Student,500
+CUST_00311,Customer 311,SME,10,US,Student,500
+CUST_00312,Customer 312,Corporate,1,KP,Consultant,10000
+CUST_00313,Customer 313,Corporate,3,SG,Consultant,10000
+CUST_00314,Customer 314,Retail,10,GB,Politician,12000
+CUST_00315,Customer 315,Retail,3,KY,Politician,12000
+CUST_00316,Customer 316,Retail,5,MY,Unemployed,800
+CUST_00317,Customer 317,Retail,9,IN,Doctor,15000
+CUST_00318,Customer 318,Retail,4,IR,Engineer,8000
+CUST_00319,Customer 319,Corporate,2,GB,Politician,12000
+CUST_00320,Customer 320,Corporate,4,KY,Business Owner,50000
+CUST_00321,Customer 321,SME,9,KP,Politician,12000
+CUST_00322,Customer 322,SME,5,US,Consultant,10000
+CUST_00323,Customer 323,SME,8,GB,Politician,12000
+CUST_00324,Customer 324,Corporate,6,KP,Consultant,10000
+CUST_00325,Customer 325,SME,7,US,Business Owner,50000
+CUST_00326,Customer 326,Corporate,5,GB,Engineer,8000
+CUST_00327,Customer 327,HNWI,8,RU,Student,500
+CUST_00328,Customer 328,SME,9,SG,Consultant,10000
+CUST_00329,Customer 329,SME,7,MY,Doctor,15000
+CUST_00330,Customer 330,HNWI,8,IN,Business Owner,50000
+CUST_00331,Customer 331,Retail,2,KY,Business Owner,50000
+CUST_00332,Customer 332,HNWI,5,GB,Unemployed,800
+CUST_00333,Customer 333,HNWI,6,US,Doctor,15000
+CUST_00334,Customer 334,Retail,10,MY,Unemployed,800
+CUST_00335,Customer 335,Retail,9,RU,Unemployed,800
+CUST_00336,Customer 336,Retail,10,CN,Doctor,15000
+CUST_00337,Customer 337,Retail,8,KY,Consultant,10000
+CUST_00338,Customer 338,SME,6,RU,Politician,12000
+CUST_00339,Customer 339,Corporate,10,US,Engineer,8000
+CUST_00340,Customer 340,HNWI,5,SG,Unemployed,800
+CUST_00341,Customer 341,SME,3,GB,Politician,12000
+CUST_00342,Customer 342,Retail,8,CN,Doctor,15000
+CUST_00343,Customer 343,SME,6,SG,Consultant,10000
+CUST_00344,Customer 344,SME,9,IN,Unemployed,800
+CUST_00345,Customer 345,Retail,5,KY,Consultant,10000
+CUST_00346,Customer 346,SME,7,MY,Business Owner,50000
+CUST_00347,Customer 347,SME,9,CN,Business Owner,50000
+CUST_00348,Customer 348,SME,8,KY,Consultant,10000
+CUST_00349,Customer 349,SME,10,US,Doctor,15000
+CUST_00350,Customer 350,Corporate,2,RU,Doctor,15000
+CUST_00351,Customer 351,Retail,8,CN,Engineer,8000
+CUST_00352,Customer 352,SME,3,RU,Consultant,10000
+CUST_00353,Customer 353,SME,1,IN,Student,500
+CUST_00354,Customer 354,SME,5,RU,Student,500
+CUST_00355,Customer 355,HNWI,7,US,Unemployed,800
+CUST_00356,Customer 356,HNWI,4,US,Student,500
+CUST_00357,Customer 357,SME,10,US,Politician,12000
+CUST_00358,Customer 358,SME,10,IR,Consultant,10000
+CUST_00359,Customer 359,Retail,3,US,Politician,12000
+CUST_00360,Customer 360,Corporate,4,IR,Consultant,10000
+CUST_00361,Customer 361,HNWI,4,IR,Unemployed,800
+CUST_00362,Customer 362,SME,10,SG,Consultant,10000
+CUST_00363,Customer 363,Retail,2,SG,Politician,12000
+CUST_00364,Customer 364,HNWI,7,SG,Unemployed,800
+CUST_00365,Customer 365,Corporate,10,MY,Doctor,15000
+CUST_00366,Customer 366,SME,5,SG,Politician,12000
+CUST_00367,Customer 367,HNWI,9,US,Unemployed,800
+CUST_00368,Customer 368,Corporate,1,US,Doctor,15000
+CUST_00369,Customer 369,SME,9,RU,Student,500
+CUST_00370,Customer 370,SME,3,SG,Student,500
+CUST_00371,Customer 371,HNWI,4,KY,Student,500
+CUST_00372,Customer 372,SME,6,CN,Engineer,8000
+CUST_00373,Customer 373,SME,8,CN,Unemployed,800
+CUST_00374,Customer 374,Corporate,5,CN,Student,500
+CUST_00375,Customer 375,SME,4,IR,Unemployed,800
+CUST_00376,Customer 376,Corporate,6,IR,Unemployed,800
+CUST_00377,Customer 377,HNWI,1,KP,Consultant,10000
+CUST_00378,Customer 378,HNWI,3,GB,Politician,12000
+CUST_00379,Customer 379,HNWI,2,IR,Unemployed,800
+CUST_00380,Customer 380,Corporate,9,IN,Business Owner,50000
+CUST_00381,Customer 381,Corporate,6,IR,Business Owner,50000
+CUST_00382,Customer 382,HNWI,2,IN,Consultant,10000
+CUST_00383,Customer 383,Retail,3,MY,Student,500
+CUST_00384,Customer 384,SME,5,KP,Engineer,8000
+CUST_00385,Customer 385,SME,7,CN,Politician,12000
+CUST_00386,Customer 386,Retail,3,KY,Consultant,10000
+CUST_00387,Customer 387,Retail,7,GB,Consultant,10000
+CUST_00388,Customer 388,Retail,1,KY,Doctor,15000
+CUST_00389,Customer 389,Retail,8,SG,Doctor,15000
+CUST_00390,Customer 390,Corporate,6,US,Engineer,8000
+CUST_00391,Customer 391,HNWI,4,SG,Engineer,8000
+CUST_00392,Customer 392,SME,5,SG,Politician,12000
+CUST_00393,Customer 393,Retail,3,RU,Student,500
+CUST_00394,Customer 394,SME,5,RU,Doctor,15000
+CUST_00395,Customer 395,Corporate,5,KP,Engineer,8000
+CUST_00396,Customer 396,HNWI,3,IR,Doctor,15000
+CUST_00397,Customer 397,Corporate,5,IN,Business Owner,50000
+CUST_00398,Customer 398,HNWI,2,IR,Student,500
+CUST_00399,Customer 399,Corporate,7,MY,Unemployed,800
+CUST_00400,Customer 400,HNWI,6,US,Unemployed,800
+CUST_00401,Customer 401,HNWI,6,IR,Consultant,10000
+CUST_00402,Customer 402,Retail,2,RU,Politician,12000
+CUST_00403,Customer 403,SME,1,GB,Politician,12000
+CUST_00404,Customer 404,Corporate,5,IR,Consultant,10000
+CUST_00405,Customer 405,Retail,5,IN,Business Owner,50000
+CUST_00406,Customer 406,SME,2,CN,Unemployed,800
+CUST_00407,Customer 407,Corporate,10,IR,Unemployed,800
+CUST_00408,Customer 408,Retail,5,IN,Engineer,8000
+CUST_00409,Customer 409,SME,6,GB,Engineer,8000
+CUST_00410,Customer 410,Retail,5,RU,Unemployed,800
+CUST_00411,Customer 411,SME,9,IN,Unemployed,800
+CUST_00412,Customer 412,SME,7,US,Doctor,15000
+CUST_00413,Customer 413,HNWI,10,IN,Doctor,15000
+CUST_00414,Customer 414,Retail,1,KY,Engineer,8000
+CUST_00415,Customer 415,SME,6,IN,Business Owner,50000
+CUST_00416,Customer 416,Corporate,3,RU,Doctor,15000
+CUST_00417,Customer 417,SME,2,US,Unemployed,800
+CUST_00418,Customer 418,Retail,8,IR,Politician,12000
+CUST_00419,Customer 419,HNWI,1,GB,Unemployed,800
+CUST_00420,Customer 420,SME,2,KY,Doctor,15000
+CUST_00421,Customer 421,SME,3,CN,Student,500
+CUST_00422,Customer 422,HNWI,4,KP,Engineer,8000
+CUST_00423,Customer 423,Retail,10,IN,Unemployed,800
+CUST_00424,Customer 424,Corporate,2,CN,Engineer,8000
+CUST_00425,Customer 425,Corporate,2,IR,Politician,12000
+CUST_00426,Customer 426,Corporate,7,MY,Business Owner,50000
+CUST_00427,Customer 427,Corporate,3,SG,Student,500
+CUST_00428,Customer 428,HNWI,5,IN,Student,500
+CUST_00429,Customer 429,Corporate,6,US,Student,500
+CUST_00430,Customer 430,Retail,9,SG,Engineer,8000
+CUST_00431,Customer 431,Retail,6,IN,Student,500
+CUST_00432,Customer 432,SME,5,RU,Engineer,8000
+CUST_00433,Customer 433,SME,4,GB,Business Owner,50000
+CUST_00434,Customer 434,Corporate,8,RU,Unemployed,800
+CUST_00435,Customer 435,Corporate,4,KP,Engineer,8000
+CUST_00436,Customer 436,HNWI,5,IN,Consultant,10000
+CUST_00437,Customer 437,SME,5,SG,Doctor,15000
+CUST_00438,Customer 438,Retail,8,IR,Doctor,15000
+CUST_00439,Customer 439,Corporate,4,KY,Politician,12000
+CUST_00440,Customer 440,HNWI,9,MY,Consultant,10000
+CUST_00441,Customer 441,Corporate,10,RU,Engineer,8000
+CUST_00442,Customer 442,Retail,4,IR,Consultant,10000
+CUST_00443,Customer 443,HNWI,7,KY,Student,500
+CUST_00444,Customer 444,Retail,4,KY,Unemployed,800
+CUST_00445,Customer 445,SME,6,SG,Doctor,15000
+CUST_00446,Customer 446,SME,5,SG,Engineer,8000
+CUST_00447,Customer 447,HNWI,7,KP,Engineer,8000
+CUST_00448,Customer 448,HNWI,1,IN,Engineer,8000
+CUST_00449,Customer 449,SME,6,GB,Unemployed,800
+CUST_00450,Customer 450,Corporate,1,IR,Engineer,8000
+CUST_00451,Customer 451,SME,3,US,Unemployed,800
+CUST_00452,Customer 452,Corporate,2,GB,Student,500
+CUST_00453,Customer 453,Corporate,8,IN,Doctor,15000
+CUST_00454,Customer 454,Corporate,8,GB,Consultant,10000
+CUST_00455,Customer 455,SME,5,US,Politician,12000
+CUST_00456,Customer 456,SME,10,US,Student,500
+CUST_00457,Customer 457,Corporate,1,SG,Consultant,10000
+CUST_00458,Customer 458,HNWI,7,US,Engineer,8000
+CUST_00459,Customer 459,Corporate,4,KY,Business Owner,50000
+CUST_00460,Customer 460,Retail,10,MY,Business Owner,50000
+CUST_00461,Customer 461,HNWI,3,SG,Consultant,10000
+CUST_00462,Customer 462,Corporate,8,GB,Consultant,10000
+CUST_00463,Customer 463,HNWI,7,SG,Politician,12000
+CUST_00464,Customer 464,Corporate,3,GB,Consultant,10000
+CUST_00465,Customer 465,Retail,3,GB,Politician,12000
+CUST_00466,Customer 466,HNWI,1,KP,Student,500
+CUST_00467,Customer 467,Retail,3,RU,Unemployed,800
+CUST_00468,Customer 468,SME,10,IN,Unemployed,800
+CUST_00469,Customer 469,SME,3,SG,Consultant,10000
+CUST_00470,Customer 470,Retail,1,MY,Engineer,8000
+CUST_00471,Customer 471,HNWI,10,IN,Business Owner,50000
+CUST_00472,Customer 472,Corporate,6,SG,Unemployed,800
+CUST_00473,Customer 473,Corporate,2,MY,Business Owner,50000
+CUST_00474,Customer 474,Retail,5,MY,Student,500
+CUST_00475,Customer 475,HNWI,3,RU,Unemployed,800
+CUST_00476,Customer 476,HNWI,6,SG,Doctor,15000
+CUST_00477,Customer 477,Retail,9,RU,Politician,12000
+CUST_00478,Customer 478,HNWI,7,CN,Politician,12000
+CUST_00479,Customer 479,HNWI,2,RU,Unemployed,800
+CUST_00480,Customer 480,HNWI,3,GB,Engineer,8000
+CUST_00481,Customer 481,SME,1,RU,Consultant,10000
+CUST_00482,Customer 482,HNWI,2,GB,Unemployed,800
+CUST_00483,Customer 483,SME,6,IN,Unemployed,800
+CUST_00484,Customer 484,Corporate,6,IN,Unemployed,800
+CUST_00485,Customer 485,Retail,6,MY,Student,500
+CUST_00486,Customer 486,HNWI,5,KP,Engineer,8000
+CUST_00487,Customer 487,HNWI,5,GB,Doctor,15000
+CUST_00488,Customer 488,HNWI,7,SG,Unemployed,800
+CUST_00489,Customer 489,SME,4,KY,Student,500
+CUST_00490,Customer 490,Corporate,4,SG,Student,500
+CUST_00491,Customer 491,HNWI,8,KP,Doctor,15000
+CUST_00492,Customer 492,HNWI,6,IR,Engineer,8000
+CUST_00493,Customer 493,Corporate,6,CN,Student,500
+CUST_00494,Customer 494,HNWI,7,CN,Doctor,15000
+CUST_00495,Customer 495,Corporate,6,GB,Politician,12000
+CUST_00496,Customer 496,Retail,5,KP,Politician,12000
+CUST_00497,Customer 497,HNWI,2,KY,Student,500
+CUST_00498,Customer 498,SME,5,GB,Student,500
+CUST_00499,Customer 499,HNWI,9,CN,Engineer,8000
+CUST_00500,Customer 500,HNWI,3,CN,Consultant,10000
+CUST_00501,Customer 501,Retail,10,RU,Student,500
+CUST_00502,Customer 502,Retail,3,IR,Business Owner,50000
+CUST_00503,Customer 503,Corporate,7,IN,Unemployed,800
+CUST_00504,Customer 504,SME,7,KY,Engineer,8000
+CUST_00505,Customer 505,SME,4,KP,Doctor,15000
+CUST_00506,Customer 506,SME,7,IR,Doctor,15000
+CUST_00507,Customer 507,HNWI,7,IN,Politician,12000
+CUST_00508,Customer 508,Retail,8,RU,Doctor,15000
+CUST_00509,Customer 509,Retail,1,US,Unemployed,800
+CUST_00510,Customer 510,HNWI,10,CN,Consultant,10000
+CUST_00511,Customer 511,Retail,2,SG,Engineer,8000
+CUST_00512,Customer 512,Corporate,3,GB,Doctor,15000
+CUST_00513,Customer 513,Retail,1,KP,Consultant,10000
+CUST_00514,Customer 514,HNWI,3,MY,Consultant,10000
+CUST_00515,Customer 515,HNWI,9,IR,Engineer,8000
+CUST_00516,Customer 516,SME,2,IN,Student,500
+CUST_00517,Customer 517,Corporate,2,KY,Politician,12000
+CUST_00518,Customer 518,Retail,8,KY,Politician,12000
+CUST_00519,Customer 519,Retail,4,MY,Business Owner,50000
+CUST_00520,Customer 520,Retail,6,KP,Student,500
+CUST_00521,Customer 521,Retail,2,KP,Doctor,15000
+CUST_00522,Customer 522,SME,10,KY,Unemployed,800
+CUST_00523,Customer 523,SME,7,GB,Politician,12000
+CUST_00524,Customer 524,HNWI,9,RU,Doctor,15000
+CUST_00525,Customer 525,Corporate,6,KY,Business Owner,50000
+CUST_00526,Customer 526,Retail,7,MY,Engineer,8000
+CUST_00527,Customer 527,SME,8,CN,Business Owner,50000
+CUST_00528,Customer 528,HNWI,5,US,Consultant,10000
+CUST_00529,Customer 529,Retail,10,SG,Doctor,15000
+CUST_00530,Customer 530,SME,6,SG,Engineer,8000
+CUST_00531,Customer 531,SME,7,US,Politician,12000
+CUST_00532,Customer 532,HNWI,3,IR,Doctor,15000
+CUST_00533,Customer 533,Corporate,2,MY,Engineer,8000
+CUST_00534,Customer 534,Retail,4,SG,Unemployed,800
+CUST_00535,Customer 535,HNWI,8,CN,Consultant,10000
+CUST_00536,Customer 536,HNWI,6,SG,Business Owner,50000
+CUST_00537,Customer 537,SME,6,KP,Politician,12000
+CUST_00538,Customer 538,HNWI,5,US,Doctor,15000
+CUST_00539,Customer 539,Corporate,8,IN,Unemployed,800
+CUST_00540,Customer 540,Corporate,10,RU,Consultant,10000
+CUST_00541,Customer 541,Corporate,6,GB,Engineer,8000
+CUST_00542,Customer 542,HNWI,6,US,Business Owner,50000
+CUST_00543,Customer 543,Retail,4,SG,Business Owner,50000
+CUST_00544,Customer 544,Retail,2,IR,Doctor,15000
+CUST_00545,Customer 545,Retail,7,US,Unemployed,800
+CUST_00546,Customer 546,Corporate,6,MY,Business Owner,50000
+CUST_00547,Customer 547,SME,1,GB,Doctor,15000
+CUST_00548,Customer 548,Retail,1,IR,Consultant,10000
+CUST_00549,Customer 549,HNWI,3,RU,Student,500
+CUST_00550,Customer 550,Retail,8,KP,Engineer,8000
+CUST_00551,Customer 551,SME,10,IN,Politician,12000
+CUST_00552,Customer 552,Retail,7,KY,Engineer,8000
+CUST_00553,Customer 553,HNWI,2,US,Politician,12000
+CUST_00554,Customer 554,Corporate,5,IN,Engineer,8000
+CUST_00555,Customer 555,HNWI,9,CN,Engineer,8000
+CUST_00556,Customer 556,Corporate,6,GB,Student,500
+CUST_00557,Customer 557,Retail,10,GB,Student,500
+CUST_00558,Customer 558,HNWI,1,SG,Doctor,15000
+CUST_00559,Customer 559,HNWI,1,US,Student,500
+CUST_00560,Customer 560,SME,7,RU,Doctor,15000
+CUST_00561,Customer 561,Corporate,7,KP,Unemployed,800
+CUST_00562,Customer 562,Retail,1,RU,Student,500
+CUST_00563,Customer 563,HNWI,7,IR,Business Owner,50000
+CUST_00564,Customer 564,SME,5,SG,Business Owner,50000
+CUST_00565,Customer 565,HNWI,3,IN,Engineer,8000
+CUST_00566,Customer 566,Retail,2,RU,Business Owner,50000
+CUST_00567,Customer 567,Corporate,9,IR,Business Owner,50000
+CUST_00568,Customer 568,Corporate,3,KY,Unemployed,800
+CUST_00569,Customer 569,Corporate,6,IR,Doctor,15000
+CUST_00570,Customer 570,SME,10,KP,Unemployed,800
+CUST_00571,Customer 571,SME,10,SG,Engineer,8000
+CUST_00572,Customer 572,Corporate,9,IN,Consultant,10000
+CUST_00573,Customer 573,Retail,7,IR,Unemployed,800
+CUST_00574,Customer 574,HNWI,9,GB,Business Owner,50000
+CUST_00575,Customer 575,Retail,9,GB,Politician,12000
+CUST_00576,Customer 576,HNWI,7,GB,Consultant,10000
+CUST_00577,Customer 577,Corporate,7,SG,Doctor,15000
+CUST_00578,Customer 578,HNWI,7,US,Politician,12000
+CUST_00579,Customer 579,SME,3,KY,Politician,12000
+CUST_00580,Customer 580,SME,8,SG,Politician,12000
+CUST_00581,Customer 581,HNWI,1,IN,Politician,12000
+CUST_00582,Customer 582,Corporate,8,US,Unemployed,800
+CUST_00583,Customer 583,HNWI,6,SG,Consultant,10000
+CUST_00584,Customer 584,Retail,10,GB,Unemployed,800
+CUST_00585,Customer 585,HNWI,2,RU,Student,500
+CUST_00586,Customer 586,Retail,9,KY,Business Owner,50000
+CUST_00587,Customer 587,HNWI,4,GB,Business Owner,50000
+CUST_00588,Customer 588,Corporate,5,CN,Engineer,8000
+CUST_00589,Customer 589,HNWI,8,IR,Unemployed,800
+CUST_00590,Customer 590,SME,3,US,Business Owner,50000
+CUST_00591,Customer 591,Corporate,2,US,Doctor,15000
+CUST_00592,Customer 592,SME,5,IR,Unemployed,800
+CUST_00593,Customer 593,Corporate,2,CN,Unemployed,800
+CUST_00594,Customer 594,Corporate,4,GB,Engineer,8000
+CUST_00595,Customer 595,Retail,3,KY,Consultant,10000
+CUST_00596,Customer 596,HNWI,6,US,Doctor,15000
+CUST_00597,Customer 597,Retail,4,RU,Business Owner,50000
+CUST_00598,Customer 598,Retail,7,MY,Engineer,8000
+CUST_00599,Customer 599,HNWI,6,CN,Doctor,15000
+CUST_00600,Customer 600,SME,8,US,Business Owner,50000
+CUST_00601,Customer 601,Retail,7,CN,Student,500
+CUST_00602,Customer 602,HNWI,7,KY,Student,500
+CUST_00603,Customer 603,Retail,7,KY,Unemployed,800
+CUST_00604,Customer 604,HNWI,10,CN,Politician,12000
+CUST_00605,Customer 605,Corporate,7,US,Doctor,15000
+CUST_00606,Customer 606,SME,3,CN,Doctor,15000
+CUST_00607,Customer 607,Retail,4,KP,Engineer,8000
+CUST_00608,Customer 608,Corporate,6,IN,Politician,12000
+CUST_00609,Customer 609,Retail,1,KP,Politician,12000
+CUST_00610,Customer 610,Retail,8,CN,Engineer,8000
+CUST_00611,Customer 611,HNWI,8,IN,Student,500
+CUST_00612,Customer 612,Retail,6,KY,Unemployed,800
+CUST_00613,Customer 613,HNWI,2,RU,Unemployed,800
+CUST_00614,Customer 614,SME,9,IN,Business Owner,50000
+CUST_00615,Customer 615,SME,6,RU,Doctor,15000
+CUST_00616,Customer 616,HNWI,6,GB,Consultant,10000
+CUST_00617,Customer 617,Retail,10,IR,Business Owner,50000
+CUST_00618,Customer 618,Corporate,1,RU,Student,500
+CUST_00619,Customer 619,Corporate,3,SG,Business Owner,50000
+CUST_00620,Customer 620,Retail,10,US,Unemployed,800
+CUST_00621,Customer 621,HNWI,6,IN,Politician,12000
+CUST_00622,Customer 622,Corporate,10,KP,Unemployed,800
+CUST_00623,Customer 623,HNWI,8,KP,Business Owner,50000
+CUST_00624,Customer 624,SME,4,KP,Doctor,15000
+CUST_00625,Customer 625,Retail,7,US,Engineer,8000
+CUST_00626,Customer 626,Corporate,4,GB,Unemployed,800
+CUST_00627,Customer 627,SME,1,CN,Engineer,8000
+CUST_00628,Customer 628,Corporate,8,RU,Business Owner,50000
+CUST_00629,Customer 629,SME,9,KY,Engineer,8000
+CUST_00630,Customer 630,Corporate,5,RU,Student,500
+CUST_00631,Customer 631,Retail,2,CN,Consultant,10000
+CUST_00632,Customer 632,HNWI,7,CN,Doctor,15000
+CUST_00633,Customer 633,Corporate,9,KY,Student,500
+CUST_00634,Customer 634,SME,6,RU,Unemployed,800
+CUST_00635,Customer 635,Corporate,7,KP,Engineer,8000
+CUST_00636,Customer 636,SME,5,CN,Politician,12000
+CUST_00637,Customer 637,Retail,2,KP,Doctor,15000
+CUST_00638,Customer 638,SME,2,IN,Student,500
+CUST_00639,Customer 639,HNWI,6,RU,Business Owner,50000
+CUST_00640,Customer 640,Corporate,2,MY,Engineer,8000
+CUST_00641,Customer 641,SME,1,KP,Consultant,10000
+CUST_00642,Customer 642,Corporate,2,SG,Unemployed,800
+CUST_00643,Customer 643,Retail,3,IN,Engineer,8000
+CUST_00644,Customer 644,Corporate,1,CN,Student,500
+CUST_00645,Customer 645,Corporate,1,KY,Consultant,10000
+CUST_00646,Customer 646,Corporate,2,MY,Doctor,15000
+CUST_00647,Customer 647,Corporate,1,RU,Politician,12000
+CUST_00648,Customer 648,Corporate,1,IN,Consultant,10000
+CUST_00649,Customer 649,SME,9,MY,Unemployed,800
+CUST_00650,Customer 650,Corporate,4,SG,Business Owner,50000
+CUST_00651,Customer 651,Retail,3,KP,Unemployed,800
+CUST_00652,Customer 652,SME,6,MY,Unemployed,800
+CUST_00653,Customer 653,HNWI,6,IN,Doctor,15000
+CUST_00654,Customer 654,Corporate,8,RU,Consultant,10000
+CUST_00655,Customer 655,HNWI,7,IR,Engineer,8000
+CUST_00656,Customer 656,Corporate,7,IN,Doctor,15000
+CUST_00657,Customer 657,Retail,6,GB,Engineer,8000
+CUST_00658,Customer 658,Retail,9,SG,Engineer,8000
+CUST_00659,Customer 659,Retail,5,US,Doctor,15000
+CUST_00660,Customer 660,SME,5,US,Doctor,15000
+CUST_00661,Customer 661,SME,4,US,Business Owner,50000
+CUST_00662,Customer 662,Corporate,2,RU,Student,500
+CUST_00663,Customer 663,SME,2,CN,Engineer,8000
+CUST_00664,Customer 664,Corporate,7,US,Politician,12000
+CUST_00665,Customer 665,HNWI,2,SG,Student,500
+CUST_00666,Customer 666,SME,8,GB,Unemployed,800
+CUST_00667,Customer 667,HNWI,6,GB,Unemployed,800
+CUST_00668,Customer 668,Corporate,7,KY,Unemployed,800
+CUST_00669,Customer 669,SME,7,IN,Doctor,15000
+CUST_00670,Customer 670,Corporate,3,CN,Politician,12000
+CUST_00671,Customer 671,HNWI,6,IN,Student,500
+CUST_00672,Customer 672,Retail,5,GB,Business Owner,50000
+CUST_00673,Customer 673,Retail,6,IR,Unemployed,800
+CUST_00674,Customer 674,Retail,2,US,Student,500
+CUST_00675,Customer 675,Retail,1,US,Business Owner,50000
+CUST_00676,Customer 676,SME,5,SG,Consultant,10000
+CUST_00677,Customer 677,Corporate,6,KP,Engineer,8000
+CUST_00678,Customer 678,SME,6,IN,Politician,12000
+CUST_00679,Customer 679,Corporate,7,RU,Consultant,10000
+CUST_00680,Customer 680,Corporate,4,SG,Business Owner,50000
+CUST_00681,Customer 681,HNWI,9,MY,Engineer,8000
+CUST_00682,Customer 682,SME,9,KY,Engineer,8000
+CUST_00683,Customer 683,Corporate,10,IN,Business Owner,50000
+CUST_00684,Customer 684,HNWI,3,US,Consultant,10000
+CUST_00685,Customer 685,HNWI,1,CN,Unemployed,800
+CUST_00686,Customer 686,Retail,5,CN,Student,500
+CUST_00687,Customer 687,HNWI,6,US,Business Owner,50000
+CUST_00688,Customer 688,SME,1,MY,Consultant,10000
+CUST_00689,Customer 689,Corporate,5,CN,Engineer,8000
+CUST_00690,Customer 690,Retail,3,RU,Politician,12000
+CUST_00691,Customer 691,HNWI,6,SG,Student,500
+CUST_00692,Customer 692,Retail,8,US,Unemployed,800
+CUST_00693,Customer 693,HNWI,1,IN,Unemployed,800
+CUST_00694,Customer 694,SME,4,RU,Business Owner,50000
+CUST_00695,Customer 695,SME,6,MY,Engineer,8000
+CUST_00696,Customer 696,SME,8,KY,Unemployed,800
+CUST_00697,Customer 697,Retail,8,RU,Politician,12000
+CUST_00698,Customer 698,Retail,4,IR,Engineer,8000
+CUST_00699,Customer 699,SME,3,US,Student,500
+CUST_00700,Customer 700,SME,4,US,Politician,12000
+CUST_00701,Customer 701,SME,3,CN,Politician,12000
+CUST_00702,Customer 702,Corporate,10,KP,Unemployed,800
+CUST_00703,Customer 703,Retail,9,MY,Politician,12000
+CUST_00704,Customer 704,SME,8,KY,Engineer,8000
+CUST_00705,Customer 705,Retail,2,GB,Politician,12000
+CUST_00706,Customer 706,SME,3,US,Politician,12000
+CUST_00707,Customer 707,SME,5,IN,Consultant,10000
+CUST_00708,Customer 708,Corporate,6,MY,Student,500
+CUST_00709,Customer 709,Retail,7,CN,Unemployed,800
+CUST_00710,Customer 710,SME,6,US,Politician,12000
+CUST_00711,Customer 711,SME,9,CN,Politician,12000
+CUST_00712,Customer 712,HNWI,5,IN,Engineer,8000
+CUST_00713,Customer 713,Corporate,2,KY,Consultant,10000
+CUST_00714,Customer 714,Retail,9,KY,Politician,12000
+CUST_00715,Customer 715,Corporate,3,RU,Student,500
+CUST_00716,Customer 716,HNWI,2,CN,Student,500
+CUST_00717,Customer 717,SME,5,IN,Consultant,10000
+CUST_00718,Customer 718,SME,2,RU,Engineer,8000
+CUST_00719,Customer 719,SME,8,US,Business Owner,50000
+CUST_00720,Customer 720,Corporate,1,KY,Politician,12000
+CUST_00721,Customer 721,HNWI,5,CN,Engineer,8000
+CUST_00722,Customer 722,SME,4,IR,Consultant,10000
+CUST_00723,Customer 723,SME,1,KY,Business Owner,50000
+CUST_00724,Customer 724,Retail,2,KP,Consultant,10000
+CUST_00725,Customer 725,Corporate,3,CN,Consultant,10000
+CUST_00726,Customer 726,HNWI,2,IR,Consultant,10000
+CUST_00727,Customer 727,SME,2,CN,Consultant,10000
+CUST_00728,Customer 728,Retail,2,GB,Student,500
+CUST_00729,Customer 729,Corporate,8,KP,Consultant,10000
+CUST_00730,Customer 730,HNWI,5,KP,Unemployed,800
+CUST_00731,Customer 731,SME,8,KP,Consultant,10000
+CUST_00732,Customer 732,Retail,1,CN,Student,500
+CUST_00733,Customer 733,Corporate,9,US,Engineer,8000
+CUST_00734,Customer 734,HNWI,10,GB,Business Owner,50000
+CUST_00735,Customer 735,Corporate,5,US,Unemployed,800
+CUST_00736,Customer 736,SME,1,MY,Consultant,10000
+CUST_00737,Customer 737,SME,4,CN,Business Owner,50000
+CUST_00738,Customer 738,HNWI,10,RU,Engineer,8000
+CUST_00739,Customer 739,Retail,5,CN,Politician,12000
+CUST_00740,Customer 740,Corporate,4,KP,Engineer,8000
+CUST_00741,Customer 741,Corporate,7,MY,Consultant,10000
+CUST_00742,Customer 742,Retail,2,KY,Consultant,10000
+CUST_00743,Customer 743,Corporate,10,CN,Engineer,8000
+CUST_00744,Customer 744,SME,2,MY,Engineer,8000
+CUST_00745,Customer 745,Corporate,9,IN,Doctor,15000
+CUST_00746,Customer 746,SME,5,SG,Engineer,8000
+CUST_00747,Customer 747,Retail,1,KP,Engineer,8000
+CUST_00748,Customer 748,Corporate,4,IR,Business Owner,50000
+CUST_00749,Customer 749,HNWI,10,KY,Unemployed,800
+CUST_00750,Customer 750,Corporate,10,RU,Consultant,10000
+CUST_00751,Customer 751,Retail,7,GB,Doctor,15000
+CUST_00752,Customer 752,Retail,1,RU,Doctor,15000
+CUST_00753,Customer 753,Retail,10,KY,Student,500
+CUST_00754,Customer 754,HNWI,1,SG,Business Owner,50000
+CUST_00755,Customer 755,Corporate,10,US,Business Owner,50000
+CUST_00756,Customer 756,HNWI,8,KY,Unemployed,800
+CUST_00757,Customer 757,HNWI,3,SG,Engineer,8000
+CUST_00758,Customer 758,Retail,10,IR,Business Owner,50000
+CUST_00759,Customer 759,Retail,8,IR,Business Owner,50000
+CUST_00760,Customer 760,SME,3,KP,Politician,12000
+CUST_00761,Customer 761,SME,8,IN,Doctor,15000
+CUST_00762,Customer 762,Corporate,3,MY,Business Owner,50000
+CUST_00763,Customer 763,Corporate,1,KY,Doctor,15000
+CUST_00764,Customer 764,Corporate,4,CN,Engineer,8000
+CUST_00765,Customer 765,HNWI,5,KY,Doctor,15000
+CUST_00766,Customer 766,HNWI,1,MY,Engineer,8000
+CUST_00767,Customer 767,SME,5,US,Business Owner,50000
+CUST_00768,Customer 768,Corporate,9,GB,Doctor,15000
+CUST_00769,Customer 769,Retail,1,IN,Politician,12000
+CUST_00770,Customer 770,Retail,7,KP,Consultant,10000
+CUST_00771,Customer 771,SME,6,IN,Business Owner,50000
+CUST_00772,Customer 772,Corporate,2,RU,Politician,12000
+CUST_00773,Customer 773,Corporate,5,US,Consultant,10000
+CUST_00774,Customer 774,Corporate,3,GB,Politician,12000
+CUST_00775,Customer 775,SME,7,RU,Student,500
+CUST_00776,Customer 776,Corporate,10,KP,Engineer,8000
+CUST_00777,Customer 777,Retail,9,US,Student,500
+CUST_00778,Customer 778,Retail,9,KP,Politician,12000
+CUST_00779,Customer 779,SME,6,IN,Student,500
+CUST_00780,Customer 780,Retail,5,IR,Engineer,8000
+CUST_00781,Customer 781,SME,3,IR,Politician,12000
+CUST_00782,Customer 782,Retail,2,MY,Business Owner,50000
+CUST_00783,Customer 783,Corporate,10,KP,Business Owner,50000
+CUST_00784,Customer 784,Corporate,9,MY,Doctor,15000
+CUST_00785,Customer 785,HNWI,9,IN,Politician,12000
+CUST_00786,Customer 786,SME,6,KP,Engineer,8000
+CUST_00787,Customer 787,Corporate,1,CN,Student,500
+CUST_00788,Customer 788,SME,1,KY,Unemployed,800
+CUST_00789,Customer 789,SME,3,RU,Business Owner,50000
+CUST_00790,Customer 790,SME,7,RU,Unemployed,800
+CUST_00791,Customer 791,Retail,7,KY,Engineer,8000
+CUST_00792,Customer 792,SME,2,KY,Doctor,15000
+CUST_00793,Customer 793,Corporate,6,MY,Politician,12000
+CUST_00794,Customer 794,SME,10,CN,Unemployed,800
+CUST_00795,Customer 795,Corporate,2,GB,Student,500
+CUST_00796,Customer 796,Corporate,6,IN,Unemployed,800
+CUST_00797,Customer 797,Corporate,2,US,Student,500
+CUST_00798,Customer 798,HNWI,1,KY,Doctor,15000
+CUST_00799,Customer 799,Corporate,2,US,Student,500
+CUST_00800,Customer 800,SME,7,IN,Doctor,15000
+CUST_00801,Customer 801,Retail,7,RU,Unemployed,800
+CUST_00802,Customer 802,HNWI,8,IN,Consultant,10000
+CUST_00803,Customer 803,HNWI,10,MY,Unemployed,800
+CUST_00804,Customer 804,Retail,5,IN,Politician,12000
+CUST_00805,Customer 805,Corporate,3,IR,Doctor,15000
+CUST_00806,Customer 806,Retail,10,SG,Doctor,15000
+CUST_00807,Customer 807,Retail,8,SG,Engineer,8000
+CUST_00808,Customer 808,HNWI,7,SG,Consultant,10000
+CUST_00809,Customer 809,HNWI,1,US,Consultant,10000
+CUST_00810,Customer 810,Corporate,10,RU,Business Owner,50000
+CUST_00811,Customer 811,HNWI,5,US,Engineer,8000
+CUST_00812,Customer 812,SME,10,IN,Consultant,10000
+CUST_00813,Customer 813,Retail,4,RU,Consultant,10000
+CUST_00814,Customer 814,Corporate,1,SG,Consultant,10000
+CUST_00815,Customer 815,HNWI,9,MY,Politician,12000
+CUST_00816,Customer 816,SME,5,RU,Business Owner,50000
+CUST_00817,Customer 817,Corporate,8,CN,Business Owner,50000
+CUST_00818,Customer 818,HNWI,10,SG,Consultant,10000
+CUST_00819,Customer 819,SME,3,KY,Doctor,15000
+CUST_00820,Customer 820,HNWI,5,CN,Business Owner,50000
+CUST_00821,Customer 821,SME,4,KP,Consultant,10000
+CUST_00822,Customer 822,Corporate,9,IR,Engineer,8000
+CUST_00823,Customer 823,HNWI,10,MY,Student,500
+CUST_00824,Customer 824,Corporate,7,KP,Politician,12000
+CUST_00825,Customer 825,HNWI,9,US,Doctor,15000
+CUST_00826,Customer 826,SME,7,CN,Student,500
+CUST_00827,Customer 827,HNWI,4,IN,Student,500
+CUST_00828,Customer 828,Retail,7,KP,Unemployed,800
+CUST_00829,Customer 829,Retail,2,KY,Business Owner,50000
+CUST_00830,Customer 830,Retail,4,KP,Consultant,10000
+CUST_00831,Customer 831,Retail,9,GB,Business Owner,50000
+CUST_00832,Customer 832,SME,5,SG,Politician,12000
+CUST_00833,Customer 833,Corporate,4,KP,Student,500
+CUST_00834,Customer 834,Corporate,1,IN,Business Owner,50000
+CUST_00835,Customer 835,HNWI,6,KP,Consultant,10000
+CUST_00836,Customer 836,HNWI,7,KY,Business Owner,50000
+CUST_00837,Customer 837,Corporate,4,RU,Consultant,10000
+CUST_00838,Customer 838,Retail,5,IR,Consultant,10000
+CUST_00839,Customer 839,Corporate,7,RU,Student,500
+CUST_00840,Customer 840,Corporate,4,IN,Consultant,10000
+CUST_00841,Customer 841,Corporate,6,KP,Consultant,10000
+CUST_00842,Customer 842,SME,7,KP,Doctor,15000
+CUST_00843,Customer 843,Corporate,4,KP,Politician,12000
+CUST_00844,Customer 844,Retail,5,US,Unemployed,800
+CUST_00845,Customer 845,Retail,10,KY,Doctor,15000
+CUST_00846,Customer 846,HNWI,8,KP,Business Owner,50000
+CUST_00847,Customer 847,Retail,1,IR,Engineer,8000
+CUST_00848,Customer 848,HNWI,10,MY,Engineer,8000
+CUST_00849,Customer 849,Corporate,9,KP,Unemployed,800
+CUST_00850,Customer 850,HNWI,8,KP,Student,500
+CUST_00851,Customer 851,Corporate,7,MY,Engineer,8000
+CUST_00852,Customer 852,SME,4,IN,Engineer,8000
+CUST_00853,Customer 853,HNWI,3,US,Consultant,10000
+CUST_00854,Customer 854,SME,4,SG,Student,500
+CUST_00855,Customer 855,Corporate,5,IR,Business Owner,50000
+CUST_00856,Customer 856,HNWI,5,CN,Politician,12000
+CUST_00857,Customer 857,SME,1,KY,Consultant,10000
+CUST_00858,Customer 858,Retail,1,KP,Unemployed,800
+CUST_00859,Customer 859,Retail,1,KP,Business Owner,50000
+CUST_00860,Customer 860,Corporate,7,KY,Student,500
+CUST_00861,Customer 861,Retail,3,RU,Politician,12000
+CUST_00862,Customer 862,HNWI,6,RU,Politician,12000
+CUST_00863,Customer 863,Retail,5,KY,Consultant,10000
+CUST_00864,Customer 864,Retail,3,KP,Unemployed,800
+CUST_00865,Customer 865,Retail,10,SG,Politician,12000
+CUST_00866,Customer 866,SME,7,CN,Business Owner,50000
+CUST_00867,Customer 867,Corporate,2,SG,Unemployed,800
+CUST_00868,Customer 868,SME,5,MY,Unemployed,800
+CUST_00869,Customer 869,SME,5,RU,Consultant,10000
+CUST_00870,Customer 870,HNWI,9,CN,Unemployed,800
+CUST_00871,Customer 871,Corporate,10,IR,Engineer,8000
+CUST_00872,Customer 872,Corporate,1,SG,Consultant,10000
+CUST_00873,Customer 873,HNWI,2,SG,Unemployed,800
+CUST_00874,Customer 874,SME,1,IR,Student,500
+CUST_00875,Customer 875,SME,1,IN,Politician,12000
+CUST_00876,Customer 876,HNWI,4,KY,Business Owner,50000
+CUST_00877,Customer 877,Retail,7,US,Politician,12000
+CUST_00878,Customer 878,Corporate,9,SG,Engineer,8000
+CUST_00879,Customer 879,HNWI,1,US,Consultant,10000
+CUST_00880,Customer 880,SME,4,RU,Doctor,15000
+CUST_00881,Customer 881,HNWI,4,MY,Politician,12000
+CUST_00882,Customer 882,HNWI,3,IR,Student,500
+CUST_00883,Customer 883,SME,5,GB,Business Owner,50000
+CUST_00884,Customer 884,Retail,9,SG,Politician,12000
+CUST_00885,Customer 885,HNWI,10,GB,Politician,12000
+CUST_00886,Customer 886,HNWI,8,IR,Business Owner,50000
+CUST_00887,Customer 887,Retail,9,MY,Student,500
+CUST_00888,Customer 888,SME,3,CN,Engineer,8000
+CUST_00889,Customer 889,Corporate,10,IR,Student,500
+CUST_00890,Customer 890,SME,4,KY,Student,500
+CUST_00891,Customer 891,HNWI,2,US,Unemployed,800
+CUST_00892,Customer 892,Corporate,9,GB,Engineer,8000
+CUST_00893,Customer 893,HNWI,6,IR,Unemployed,800
+CUST_00894,Customer 894,Retail,3,IN,Engineer,8000
+CUST_00895,Customer 895,Corporate,6,KP,Engineer,8000
+CUST_00896,Customer 896,HNWI,2,SG,Politician,12000
+CUST_00897,Customer 897,Corporate,5,KY,Consultant,10000
+CUST_00898,Customer 898,Retail,8,IN,Unemployed,800
+CUST_00899,Customer 899,HNWI,4,IR,Consultant,10000
+CUST_00900,Customer 900,Corporate,7,CN,Politician,12000
+CUST_00901,Customer 901,SME,7,US,Unemployed,800
+CUST_00902,Customer 902,SME,2,CN,Unemployed,800
+CUST_00903,Customer 903,Corporate,6,MY,Consultant,10000
+CUST_00904,Customer 904,Corporate,4,GB,Unemployed,800
+CUST_00905,Customer 905,SME,1,US,Unemployed,800
+CUST_00906,Customer 906,Corporate,2,IR,Engineer,8000
+CUST_00907,Customer 907,SME,7,KY,Unemployed,800
+CUST_00908,Customer 908,SME,1,GB,Consultant,10000
+CUST_00909,Customer 909,HNWI,7,RU,Doctor,15000
+CUST_00910,Customer 910,SME,10,GB,Unemployed,800
+CUST_00911,Customer 911,HNWI,10,KY,Engineer,8000
+CUST_00912,Customer 912,SME,1,KP,Doctor,15000
+CUST_00913,Customer 913,Retail,4,RU,Engineer,8000
+CUST_00914,Customer 914,Corporate,9,KY,Business Owner,50000
+CUST_00915,Customer 915,Retail,6,US,Business Owner,50000
+CUST_00916,Customer 916,Corporate,9,IR,Student,500
+CUST_00917,Customer 917,Corporate,10,US,Unemployed,800
+CUST_00918,Customer 918,Retail,6,RU,Business Owner,50000
+CUST_00919,Customer 919,Corporate,1,MY,Engineer,8000
+CUST_00920,Customer 920,HNWI,7,KP,Politician,12000
+CUST_00921,Customer 921,HNWI,1,SG,Doctor,15000
+CUST_00922,Customer 922,SME,5,RU,Student,500
+CUST_00923,Customer 923,SME,5,IR,Politician,12000
+CUST_00924,Customer 924,Retail,4,IR,Unemployed,800
+CUST_00925,Customer 925,SME,5,KY,Unemployed,800
+CUST_00926,Customer 926,Retail,3,KY,Student,500
+CUST_00927,Customer 927,SME,9,IN,Politician,12000
+CUST_00928,Customer 928,Retail,10,KY,Engineer,8000
+CUST_00929,Customer 929,Retail,10,KY,Engineer,8000
+CUST_00930,Customer 930,HNWI,1,MY,Consultant,10000
+CUST_00931,Customer 931,HNWI,8,MY,Engineer,8000
+CUST_00932,Customer 932,Retail,9,CN,Business Owner,50000
+CUST_00933,Customer 933,HNWI,10,IN,Student,500
+CUST_00934,Customer 934,Corporate,1,US,Consultant,10000
+CUST_00935,Customer 935,HNWI,4,IN,Unemployed,800
+CUST_00936,Customer 936,Retail,10,US,Unemployed,800
+CUST_00937,Customer 937,Corporate,1,MY,Consultant,10000
+CUST_00938,Customer 938,Retail,5,KY,Student,500
+CUST_00939,Customer 939,HNWI,4,MY,Unemployed,800
+CUST_00940,Customer 940,Retail,9,IN,Unemployed,800
+CUST_00941,Customer 941,Retail,10,KP,Politician,12000
+CUST_00942,Customer 942,Retail,7,IN,Engineer,8000
+CUST_00943,Customer 943,SME,4,GB,Unemployed,800
+CUST_00944,Customer 944,Corporate,9,MY,Consultant,10000
+CUST_00945,Customer 945,Retail,2,US,Student,500
+CUST_00946,Customer 946,Retail,1,US,Doctor,15000
+CUST_00947,Customer 947,SME,9,IR,Business Owner,50000
+CUST_00948,Customer 948,SME,5,MY,Consultant,10000
+CUST_00949,Customer 949,SME,4,IN,Engineer,8000
+CUST_00950,Customer 950,Retail,8,US,Consultant,10000
+CUST_00951,Customer 951,SME,5,RU,Doctor,15000
+CUST_00952,Customer 952,HNWI,8,GB,Student,500
+CUST_00953,Customer 953,Retail,4,GB,Engineer,8000
+CUST_00954,Customer 954,Retail,3,US,Business Owner,50000
+CUST_00955,Customer 955,Corporate,8,RU,Politician,12000
+CUST_00956,Customer 956,SME,3,IR,Politician,12000
+CUST_00957,Customer 957,HNWI,8,CN,Engineer,8000
+CUST_00958,Customer 958,HNWI,8,KP,Consultant,10000
+CUST_00959,Customer 959,Corporate,5,IN,Engineer,8000
+CUST_00960,Customer 960,HNWI,7,SG,Student,500
+CUST_00961,Customer 961,Retail,7,SG,Business Owner,50000
+CUST_00962,Customer 962,Corporate,7,GB,Student,500
+CUST_00963,Customer 963,HNWI,5,GB,Business Owner,50000
+CUST_00964,Customer 964,Corporate,10,KP,Doctor,15000
+CUST_00965,Customer 965,Retail,4,GB,Business Owner,50000
+CUST_00966,Customer 966,Corporate,9,US,Engineer,8000
+CUST_00967,Customer 967,HNWI,10,IN,Consultant,10000
+CUST_00968,Customer 968,SME,10,CN,Unemployed,800
+CUST_00969,Customer 969,Corporate,7,IN,Doctor,15000
+CUST_00970,Customer 970,SME,5,SG,Unemployed,800
+CUST_00971,Customer 971,Corporate,9,CN,Student,500
+CUST_00972,Customer 972,HNWI,2,MY,Doctor,15000
+CUST_00973,Customer 973,HNWI,1,GB,Doctor,15000
+CUST_00974,Customer 974,Retail,8,CN,Doctor,15000
+CUST_00975,Customer 975,HNWI,6,CN,Engineer,8000
+CUST_00976,Customer 976,HNWI,1,SG,Engineer,8000
+CUST_00977,Customer 977,Corporate,1,US,Politician,12000
+CUST_00978,Customer 978,HNWI,3,MY,Unemployed,800
+CUST_00979,Customer 979,HNWI,3,GB,Doctor,15000
+CUST_00980,Customer 980,HNWI,3,SG,Unemployed,800
+CUST_00981,Customer 981,Corporate,6,CN,Consultant,10000
+CUST_00982,Customer 982,Retail,6,SG,Doctor,15000
+CUST_00983,Customer 983,Retail,10,SG,Business Owner,50000
+CUST_00984,Customer 984,Corporate,9,US,Doctor,15000
+CUST_00985,Customer 985,SME,9,US,Business Owner,50000
+CUST_00986,Customer 986,Corporate,2,GB,Consultant,10000
+CUST_00987,Customer 987,Corporate,2,GB,Student,500
+CUST_00988,Customer 988,Retail,3,SG,Engineer,8000
+CUST_00989,Customer 989,Corporate,1,RU,Engineer,8000
+CUST_00990,Customer 990,Retail,1,US,Unemployed,800
+CUST_00991,Customer 991,SME,7,MY,Unemployed,800
+CUST_00992,Customer 992,HNWI,6,MY,Doctor,15000
+CUST_00993,Customer 993,Retail,3,US,Doctor,15000
+CUST_00994,Customer 994,Corporate,1,GB,Politician,12000
+CUST_00995,Customer 995,Corporate,8,KP,Student,500
+CUST_00996,Customer 996,Corporate,1,CN,Doctor,15000
+CUST_00997,Customer 997,Retail,6,KP,Doctor,15000
+CUST_00998,Customer 998,Corporate,4,CN,Doctor,15000
+CUST_00999,Customer 999,Corporate,10,RU,Unemployed,800
+CUST_01000,Customer 1000,Corporate,3,IR,Student,500
+CUST_01001,Customer 1001,Retail,4,KP,Doctor,15000
+CUST_01002,Customer 1002,SME,6,KY,Politician,12000
+CUST_01003,Customer 1003,SME,3,US,Engineer,8000
+CUST_01004,Customer 1004,Retail,10,IN,Unemployed,800
+CUST_01005,Customer 1005,HNWI,2,GB,Engineer,8000
+CUST_01006,Customer 1006,Corporate,5,KY,Consultant,10000
+CUST_01007,Customer 1007,HNWI,8,CN,Student,500
+CUST_01008,Customer 1008,HNWI,7,SG,Student,500
+CUST_01009,Customer 1009,Corporate,6,KY,Politician,12000
+CUST_01010,Customer 1010,HNWI,3,SG,Unemployed,800
+CUST_01011,Customer 1011,Retail,10,KP,Unemployed,800
+CUST_01012,Customer 1012,HNWI,4,US,Student,500
+CUST_01013,Customer 1013,HNWI,2,IR,Business Owner,50000
+CUST_01014,Customer 1014,Corporate,6,SG,Consultant,10000
+CUST_01015,Customer 1015,Retail,5,RU,Politician,12000
+CUST_01016,Customer 1016,SME,7,GB,Unemployed,800
+CUST_01017,Customer 1017,Corporate,4,GB,Engineer,8000
+CUST_01018,Customer 1018,SME,7,SG,Student,500
+CUST_01019,Customer 1019,SME,7,US,Unemployed,800
+CUST_01020,Customer 1020,SME,5,US,Consultant,10000
+CUST_01021,Customer 1021,SME,4,SG,Unemployed,800
+CUST_01022,Customer 1022,Retail,1,RU,Business Owner,50000
+CUST_01023,Customer 1023,HNWI,3,IR,Doctor,15000
+CUST_01024,Customer 1024,SME,5,IR,Unemployed,800
+CUST_01025,Customer 1025,HNWI,4,RU,Engineer,8000
+CUST_01026,Customer 1026,Retail,8,CN,Doctor,15000
+CUST_01027,Customer 1027,HNWI,10,US,Unemployed,800
+CUST_01028,Customer 1028,Corporate,10,KP,Doctor,15000
+CUST_01029,Customer 1029,HNWI,1,US,Engineer,8000
+CUST_01030,Customer 1030,Corporate,8,US,Student,500
+CUST_01031,Customer 1031,Retail,10,RU,Business Owner,50000
+CUST_01032,Customer 1032,HNWI,2,SG,Doctor,15000
+CUST_01033,Customer 1033,SME,8,US,Engineer,8000
+CUST_01034,Customer 1034,SME,6,MY,Consultant,10000
+CUST_01035,Customer 1035,HNWI,3,IR,Consultant,10000
+CUST_01036,Customer 1036,HNWI,7,GB,Unemployed,800
+CUST_01037,Customer 1037,SME,7,US,Unemployed,800
+CUST_01038,Customer 1038,Retail,7,IN,Doctor,15000
+CUST_01039,Customer 1039,HNWI,4,US,Business Owner,50000
+CUST_01040,Customer 1040,SME,6,KP,Politician,12000
+CUST_01041,Customer 1041,HNWI,9,MY,Unemployed,800
+CUST_01042,Customer 1042,SME,7,KP,Business Owner,50000
+CUST_01043,Customer 1043,SME,6,IN,Student,500
+CUST_01044,Customer 1044,HNWI,7,IN,Student,500
+CUST_01045,Customer 1045,SME,10,KP,Politician,12000
+CUST_01046,Customer 1046,Retail,9,KY,Consultant,10000
+CUST_01047,Customer 1047,Corporate,1,IN,Business Owner,50000
+CUST_01048,Customer 1048,SME,5,KY,Business Owner,50000
+CUST_01049,Customer 1049,Retail,8,CN,Engineer,8000
+CUST_01050,Customer 1050,Retail,6,SG,Politician,12000
+CUST_01051,Customer 1051,Corporate,2,RU,Consultant,10000
+CUST_01052,Customer 1052,Retail,2,IN,Consultant,10000
+CUST_01053,Customer 1053,HNWI,3,IR,Engineer,8000
+CUST_01054,Customer 1054,HNWI,3,US,Consultant,10000
+CUST_01055,Customer 1055,Corporate,9,GB,Doctor,15000
+CUST_01056,Customer 1056,Retail,8,US,Doctor,15000
+CUST_01057,Customer 1057,Retail,3,MY,Business Owner,50000
+CUST_01058,Customer 1058,Corporate,10,KP,Business Owner,50000
+CUST_01059,Customer 1059,SME,2,IN,Doctor,15000
+CUST_01060,Customer 1060,SME,5,US,Politician,12000
+CUST_01061,Customer 1061,Retail,2,IN,Politician,12000
+CUST_01062,Customer 1062,HNWI,7,RU,Unemployed,800
+CUST_01063,Customer 1063,Retail,6,IN,Student,500
+CUST_01064,Customer 1064,HNWI,7,GB,Doctor,15000
+CUST_01065,Customer 1065,Retail,7,IR,Politician,12000
+CUST_01066,Customer 1066,Corporate,10,KY,Doctor,15000
+CUST_01067,Customer 1067,Retail,10,MY,Engineer,8000
+CUST_01068,Customer 1068,Retail,8,GB,Doctor,15000
+CUST_01069,Customer 1069,SME,8,MY,Business Owner,50000
+CUST_01070,Customer 1070,Corporate,4,SG,Student,500
+CUST_01071,Customer 1071,Corporate,2,KP,Unemployed,800
+CUST_01072,Customer 1072,Retail,7,RU,Student,500
+CUST_01073,Customer 1073,HNWI,3,US,Student,500
+CUST_01074,Customer 1074,HNWI,1,MY,Engineer,8000
+CUST_01075,Customer 1075,Retail,1,KP,Politician,12000
+CUST_01076,Customer 1076,SME,10,GB,Doctor,15000
+CUST_01077,Customer 1077,SME,8,KY,Doctor,15000
+CUST_01078,Customer 1078,SME,9,GB,Doctor,15000
+CUST_01079,Customer 1079,Retail,3,RU,Student,500
+CUST_01080,Customer 1080,Corporate,8,IR,Student,500
+CUST_01081,Customer 1081,Retail,10,GB,Doctor,15000
+CUST_01082,Customer 1082,Retail,8,IR,Engineer,8000
+CUST_01083,Customer 1083,Retail,2,GB,Doctor,15000
+CUST_01084,Customer 1084,Corporate,6,MY,Business Owner,50000
+CUST_01085,Customer 1085,HNWI,6,KP,Engineer,8000
+CUST_01086,Customer 1086,Retail,1,KY,Politician,12000
+CUST_01087,Customer 1087,Retail,8,GB,Student,500
+CUST_01088,Customer 1088,Retail,5,SG,Politician,12000
+CUST_01089,Customer 1089,SME,5,KY,Student,500
+CUST_01090,Customer 1090,HNWI,6,KY,Politician,12000
+CUST_01091,Customer 1091,SME,1,CN,Consultant,10000
+CUST_01092,Customer 1092,Retail,9,IN,Engineer,8000
+CUST_01093,Customer 1093,SME,10,KP,Unemployed,800
+CUST_01094,Customer 1094,Corporate,5,KP,Engineer,8000
+CUST_01095,Customer 1095,SME,8,KP,Politician,12000
+CUST_01096,Customer 1096,HNWI,2,US,Consultant,10000
+CUST_01097,Customer 1097,Retail,1,SG,Engineer,8000
+CUST_01098,Customer 1098,HNWI,5,IR,Politician,12000
+CUST_01099,Customer 1099,SME,6,CN,Doctor,15000
+CUST_01100,Customer 1100,SME,4,RU,Consultant,10000
+CUST_01101,Customer 1101,Corporate,9,CN,Business Owner,50000
+CUST_01102,Customer 1102,Retail,4,MY,Student,500
+CUST_01103,Customer 1103,Retail,6,SG,Consultant,10000
+CUST_01104,Customer 1104,Retail,6,KP,Engineer,8000
+CUST_01105,Customer 1105,HNWI,7,US,Politician,12000
+CUST_01106,Customer 1106,Retail,1,MY,Consultant,10000
+CUST_01107,Customer 1107,HNWI,8,RU,Business Owner,50000
+CUST_01108,Customer 1108,Retail,8,KP,Doctor,15000
+CUST_01109,Customer 1109,HNWI,2,IR,Doctor,15000
+CUST_01110,Customer 1110,SME,5,KY,Engineer,8000
+CUST_01111,Customer 1111,SME,10,GB,Consultant,10000
+CUST_01112,Customer 1112,Corporate,7,IR,Business Owner,50000
+CUST_01113,Customer 1113,Retail,3,KP,Business Owner,50000
+CUST_01114,Customer 1114,Corporate,4,IN,Engineer,8000
+CUST_01115,Customer 1115,HNWI,5,IN,Business Owner,50000
+CUST_01116,Customer 1116,Corporate,9,CN,Consultant,10000
+CUST_01117,Customer 1117,HNWI,7,SG,Doctor,15000
+CUST_01118,Customer 1118,Corporate,5,RU,Business Owner,50000
+CUST_01119,Customer 1119,Retail,10,CN,Engineer,8000
+CUST_01120,Customer 1120,Retail,9,IR,Student,500
+CUST_01121,Customer 1121,Corporate,9,IN,Unemployed,800
+CUST_01122,Customer 1122,HNWI,4,GB,Unemployed,800
+CUST_01123,Customer 1123,HNWI,3,KP,Engineer,8000
+CUST_01124,Customer 1124,Retail,7,GB,Student,500
+CUST_01125,Customer 1125,Corporate,1,KY,Engineer,8000
+CUST_01126,Customer 1126,SME,10,CN,Business Owner,50000
+CUST_01127,Customer 1127,Corporate,6,IN,Business Owner,50000
+CUST_01128,Customer 1128,Retail,4,IR,Unemployed,800
+CUST_01129,Customer 1129,Corporate,8,IR,Doctor,15000
+CUST_01130,Customer 1130,HNWI,4,CN,Engineer,8000
+CUST_01131,Customer 1131,SME,9,IN,Engineer,8000
+CUST_01132,Customer 1132,Corporate,8,KY,Unemployed,800
+CUST_01133,Customer 1133,Corporate,3,US,Consultant,10000
+CUST_01134,Customer 1134,Retail,5,RU,Unemployed,800
+CUST_01135,Customer 1135,Corporate,2,CN,Unemployed,800
+CUST_01136,Customer 1136,SME,1,GB,Consultant,10000
+CUST_01137,Customer 1137,Retail,1,GB,Doctor,15000
+CUST_01138,Customer 1138,SME,3,CN,Student,500
+CUST_01139,Customer 1139,Retail,6,GB,Consultant,10000
+CUST_01140,Customer 1140,HNWI,2,SG,Business Owner,50000
+CUST_01141,Customer 1141,SME,2,RU,Consultant,10000
+CUST_01142,Customer 1142,SME,8,IN,Doctor,15000
+CUST_01143,Customer 1143,Corporate,6,US,Engineer,8000
+CUST_01144,Customer 1144,Retail,4,SG,Politician,12000
+CUST_01145,Customer 1145,SME,5,RU,Unemployed,800
+CUST_01146,Customer 1146,Retail,4,GB,Unemployed,800
+CUST_01147,Customer 1147,Retail,9,KP,Business Owner,50000
+CUST_01148,Customer 1148,SME,4,RU,Consultant,10000
+CUST_01149,Customer 1149,Corporate,6,SG,Student,500
+CUST_01150,Customer 1150,Corporate,3,IN,Unemployed,800
+CUST_01151,Customer 1151,HNWI,2,RU,Doctor,15000
+CUST_01152,Customer 1152,HNWI,8,SG,Student,500
+CUST_01153,Customer 1153,SME,4,KY,Unemployed,800
+CUST_01154,Customer 1154,Retail,5,KY,Engineer,8000
+CUST_01155,Customer 1155,Corporate,8,RU,Engineer,8000
+CUST_01156,Customer 1156,HNWI,2,IN,Consultant,10000
+CUST_01157,Customer 1157,Retail,9,KP,Unemployed,800
+CUST_01158,Customer 1158,HNWI,5,IN,Unemployed,800
+CUST_01159,Customer 1159,Retail,9,CN,Business Owner,50000
+CUST_01160,Customer 1160,HNWI,4,SG,Unemployed,800
+CUST_01161,Customer 1161,SME,2,MY,Politician,12000
+CUST_01162,Customer 1162,Retail,10,SG,Engineer,8000
+CUST_01163,Customer 1163,SME,3,KP,Engineer,8000
+CUST_01164,Customer 1164,HNWI,7,CN,Student,500
+CUST_01165,Customer 1165,SME,10,US,Consultant,10000
+CUST_01166,Customer 1166,HNWI,4,IN,Engineer,8000
+CUST_01167,Customer 1167,Retail,1,MY,Student,500
+CUST_01168,Customer 1168,HNWI,6,US,Politician,12000
+CUST_01169,Customer 1169,Retail,3,IR,Politician,12000
+CUST_01170,Customer 1170,Corporate,10,CN,Doctor,15000
+CUST_01171,Customer 1171,Corporate,2,KP,Business Owner,50000
+CUST_01172,Customer 1172,Retail,3,RU,Doctor,15000
+CUST_01173,Customer 1173,HNWI,4,RU,Unemployed,800
+CUST_01174,Customer 1174,Retail,6,RU,Unemployed,800
+CUST_01175,Customer 1175,SME,1,MY,Business Owner,50000
+CUST_01176,Customer 1176,Retail,7,MY,Business Owner,50000
+CUST_01177,Customer 1177,SME,10,KP,Student,500
+CUST_01178,Customer 1178,HNWI,5,KY,Student,500
+CUST_01179,Customer 1179,Corporate,10,US,Doctor,15000
+CUST_01180,Customer 1180,SME,6,SG,Doctor,15000
+CUST_01181,Customer 1181,Retail,9,IR,Doctor,15000
+CUST_01182,Customer 1182,HNWI,5,CN,Student,500
+CUST_01183,Customer 1183,SME,9,US,Politician,12000
+CUST_01184,Customer 1184,Corporate,6,CN,Student,500
+CUST_01185,Customer 1185,SME,5,SG,Consultant,10000
+CUST_01186,Customer 1186,Corporate,6,RU,Politician,12000
+CUST_01187,Customer 1187,HNWI,2,IR,Politician,12000
+CUST_01188,Customer 1188,Corporate,8,KY,Doctor,15000
+CUST_01189,Customer 1189,HNWI,6,GB,Consultant,10000
+CUST_01190,Customer 1190,Retail,5,GB,Engineer,8000
+CUST_01191,Customer 1191,Corporate,3,KY,Business Owner,50000
+CUST_01192,Customer 1192,Retail,1,GB,Consultant,10000
+CUST_01193,Customer 1193,HNWI,6,IN,Politician,12000
+CUST_01194,Customer 1194,SME,7,RU,Doctor,15000
+CUST_01195,Customer 1195,SME,6,IR,Student,500
+CUST_01196,Customer 1196,SME,3,SG,Business Owner,50000
+CUST_01197,Customer 1197,Corporate,10,KP,Consultant,10000
+CUST_01198,Customer 1198,SME,4,RU,Consultant,10000
+CUST_01199,Customer 1199,Corporate,6,CN,Student,500
+CUST_01200,Customer 1200,Corporate,10,IN,Engineer,8000
+CUST_01201,Customer 1201,SME,8,IN,Politician,12000
+CUST_01202,Customer 1202,SME,3,RU,Politician,12000
+CUST_01203,Customer 1203,Corporate,7,KP,Unemployed,800
+CUST_01204,Customer 1204,Corporate,4,KY,Business Owner,50000
+CUST_01205,Customer 1205,HNWI,4,KP,Business Owner,50000
+CUST_01206,Customer 1206,HNWI,4,RU,Unemployed,800
+CUST_01207,Customer 1207,SME,7,GB,Consultant,10000
+CUST_01208,Customer 1208,SME,5,MY,Engineer,8000
+CUST_01209,Customer 1209,HNWI,9,CN,Unemployed,800
+CUST_01210,Customer 1210,SME,5,GB,Consultant,10000
+CUST_01211,Customer 1211,HNWI,1,IN,Business Owner,50000
+CUST_01212,Customer 1212,Corporate,10,KY,Politician,12000
+CUST_01213,Customer 1213,Retail,3,KP,Student,500
+CUST_01214,Customer 1214,HNWI,4,RU,Engineer,8000
+CUST_01215,Customer 1215,Retail,10,SG,Business Owner,50000
+CUST_01216,Customer 1216,Retail,8,KY,Unemployed,800
+CUST_01217,Customer 1217,Corporate,3,IN,Business Owner,50000
+CUST_01218,Customer 1218,SME,8,KP,Student,500
+CUST_01219,Customer 1219,Retail,7,US,Student,500
+CUST_01220,Customer 1220,Retail,4,RU,Politician,12000
+CUST_01221,Customer 1221,SME,3,GB,Engineer,8000
+CUST_01222,Customer 1222,HNWI,2,SG,Business Owner,50000
+CUST_01223,Customer 1223,SME,2,IR,Consultant,10000
+CUST_01224,Customer 1224,Retail,5,RU,Politician,12000
+CUST_01225,Customer 1225,SME,1,KP,Doctor,15000
+CUST_01226,Customer 1226,Retail,10,CN,Engineer,8000
+CUST_01227,Customer 1227,HNWI,2,IR,Politician,12000
+CUST_01228,Customer 1228,SME,2,IN,Doctor,15000
+CUST_01229,Customer 1229,HNWI,7,KY,Doctor,15000
+CUST_01230,Customer 1230,HNWI,9,GB,Unemployed,800
+CUST_01231,Customer 1231,Corporate,2,CN,Doctor,15000
+CUST_01232,Customer 1232,Corporate,1,IR,Politician,12000
+CUST_01233,Customer 1233,HNWI,10,SG,Engineer,8000
+CUST_01234,Customer 1234,SME,2,KY,Engineer,8000
+CUST_01235,Customer 1235,HNWI,9,IR,Student,500
+CUST_01236,Customer 1236,SME,9,RU,Student,500
+CUST_01237,Customer 1237,HNWI,4,GB,Consultant,10000
+CUST_01238,Customer 1238,HNWI,4,SG,Business Owner,50000
+CUST_01239,Customer 1239,SME,7,SG,Consultant,10000
+CUST_01240,Customer 1240,Retail,8,RU,Politician,12000
+CUST_01241,Customer 1241,SME,8,MY,Unemployed,800
+CUST_01242,Customer 1242,HNWI,10,MY,Engineer,8000
+CUST_01243,Customer 1243,SME,9,GB,Consultant,10000
+CUST_01244,Customer 1244,SME,10,IR,Unemployed,800
+CUST_01245,Customer 1245,SME,10,KP,Business Owner,50000
+CUST_01246,Customer 1246,Retail,3,IR,Business Owner,50000
+CUST_01247,Customer 1247,HNWI,7,US,Consultant,10000
+CUST_01248,Customer 1248,SME,6,RU,Consultant,10000
+CUST_01249,Customer 1249,SME,6,GB,Politician,12000
+CUST_01250,Customer 1250,Retail,6,IN,Doctor,15000
+CUST_01251,Customer 1251,HNWI,7,KP,Student,500
+CUST_01252,Customer 1252,HNWI,9,CN,Doctor,15000
+CUST_01253,Customer 1253,SME,1,MY,Doctor,15000
+CUST_01254,Customer 1254,Retail,6,RU,Consultant,10000
+CUST_01255,Customer 1255,HNWI,10,IR,Unemployed,800
+CUST_01256,Customer 1256,HNWI,5,KY,Unemployed,800
+CUST_01257,Customer 1257,Corporate,2,CN,Doctor,15000
+CUST_01258,Customer 1258,Corporate,3,IR,Doctor,15000
+CUST_01259,Customer 1259,HNWI,7,SG,Student,500
+CUST_01260,Customer 1260,SME,5,IN,Engineer,8000
+CUST_01261,Customer 1261,HNWI,2,MY,Student,500
+CUST_01262,Customer 1262,SME,3,RU,Business Owner,50000
+CUST_01263,Customer 1263,SME,9,IN,Unemployed,800
+CUST_01264,Customer 1264,HNWI,4,KY,Doctor,15000
+CUST_01265,Customer 1265,Retail,1,US,Engineer,8000
+CUST_01266,Customer 1266,HNWI,8,RU,Business Owner,50000
+CUST_01267,Customer 1267,Retail,9,CN,Engineer,8000
+CUST_01268,Customer 1268,Corporate,9,KP,Engineer,8000
+CUST_01269,Customer 1269,Retail,1,SG,Doctor,15000
+CUST_01270,Customer 1270,HNWI,5,MY,Politician,12000
+CUST_01271,Customer 1271,Retail,10,GB,Politician,12000
+CUST_01272,Customer 1272,Corporate,9,SG,Engineer,8000
+CUST_01273,Customer 1273,HNWI,7,SG,Student,500
+CUST_01274,Customer 1274,HNWI,1,IN,Politician,12000
+CUST_01275,Customer 1275,HNWI,8,MY,Unemployed,800
+CUST_01276,Customer 1276,Retail,10,RU,Unemployed,800
+CUST_01277,Customer 1277,Retail,9,SG,Engineer,8000
+CUST_01278,Customer 1278,HNWI,8,SG,Consultant,10000
+CUST_01279,Customer 1279,HNWI,5,KP,Unemployed,800
+CUST_01280,Customer 1280,HNWI,4,KP,Unemployed,800
+CUST_01281,Customer 1281,Corporate,1,MY,Politician,12000
+CUST_01282,Customer 1282,Retail,9,RU,Unemployed,800
+CUST_01283,Customer 1283,SME,6,CN,Unemployed,800
+CUST_01284,Customer 1284,HNWI,8,IN,Doctor,15000
+CUST_01285,Customer 1285,SME,10,US,Politician,12000
+CUST_01286,Customer 1286,Retail,5,GB,Consultant,10000
+CUST_01287,Customer 1287,HNWI,8,KY,Business Owner,50000
+CUST_01288,Customer 1288,HNWI,3,KY,Unemployed,800
+CUST_01289,Customer 1289,Corporate,8,CN,Student,500
+CUST_01290,Customer 1290,SME,1,CN,Engineer,8000
+CUST_01291,Customer 1291,Retail,4,IN,Politician,12000
+CUST_01292,Customer 1292,Corporate,8,IN,Student,500
+CUST_01293,Customer 1293,Retail,8,US,Doctor,15000
+CUST_01294,Customer 1294,SME,7,KP,Politician,12000
+CUST_01295,Customer 1295,Retail,10,GB,Politician,12000
+CUST_01296,Customer 1296,Corporate,1,IN,Business Owner,50000
+CUST_01297,Customer 1297,SME,7,KP,Doctor,15000
+CUST_01298,Customer 1298,Corporate,7,US,Engineer,8000
+CUST_01299,Customer 1299,Corporate,4,RU,Consultant,10000
+CUST_01300,Customer 1300,Retail,9,GB,Politician,12000
+CUST_01301,Customer 1301,HNWI,4,KY,Doctor,15000
+CUST_01302,Customer 1302,Corporate,3,KY,Student,500
+CUST_01303,Customer 1303,SME,3,KY,Unemployed,800
+CUST_01304,Customer 1304,Corporate,1,IR,Student,500
+CUST_01305,Customer 1305,Corporate,8,US,Business Owner,50000
+CUST_01306,Customer 1306,SME,3,IN,Consultant,10000
+CUST_01307,Customer 1307,SME,9,KY,Politician,12000
+CUST_01308,Customer 1308,Corporate,2,GB,Student,500
+CUST_01309,Customer 1309,Retail,9,KP,Student,500
+CUST_01310,Customer 1310,Retail,3,GB,Business Owner,50000
+CUST_01311,Customer 1311,SME,3,RU,Unemployed,800
+CUST_01312,Customer 1312,Corporate,9,GB,Consultant,10000
+CUST_01313,Customer 1313,Retail,4,IR,Doctor,15000
+CUST_01314,Customer 1314,HNWI,5,MY,Unemployed,800
+CUST_01315,Customer 1315,Corporate,9,CN,Student,500
+CUST_01316,Customer 1316,Corporate,3,GB,Doctor,15000
+CUST_01317,Customer 1317,SME,10,CN,Student,500
+CUST_01318,Customer 1318,Corporate,7,KY,Politician,12000
+CUST_01319,Customer 1319,Corporate,10,CN,Doctor,15000
+CUST_01320,Customer 1320,Retail,10,CN,Engineer,8000
+CUST_01321,Customer 1321,Corporate,7,IN,Politician,12000
+CUST_01322,Customer 1322,Retail,8,RU,Student,500
+CUST_01323,Customer 1323,Retail,3,MY,Student,500
+CUST_01324,Customer 1324,Corporate,5,MY,Consultant,10000
+CUST_01325,Customer 1325,HNWI,7,GB,Consultant,10000
+CUST_01326,Customer 1326,Retail,10,SG,Consultant,10000
+CUST_01327,Customer 1327,Retail,7,GB,Consultant,10000
+CUST_01328,Customer 1328,Corporate,4,GB,Consultant,10000
+CUST_01329,Customer 1329,Retail,10,MY,Politician,12000
+CUST_01330,Customer 1330,Retail,4,MY,Politician,12000
+CUST_01331,Customer 1331,Retail,4,US,Student,500
+CUST_01332,Customer 1332,HNWI,9,GB,Politician,12000
+CUST_01333,Customer 1333,SME,8,MY,Unemployed,800
+CUST_01334,Customer 1334,Corporate,9,KY,Consultant,10000
+CUST_01335,Customer 1335,Corporate,3,IR,Doctor,15000
+CUST_01336,Customer 1336,Retail,2,US,Politician,12000
+CUST_01337,Customer 1337,HNWI,3,KP,Student,500
+CUST_01338,Customer 1338,Retail,9,RU,Unemployed,800
+CUST_01339,Customer 1339,HNWI,6,US,Doctor,15000
+CUST_01340,Customer 1340,SME,5,RU,Consultant,10000
+CUST_01341,Customer 1341,HNWI,2,KY,Doctor,15000
+CUST_01342,Customer 1342,Retail,9,RU,Student,500
+CUST_01343,Customer 1343,HNWI,5,RU,Consultant,10000
+CUST_01344,Customer 1344,Retail,2,SG,Student,500
+CUST_01345,Customer 1345,Corporate,2,IR,Student,500
+CUST_01346,Customer 1346,Retail,8,SG,Business Owner,50000
+CUST_01347,Customer 1347,HNWI,8,IN,Doctor,15000
+CUST_01348,Customer 1348,Retail,2,CN,Politician,12000
+CUST_01349,Customer 1349,HNWI,10,KP,Doctor,15000
+CUST_01350,Customer 1350,Corporate,2,MY,Engineer,8000
+CUST_01351,Customer 1351,SME,10,GB,Consultant,10000
+CUST_01352,Customer 1352,HNWI,2,MY,Unemployed,800
+CUST_01353,Customer 1353,Retail,5,KY,Politician,12000
+CUST_01354,Customer 1354,Corporate,3,GB,Politician,12000
+CUST_01355,Customer 1355,HNWI,6,CN,Student,500
+CUST_01356,Customer 1356,SME,9,RU,Engineer,8000
+CUST_01357,Customer 1357,Retail,8,RU,Student,500
+CUST_01358,Customer 1358,Retail,5,US,Consultant,10000
+CUST_01359,Customer 1359,HNWI,7,GB,Student,500
+CUST_01360,Customer 1360,HNWI,6,SG,Business Owner,50000
+CUST_01361,Customer 1361,HNWI,8,RU,Doctor,15000
+CUST_01362,Customer 1362,SME,8,KP,Doctor,15000
+CUST_01363,Customer 1363,Retail,7,MY,Unemployed,800
+CUST_01364,Customer 1364,HNWI,1,MY,Doctor,15000
+CUST_01365,Customer 1365,HNWI,1,RU,Doctor,15000
+CUST_01366,Customer 1366,SME,6,KY,Student,500
+CUST_01367,Customer 1367,Retail,5,KP,Doctor,15000
+CUST_01368,Customer 1368,HNWI,6,CN,Consultant,10000
+CUST_01369,Customer 1369,Corporate,3,US,Unemployed,800
+CUST_01370,Customer 1370,Corporate,10,IR,Consultant,10000
+CUST_01371,Customer 1371,SME,3,CN,Doctor,15000
+CUST_01372,Customer 1372,Corporate,1,KP,Doctor,15000
+CUST_01373,Customer 1373,Corporate,10,KY,Politician,12000
+CUST_01374,Customer 1374,Retail,3,CN,Unemployed,800
+CUST_01375,Customer 1375,Corporate,1,IN,Engineer,8000
+CUST_01376,Customer 1376,Retail,3,KP,Business Owner,50000
+CUST_01377,Customer 1377,HNWI,10,IR,Student,500
+CUST_01378,Customer 1378,Corporate,2,IR,Consultant,10000
+CUST_01379,Customer 1379,Corporate,1,MY,Engineer,8000
+CUST_01380,Customer 1380,SME,6,US,Engineer,8000
+CUST_01381,Customer 1381,Retail,8,SG,Engineer,8000
+CUST_01382,Customer 1382,Corporate,7,IR,Business Owner,50000
+CUST_01383,Customer 1383,HNWI,9,US,Engineer,8000
+CUST_01384,Customer 1384,HNWI,10,US,Unemployed,800
+CUST_01385,Customer 1385,SME,1,US,Consultant,10000
+CUST_01386,Customer 1386,SME,5,KP,Consultant,10000
+CUST_01387,Customer 1387,SME,9,KY,Doctor,15000
+CUST_01388,Customer 1388,Retail,10,SG,Politician,12000
+CUST_01389,Customer 1389,SME,4,IR,Student,500
+CUST_01390,Customer 1390,Retail,7,US,Consultant,10000
+CUST_01391,Customer 1391,SME,8,IR,Student,500
+CUST_01392,Customer 1392,HNWI,2,GB,Engineer,8000
+CUST_01393,Customer 1393,SME,5,IR,Business Owner,50000
+CUST_01394,Customer 1394,Retail,6,SG,Politician,12000
+CUST_01395,Customer 1395,Retail,4,KY,Student,500
+CUST_01396,Customer 1396,HNWI,9,IR,Unemployed,800
+CUST_01397,Customer 1397,Corporate,2,KY,Student,500
+CUST_01398,Customer 1398,SME,2,SG,Unemployed,800
+CUST_01399,Customer 1399,HNWI,9,IR,Doctor,15000
+CUST_01400,Customer 1400,SME,4,RU,Consultant,10000
+CUST_01401,Customer 1401,Corporate,10,RU,Engineer,8000
+CUST_01402,Customer 1402,HNWI,1,IR,Engineer,8000
+CUST_01403,Customer 1403,Retail,10,MY,Doctor,15000
+CUST_01404,Customer 1404,Retail,10,RU,Student,500
+CUST_01405,Customer 1405,Corporate,3,IN,Unemployed,800
+CUST_01406,Customer 1406,Corporate,8,SG,Business Owner,50000
+CUST_01407,Customer 1407,SME,5,SG,Doctor,15000
+CUST_01408,Customer 1408,SME,10,IN,Unemployed,800
+CUST_01409,Customer 1409,SME,8,KP,Engineer,8000
+CUST_01410,Customer 1410,Corporate,8,SG,Student,500
+CUST_01411,Customer 1411,SME,3,CN,Unemployed,800
+CUST_01412,Customer 1412,Retail,4,US,Engineer,8000
+CUST_01413,Customer 1413,Corporate,9,IN,Student,500
+CUST_01414,Customer 1414,Corporate,5,KP,Politician,12000
+CUST_01415,Customer 1415,Corporate,9,CN,Consultant,10000
+CUST_01416,Customer 1416,Retail,4,KY,Business Owner,50000
+CUST_01417,Customer 1417,Retail,5,KY,Engineer,8000
+CUST_01418,Customer 1418,HNWI,3,IR,Engineer,8000
+CUST_01419,Customer 1419,SME,5,US,Business Owner,50000
+CUST_01420,Customer 1420,HNWI,6,CN,Unemployed,800
+CUST_01421,Customer 1421,Retail,2,US,Business Owner,50000
+CUST_01422,Customer 1422,Corporate,5,IR,Unemployed,800
+CUST_01423,Customer 1423,HNWI,1,IN,Doctor,15000
+CUST_01424,Customer 1424,HNWI,5,MY,Business Owner,50000
+CUST_01425,Customer 1425,HNWI,5,IR,Student,500
+CUST_01426,Customer 1426,SME,5,SG,Business Owner,50000
+CUST_01427,Customer 1427,SME,3,KY,Unemployed,800
+CUST_01428,Customer 1428,Corporate,7,KY,Politician,12000
+CUST_01429,Customer 1429,HNWI,3,RU,Politician,12000
+CUST_01430,Customer 1430,HNWI,6,RU,Student,500
+CUST_01431,Customer 1431,Corporate,4,IR,Business Owner,50000
+CUST_01432,Customer 1432,Corporate,3,CN,Unemployed,800
+CUST_01433,Customer 1433,HNWI,1,MY,Student,500
+CUST_01434,Customer 1434,SME,5,US,Engineer,8000
+CUST_01435,Customer 1435,Retail,7,RU,Doctor,15000
+CUST_01436,Customer 1436,SME,4,CN,Unemployed,800
+CUST_01437,Customer 1437,SME,1,CN,Unemployed,800
+CUST_01438,Customer 1438,Corporate,9,MY,Politician,12000
+CUST_01439,Customer 1439,HNWI,2,CN,Student,500
+CUST_01440,Customer 1440,SME,7,GB,Doctor,15000
+CUST_01441,Customer 1441,Retail,4,IR,Business Owner,50000
+CUST_01442,Customer 1442,Retail,8,IR,Unemployed,800
+CUST_01443,Customer 1443,Corporate,9,CN,Unemployed,800
+CUST_01444,Customer 1444,Retail,10,SG,Business Owner,50000
+CUST_01445,Customer 1445,Retail,7,MY,Consultant,10000
+CUST_01446,Customer 1446,HNWI,3,RU,Unemployed,800
+CUST_01447,Customer 1447,SME,2,KY,Politician,12000
+CUST_01448,Customer 1448,Retail,5,KY,Business Owner,50000
+CUST_01449,Customer 1449,Corporate,5,CN,Consultant,10000
+CUST_01450,Customer 1450,SME,5,MY,Consultant,10000
+CUST_01451,Customer 1451,Corporate,8,GB,Unemployed,800
+CUST_01452,Customer 1452,HNWI,10,US,Consultant,10000
+CUST_01453,Customer 1453,SME,3,SG,Unemployed,800
+CUST_01454,Customer 1454,Corporate,5,MY,Business Owner,50000
+CUST_01455,Customer 1455,HNWI,6,IN,Doctor,15000
+CUST_01456,Customer 1456,SME,8,IN,Engineer,8000
+CUST_01457,Customer 1457,Retail,10,KP,Unemployed,800
+CUST_01458,Customer 1458,SME,10,MY,Student,500
+CUST_01459,Customer 1459,SME,7,IN,Doctor,15000
+CUST_01460,Customer 1460,Retail,3,US,Engineer,8000
+CUST_01461,Customer 1461,Retail,3,KY,Politician,12000
+CUST_01462,Customer 1462,Corporate,3,IN,Unemployed,800
+CUST_01463,Customer 1463,Corporate,1,CN,Business Owner,50000
+CUST_01464,Customer 1464,Retail,1,RU,Engineer,8000
+CUST_01465,Customer 1465,HNWI,3,IN,Doctor,15000
+CUST_01466,Customer 1466,SME,3,IN,Consultant,10000
+CUST_01467,Customer 1467,SME,5,SG,Business Owner,50000
+CUST_01468,Customer 1468,Retail,2,SG,Student,500
+CUST_01469,Customer 1469,Retail,2,IR,Politician,12000
+CUST_01470,Customer 1470,HNWI,10,KP,Business Owner,50000
+CUST_01471,Customer 1471,Retail,8,IN,Engineer,8000
+CUST_01472,Customer 1472,SME,10,RU,Engineer,8000
+CUST_01473,Customer 1473,Retail,9,SG,Consultant,10000
+CUST_01474,Customer 1474,HNWI,6,IR,Business Owner,50000
+CUST_01475,Customer 1475,SME,9,KP,Student,500
+CUST_01476,Customer 1476,Corporate,7,MY,Doctor,15000
+CUST_01477,Customer 1477,Corporate,9,IN,Doctor,15000
+CUST_01478,Customer 1478,Corporate,2,IN,Unemployed,800
+CUST_01479,Customer 1479,HNWI,6,IR,Consultant,10000
+CUST_01480,Customer 1480,Retail,5,KP,Consultant,10000
+CUST_01481,Customer 1481,Retail,2,IR,Consultant,10000
+CUST_01482,Customer 1482,HNWI,10,RU,Politician,12000
+CUST_01483,Customer 1483,SME,10,US,Unemployed,800
+CUST_01484,Customer 1484,SME,4,SG,Doctor,15000
+CUST_01485,Customer 1485,Corporate,10,MY,Engineer,8000
+CUST_01486,Customer 1486,HNWI,6,CN,Student,500
+CUST_01487,Customer 1487,Retail,1,KP,Business Owner,50000
+CUST_01488,Customer 1488,HNWI,9,KY,Engineer,8000
+CUST_01489,Customer 1489,HNWI,9,MY,Business Owner,50000
+CUST_01490,Customer 1490,Retail,6,US,Consultant,10000
+CUST_01491,Customer 1491,SME,4,KP,Student,500
+CUST_01492,Customer 1492,Corporate,2,CN,Student,500
+CUST_01493,Customer 1493,Corporate,3,CN,Student,500
+CUST_01494,Customer 1494,Retail,4,IR,Engineer,8000
+CUST_01495,Customer 1495,HNWI,4,KY,Consultant,10000
+CUST_01496,Customer 1496,SME,6,KP,Student,500
+CUST_01497,Customer 1497,Retail,4,IN,Consultant,10000
+CUST_01498,Customer 1498,HNWI,2,MY,Student,500
+CUST_01499,Customer 1499,SME,2,KY,Student,500
+CUST_01500,Customer 1500,Retail,1,SG,Engineer,8000
