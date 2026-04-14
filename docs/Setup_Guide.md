@@ -234,10 +234,11 @@ This guide provides deep-dive, click-by-click instructions to implement the **Mu
 4. **Visualize the Results**:
    - Click the **Results** icon (the chart/graph icon) in the test row.
    - **Output Variables**: Click the `Output Variables` tab. Look for `Global_Alert_Value` and `Alert_Priority`. Verify that "URGENT" alerts are being generated.
-   - **Path Tracking (Magic Visualizer)**: 
-     - Click **Decision Path** in the left sidebar of the results.
-     - Select a specific record (row).
-     - **Visual Flow**: This shows exactly which nodes in your 5-Stage Shield were executed. It will highlight your DS2 Velocity node, your ML Model, and your DS2 Scoring node in sequence.
+    - **Path Tracking (Magic Visualizer)**: 
+      - Click **Analysis and Plot** under the **Decision Path Tracking** folder in the left sidebar.
+      - **Select a Record**: Click on a specific row/PathID in the table. 
+        - *Tip: Look for a PathID associated with a high score (or filter the Output tab first to find the exact row number).*
+      - **Visual Flow**: Once a row is selected, the diagram will highlight the specific nodes (e.g., Python, Model, Rule Set) that were executed for that single transaction.
      - **Rule Logic**: Click the node to see the input/output transformation at each stage.
 
 ---

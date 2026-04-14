@@ -75,7 +75,7 @@ To see the system in action, look at the "Student" typology in our demo data.
     1. **Stage 2** flags the turnover ratio as extreme.
     2. **Stage 3** (The Gradient Boosting model) identifies the "Income Inconsistency."
     3. **Stage 4** finds a connection to a sanctioned jurisdiction ("Oligarch Holdings").
-- **The Result**: The `Global_Alert_Value` hits 100, and the case is filed with a complete audit trail before the analyst even finishes their coffee.
+- **The Result**: The `Global_Alert_Value` hits 100 on Account `ACC_01198` ($454k transaction), and the case is filed with a complete audit trail. In fact, our system distilled over 100,000 transactions down to just **3 urgent alerts**—allowing the analyst to focus on the highest probability risks immediately.
 
 ---
 
