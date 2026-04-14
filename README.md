@@ -62,4 +62,3 @@ python scripts/data_generator.py
 - **Enterprise Grade Logic**: Uses Lookups, DS2/Python nodes, and weighted risk scoring to simulate true complexity.
 
 ---
-*Created by the Advanced Agentic Coding team at Google DeepMind.*
